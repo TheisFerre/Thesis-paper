@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "hyperparams_edgeconv.py", line 20, in <module>
+    open_file = open("../../Thesis/data/processed/202106-citibike-tripdata.pkl", "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '../../Thesis/data/processed/202106-citibike-tripdata.pkl'

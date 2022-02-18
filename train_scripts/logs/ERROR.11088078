@@ -1,0 +1,127 @@
+INFO:__main__:{'data': '/zhome/2b/7/117471/Thesis/data/processed/T-Drive-taxi-pickups-GRID.pkl', 'model': 'edgeconv', 'num_history': 12, 'train_size': 0.9, 'batch_size': 24, 'epochs': 150, 'weight_decay': 1e-12, 'learning_rate': 0.0005, 'lr_factor': 0.1, 'lr_patience': 25, 'hidden_size': 46, 'optimizer': 'RMSprop', 'node_out_feature': 10, 'dropout': 0.2, 'k_neighbours': 20, 'graph_hidden_size': 32, 'save_dir': '/zhome/2b/7/117471/Thesis/models/T-DRIVE', 'gpu': True}
+INFO:__main__:<_io.BufferedReader name='/zhome/2b/7/117471/Thesis/data/processed/T-Drive-taxi-pickups-GRID.pkl'>
+INFO:__main__:Fitting model at time: 2021-11-18 09:06:55.268251
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.020494734149463
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.056442947370943
+INFO:__main__:----------
+INFO:__main__:Epoch number 6
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9510634410756816
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0514402343953897
+INFO:__main__:----------
+INFO:__main__:Epoch number 11
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.995128937247268
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0413937910612454
+INFO:__main__:----------
+INFO:__main__:Epoch number 16
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9604583362275232
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0391368982741385
+INFO:__main__:----------
+INFO:__main__:Epoch number 21
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0534187739135688
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.036329935577686
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9302991583327401
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0366925625055665
+INFO:__main__:----------
+INFO:__main__:Epoch number 31
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9686918189923058
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0353644971286042
+INFO:__main__:----------
+INFO:__main__:Epoch number 36
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9636499378442831
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0395996884962366
+INFO:__main__:----------
+INFO:__main__:Epoch number 41
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9860885178002995
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0368385895354286
+INFO:__main__:----------
+INFO:__main__:Epoch number 46
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9977065350260167
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0375549163991598
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0462982524833535
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0348788483519684
+INFO:__main__:----------
+INFO:__main__:Epoch number 56
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9838685241480929
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.035015514091649
+INFO:__main__:----------
+INFO:__main__:Epoch number 61
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9858988013232146
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0356727319283405
+INFO:__main__:----------
+INFO:__main__:Epoch number 66
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9618574200007489
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0347260354901282
+INFO:__main__:----------
+INFO:__main__:Epoch number 71
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.025461510524163
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0333368975567618
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.95851349001084
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.035615754256016
+INFO:__main__:----------
+INFO:__main__:Epoch number 81
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0016184415781466
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0362076512093827
+INFO:__main__:----------
+INFO:__main__:Epoch number 86
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.016670202746782
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0339309061750193
+INFO:__main__:----------
+INFO:__main__:Epoch number 91
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0816314041113868
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0357264261990533
+INFO:__main__:----------
+INFO:__main__:Epoch number 96
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9256662774890212
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.035406060935237
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9578380427810347
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0350541550294308
+INFO:__main__:----------
+INFO:__main__:Epoch number 106
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0094144839033283
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0368327258542154
+INFO:__main__:----------
+INFO:__main__:Epoch number 111
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9429006968637828
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.036499533800829
+INFO:__main__:----------
+INFO:__main__:Epoch number 116
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0832143712139182
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.03593358057814
+INFO:__main__:----------
+INFO:__main__:Epoch number 121
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0653064771925658
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0355236049413292
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9397873947992458
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0346377819746997
+INFO:__main__:----------
+INFO:__main__:Epoch number 131
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.01325510285896
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0356141427207093
+INFO:__main__:----------
+INFO:__main__:Epoch number 136
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9799119652647952
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0363707705112257
+INFO:__main__:----------
+INFO:__main__:Epoch number 141
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9528010187721998
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.034961207026792
+INFO:__main__:----------
+INFO:__main__:Epoch number 146
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9184336006113789
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0362388276163956
+INFO:__main__:----------
+INFO:__main__:Total training time: 0:2:3
+INFO:__main__:Average Epoch time: 0.01 minutes
+INFO:__main__:Saving files to /zhome/2b/7/117471/Thesis/models/T-DRIVE/T-Drive-taxi-pickups-GRID
+INFO:__main__:Files saved successfully

@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/predict_all_data.py", line 124, in <module>
+    with open(f"{edgeconv_abs_path}/settings.json") as settings_json:
+FileNotFoundError: [Errno 2] No such file or directory: '/zhome/2b/7/117471/Thesis/models/metalearning_non-augmented/losses/settings.json'

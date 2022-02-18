@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/finetune_meta.py", line 151, in <module>
+    open_file = open(args.data, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/zhome/2b/7/117471/Thesis/data/processed/metalearning/citibike-tripdata-REG.pkl'

@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/compare_metalearning.py", line 382, in <module>
+    if finetuned_model is None:
+NameError: name 'finetuned_model' is not defined

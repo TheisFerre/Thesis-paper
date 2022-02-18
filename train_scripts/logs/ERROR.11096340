@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/performance_ablation.py", line 160, in <module>
+    losses_dict = eval_model(model, exclude_datalist)
+  File "/zhome/2b/7/117471/Thesis/src/models/performance_ablation.py", line 89, in eval_model
+    for dataset_file in os.listdir(DATASET_FOLDER):
+FileNotFoundError: [Errno 2] No such file or directory: '/zhome/2b/7/117471/Thesis/data/processed/aglation-non_augmented6'

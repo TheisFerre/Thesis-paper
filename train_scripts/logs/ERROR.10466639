@@ -1,0 +1,45 @@
+INFO:__main__:Fitting model at time: 2021-09-22 08:11:35.779595
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.8298372512529976
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0465419652341819
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7894981296387142
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8352603732362369
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7865345043745301
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8279950471795573
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7852755108090502
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8267402091924517
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7825918622111401
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.824103629854662
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7795750999806956
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8237044144304897
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7786722810958322
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8213680877949113
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7742808425302496
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8240411621343021
+INFO:__main__:----------
+INFO:__main__:Epoch number 201
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.771428427072665
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8161210561292734
+INFO:__main__:----------
+INFO:__main__:Epoch number 226
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7700060856247046
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8158894048196187
+INFO:__main__:----------
+INFO:__main__:Total training time: 5:8:13
+INFO:__main__:Average Epoch time: 1.23 minutes
+INFO:__main__:Saving files to /zhome/2b/7/117471/Thesis/models/baselinegat_2021-09-22 13:19:49
+INFO:__main__:Files saved successfully

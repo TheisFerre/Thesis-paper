@@ -1,0 +1,48 @@
+INFO:__main__:{'data': '/zhome/2b/7/117471/Thesis/data/processed/metalearning/citibike-tripdata-REGION.pkl', 'model_path': '/zhome/2b/7/117471/Thesis/metalearning/2021-10-10T15:26:12.999216', 'train_size': 0.9, 'batch_size': 20, 'epochs': 150, 'weight_decay': 1e-10, 'learning_rate': 0.0005, 'lr_factor': 0.1, 'lr_patience': 25, 'optimizer': 'RMSprop', 'gpu': True}
+INFO:__main__:Fitting model at time: 2021-10-10 20:39:49.696184
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.923145188639344
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8883863541095525
+INFO:__main__:----------
+INFO:__main__:Epoch number 6
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9146281287750601
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8610642547396223
+INFO:__main__:----------
+INFO:__main__:Epoch number 11
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9128510711258244
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8547935750956044
+INFO:__main__:----------
+INFO:__main__:Epoch number 16
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9134088328054003
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8519407200757877
+INFO:__main__:----------
+INFO:__main__:Epoch number 21
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9119900510751844
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8536761271640301
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.911104285434463
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8544160946740479
+INFO:__main__:----------
+INFO:__main__:Epoch number 31
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9100734970582186
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8504465313603301
+INFO:__main__:----------
+INFO:__main__:Epoch number 36
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9095961858974836
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8498325258137465
+INFO:__main__:----------
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/finetune_meta.py", line 164, in <module>
+    model, train_loss, test_loss = finetune_model(
+  File "/zhome/2b/7/117471/Thesis/src/models/finetune_meta.py", line 99, in finetune_model
+    out = model(batch.to(DEVICE))
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/2b/7/117471/Thesis/src/models/models.py", line 565, in forward
+    x = self.edgeconv1(batched_data.x, batch=batched_data.batch)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric/nn/conv/edge_conv.py", line 112, in forward
+    edge_index = knn(x[0], x[1], self.k, b[0], b[1],
+KeyboardInterrupt

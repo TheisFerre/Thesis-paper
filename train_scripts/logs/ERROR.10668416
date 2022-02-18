@@ -1,0 +1,11 @@
+INFO:__main__:{'data': '/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/metalearning_augmented/GM2017-july-sep-HOUR8-REGION.pkl', 'model': 'edgeconv', 'num_history': 12, 'train_size': 0.9, 'batch_size': 24, 'epochs': 2, 'weight_decay': 1e-12, 'learning_rate': 0.0005, 'lr_factor': 0.1, 'lr_patience': 25, 'hidden_size': 46, 'optimizer': 'RMSprop', 'node_out_feature': 10, 'dropout': 0.2, 'k_neighbours': 20, 'graph_hidden_size': 32, 'save_dir': '/zhome/2b/7/117471/Thesis/models/metalearning_augmented', 'gpu': True}
+INFO:__main__:<_io.BufferedReader name='/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/metalearning_augmented/GM2017-july-sep-HOUR8-REGION.pkl'>
+INFO:__main__:Fitting model at time: 2021-10-20 09:01:14.575961
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0079232946012107
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0150309659434216
+INFO:__main__:----------
+INFO:__main__:Total training time: 0:0:38
+INFO:__main__:Average Epoch time: 0.32 minutes
+INFO:__main__:Saving files to /zhome/2b/7/117471/Thesis/models/metalearning_augmented/GM2017-july-sep-HOUR8-REGION
+INFO:__main__:Files saved successfully

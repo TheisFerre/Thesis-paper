@@ -1,0 +1,6 @@
+usage: train_meta.py [-h] [-d DATA_DIR] [-t TRAIN_SIZE] [-b BATCH_TASK_SIZE]
+                     [-k K_SHOT] [-a ADAPTATION_STEPS] [-e EPOCHS]
+                     [-alr ADAPT_LR] [-mlr META_LR] [-ld LOG_DIR]
+                     [-ex EXCLUDE] [-hs HIDDEN_SIZE] [-dp DROPOUT_P]
+                     [-no NODE_OUT_FEATURES] [-g]
+train_meta.py: error: argument -ex/--exclude: expected one argument

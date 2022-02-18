@@ -1,0 +1,14 @@
+INFO:__main__:Fitting model at time: 2021-09-02 18:52:29.762749
+Traceback (most recent call last):
+  File "train_model.py", line 171, in <module>
+    model, train_loss, test_loss = train_model(
+  File "train_model.py", line 53, in train_model
+    model = Edgeconvmodel(
+  File "/zhome/2b/7/117471/Thesis/src/models/models.py", line 534, in __init__
+    torch.nn.Linear(32, node_out_features),
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/linear.py", line 81, in __init__
+    self.weight = Parameter(torch.empty((out_features, in_features), **factory_kwargs))
+TypeError: empty() received an invalid combination of arguments - got (tuple, dtype=NoneType, device=NoneType), but expected one of:
+ * (tuple of ints size, *, tuple of names names, torch.memory_format memory_format, torch.dtype dtype, torch.layout layout, torch.device device, bool pin_memory, bool requires_grad)
+ * (tuple of ints size, *, torch.memory_format memory_format, Tensor out, torch.dtype dtype, torch.layout layout, torch.device device, bool pin_memory, bool requires_grad)
+

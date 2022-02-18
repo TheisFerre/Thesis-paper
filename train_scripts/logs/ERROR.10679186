@@ -1,0 +1,12 @@
+usage: finetune_meta.py [-h] [-d DATA] [-m MODEL_PATH] [-t TRAIN_SIZE]
+                        [-b BATCH_SIZE] [-e EPOCHS] [-wd WEIGHT_DECAY]
+                        [-lr LEARNING_RATE] [-sd] [-f LR_FACTOR]
+                        [-p LR_PATIENCE] [-o OPTIMIZER] [-g]
+finetune_meta.py: error: unrecognized arguments:  
+/zhome/2b/7/117471/.lsbatch/1634903386.10679186.shell: line 33: --train_size: command not found
+usage: finetune_edgeconv.py [-h] [-d DATA] [-m MODEL_PATH] [-t TRAIN_SIZE]
+                            [-b BATCH_SIZE] [-e EPOCHS] [-wd WEIGHT_DECAY]
+                            [-lr LEARNING_RATE] [-sd] [-f LR_FACTOR]
+                            [-p LR_PATIENCE] [-o OPTIMIZER] [-g]
+finetune_edgeconv.py: error: unrecognized arguments:  
+/zhome/2b/7/117471/.lsbatch/1634903386.10679186.shell: line 37: --train_size: command not found

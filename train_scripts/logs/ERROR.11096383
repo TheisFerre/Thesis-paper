@@ -1,0 +1,9 @@
+INFO:__main__:{'data': '/zhome/2b/7/117471/Thesis/data/processed/metalearning/capitalbikeshare-tripdata-HOUR1-GRID10.pkl', 'model_path': '/zhome/2b/7/117471/Thesis/CASESTUDY/non-augmented/2021-11-03T14:53:15.962247', 'train_size': 0.9, 'batch_size': 20, 'epochs': 150, 'weight_decay': 1e-10, 'learning_rate': 0.0005, 'save_dir': '/zhome/2b/7/117471/Thesis/CASESTUDY/metalearn_finetuned_multiple', 'lr_factor': 0.1, 'lr_patience': 25, 'optimizer': 'RMSprop', 'gpu': True}
+INFO:__main__:<_io.BufferedReader name='/zhome/2b/7/117471/Thesis/data/processed/metalearning/capitalbikeshare-tripdata-HOUR1-GRID10.pkl'>
+INFO:__main__:Fitting model at time: 2021-11-18 12:48:02.273974
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/train_multiple_metalearn.py", line 181, in <module>
+    model, train_loss, test_loss = train_model(
+  File "/zhome/2b/7/117471/Thesis/src/models/train_multiple_metalearn.py", line 79, in train_model
+    k=k,
+NameError: name 'k' is not defined

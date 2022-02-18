@@ -1,0 +1,9 @@
+INFO:__main__:{'data': '/zhome/2b/7/117471/Thesis/data/processed/metalearning/citibike-tripdata-GRID.pkl', 'model_path': '/zhome/2b/7/117471/Thesis/metalearning/2021-10-04T13:45:48.841581', 'train_size': 0.9, 'batch_size': 20, 'epochs': 2, 'weight_decay': 1e-10, 'learning_rate': 0.001, 'lr_factor': 0.1, 'lr_patience': 15, 'optimizer': 'SGD', 'gpu': True}
+INFO:__main__:Fitting model at time: 2021-10-04 15:41:29.108040
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6030417866670458
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6448989008753073
+INFO:__main__:----------
+INFO:__main__:Total training time: 0:0:32
+INFO:__main__:Average Epoch time: 0.28 minutes
+INFO:__main__:Saving files to: /zhome/2b/7/117471/Thesis/metalearning/2021-10-04T13:45:48.841581

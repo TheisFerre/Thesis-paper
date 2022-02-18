@@ -1,0 +1,7 @@
+INFO:__main__:Fitting model at time: 2021-09-09 09:28:05.834614
+Traceback (most recent call last):
+  File "train_model.py", line 173, in <module>
+    model, train_loss, test_loss = train_model(
+  File "train_model.py", line 65, in train_model
+    encoder = Encoder(
+TypeError: __init__() got an unexpected keyword argument 'dropout_p'

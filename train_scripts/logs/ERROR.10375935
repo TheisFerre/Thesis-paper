@@ -1,0 +1,45 @@
+INFO:__main__:Fitting model at time: 2021-09-13 18:39:42.368077
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.8339532936722432
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.060849913969215
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7672485097418625
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8100045929442984
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7488157307571539
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8174131768350918
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7396163034488192
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7948513140280064
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7331841740881092
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7843588105464919
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7287522107089948
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.776567459666266
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7230641778388968
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7666886760029085
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7211942556600357
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7697673256376284
+INFO:__main__:----------
+INFO:__main__:Epoch number 201
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7171732215473415
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7770780152278655
+INFO:__main__:----------
+INFO:__main__:Epoch number 226
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7258096551223943
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8104431039956653
+INFO:__main__:----------
+INFO:__main__:Total training time: 6:32:25
+INFO:__main__:Average Epoch time: 1.57 minutes
+INFO:__main__:Saving files to /zhome/2b/7/117471/Thesis/models/edgeconv_2021-09-14 01:12:07
+INFO:__main__:Files saved successfully

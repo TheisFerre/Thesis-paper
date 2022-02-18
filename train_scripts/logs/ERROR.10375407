@@ -1,0 +1,43 @@
+INFO:__main__:Fitting model at time: 2021-09-13 14:13:06.995492
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.8150136943574072
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0635875927682579
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7667730336384029
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8001713919328903
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7568190092505418
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7854640366910077
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7416082335613716
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7887751320388232
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7272419167445058
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7762880057016406
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.71894853210567
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7736430689693536
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7143508993535663
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7810138202343788
+INFO:__main__:----------
+Traceback (most recent call last):
+  File "train_model.py", line 181, in <module>
+    model, train_loss, test_loss = train_model(
+  File "train_model.py", line 123, in train_model
+    out = model(batch.to(DEVICE))
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/2b/7/117471/Thesis/src/models/models.py", line 572, in forward
+    out, _ = self.lstm(lstm_inputs)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/rnn.py", line 679, in forward
+    result = _VF.lstm(input, hx, self._flat_weights, self.bias, self.num_layers,
+KeyboardInterrupt

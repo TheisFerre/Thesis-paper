@@ -1,0 +1,61 @@
+Traceback (most recent call last):
+  File "/appl/python/3.8.11/lib/python3.8/inspect.py", line 2270, in _signature_from_callable
+    partialmethod = obj._partialmethod
+AttributeError: 'function' object has no attribute '_partialmethod'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/train_meta.py", line 3, in <module>
+    from src.models.models import BaselineGATLSTM, Edgeconvmodel, GATLSTM, Encoder, Decoder, STGNNModel, BaselineGNNLSTM
+  File "/zhome/2b/7/117471/Thesis/src/models/models.py", line 4, in <module>
+    from torch_geometric_temporal.signal import StaticGraphTemporalSignal
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric_temporal/__init__.py", line 1, in <module>
+    from torch_geometric_temporal.nn import *
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric_temporal/nn/__init__.py", line 1, in <module>
+    from .recurrent import *
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric_temporal/nn/recurrent/__init__.py", line 1, in <module>
+    from .gconv_gru import GConvGRU
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric_temporal/nn/recurrent/gconv_gru.py", line 2, in <module>
+    from torch_geometric.nn import ChebConv
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric/nn/__init__.py", line 11, in <module>
+    from .models import *  # noqa
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric/nn/models/__init__.py", line 2, in <module>
+    from .node2vec import Node2Vec
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric/nn/models/node2vec.py", line 5, in <module>
+    from sklearn.linear_model import LogisticRegression
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/sklearn/__init__.py", line 82, in <module>
+    from .base import clone
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/sklearn/base.py", line 17, in <module>
+    from .utils import _IS_32BIT
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/sklearn/utils/__init__.py", line 23, in <module>
+    from .class_weight import compute_class_weight, compute_sample_weight
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/sklearn/utils/class_weight.py", line 7, in <module>
+    from .validation import _deprecate_positional_args
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/sklearn/utils/validation.py", line 26, in <module>
+    from .fixes import _object_dtype_isnan, parse_version
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/sklearn/utils/fixes.py", line 20, in <module>
+    import scipy.stats
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/scipy/stats/__init__.py", line 441, in <module>
+    from .stats import *
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/scipy/stats/stats.py", line 43, in <module>
+    from . import distributions
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/scipy/stats/distributions.py", line 11, in <module>
+    from . import _discrete_distns
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/scipy/stats/_discrete_distns.py", line 99, in <module>
+    binom = binom_gen(name='binom')
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/scipy/stats/_distn_infrastructure.py", line 2983, in __init__
+    self._construct_argparser(meths_to_inspect=[self._pmf, self._cdf],
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/scipy/stats/_distn_infrastructure.py", line 750, in _construct_argparser
+    shapes_args = _getfullargspec(meth)  # NB does not contain self
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/scipy/_lib/_util.py", line 370, in getfullargspec_no_self
+    sig = inspect.signature(func)
+  File "/appl/python/3.8.11/lib/python3.8/inspect.py", line 3105, in signature
+    return Signature.from_callable(obj, follow_wrapped=follow_wrapped)
+  File "/appl/python/3.8.11/lib/python3.8/inspect.py", line 2854, in from_callable
+    return _signature_from_callable(obj, sigcls=cls,
+  File "/appl/python/3.8.11/lib/python3.8/inspect.py", line 2233, in _signature_from_callable
+    sig = _signature_from_callable(
+  File "/appl/python/3.8.11/lib/python3.8/inspect.py", line 2270, in _signature_from_callable
+    partialmethod = obj._partialmethod
+KeyboardInterrupt

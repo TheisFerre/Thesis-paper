@@ -1,0 +1,73 @@
+INFO:__main__:Starting search: 2021-09-01 16:43:19.870437
+[32m[I 2021-09-01 16:43:19,870][0m A new study created in memory with name: no-name-ed80c0b5-2b04-4dd9-bdc0-c584bdb87ea1[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0079325818816867
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0027137333174807
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6200810406046139
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.661887605299132
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6059265976103657
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6643756576850629
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5990082706145083
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6623322178450958
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5925522150030195
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6655958014040388
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5874913980426931
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6581547433520655
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5887185199552901
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6590570557105503
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5851709876406627
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6933200878779339
+INFO:__main__:----------
+INFO:__main__:Epoch number 201
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5858654345240721
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6612251701813119
+INFO:__main__:----------
+[32m[I 2021-09-01 16:50:35,608][0m Trial 0 finished with value: 0.4864844083786011 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 19, 'hidden_size': 29, 'dropout_p': 0.38351682022961464, 'K': 30, 'weight_decay': 6.4582050605273724e-06, 'lr': 0.00014837702705691765, 'epochs': 210}. Best is trial 0 with value: 0.4864844083786011.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.005129615060117
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9899615050387246
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0053973736672648
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.983334026228666
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0022260506105243
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.000845660822721
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0026925415458894
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.014051215721791
+INFO:__main__:----------
+Traceback (most recent call last):
+  File "hyperparams_edgeconv.py", line 129, in <module>
+    study.optimize(objective, n_trials=75)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/optuna/study/study.py", line 400, in optimize
+    _optimize(
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/optuna/study/_optimize.py", line 66, in _optimize
+    _optimize_sequential(
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/optuna/study/_optimize.py", line 163, in _optimize_sequential
+    trial = _run_trial(study, func, catch)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/optuna/study/_optimize.py", line 213, in _run_trial
+    value_or_values = func(trial)
+  File "hyperparams_edgeconv.py", line 95, in objective
+    loss.backward()
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/_tensor.py", line 255, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, inputs=inputs)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/autograd/__init__.py", line 147, in backward
+    Variable._execution_engine.run_backward(
+KeyboardInterrupt

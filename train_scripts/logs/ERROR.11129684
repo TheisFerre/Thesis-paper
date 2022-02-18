@@ -1,0 +1,37 @@
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/performance_ablation.py", line 8, in <module>
+    from src.data.process_dataset import Dataset
+  File "/zhome/2b/7/117471/Thesis/src/data/process_dataset.py", line 6, in <module>
+    from torch_geometric_temporal.signal import StaticGraphTemporalSignal  # , temporal_signal_split
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric_temporal/__init__.py", line 1, in <module>
+    from torch_geometric_temporal.nn import *
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric_temporal/nn/__init__.py", line 1, in <module>
+    from .recurrent import *
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric_temporal/nn/recurrent/__init__.py", line 1, in <module>
+    from .gconv_gru import GConvGRU
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric_temporal/nn/recurrent/gconv_gru.py", line 2, in <module>
+    from torch_geometric.nn import ChebConv
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric/__init__.py", line 5, in <module>
+    import torch_geometric.data
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric/data/__init__.py", line 1, in <module>
+    from .data import Data
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric/data/data.py", line 9, in <module>
+    from torch_geometric.utils import (contains_isolated_nodes,
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric/utils/__init__.py", line 20, in <module>
+    from .convert import to_scipy_sparse_matrix, from_scipy_sparse_matrix
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric/utils/convert.py", line 7, in <module>
+    import networkx as nx
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/networkx/__init__.py", line 79, in <module>
+    from networkx import algorithms
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/networkx/algorithms/__init__.py", line 64, in <module>
+    from networkx.algorithms import node_classification
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/networkx/algorithms/node_classification/__init__.py", line 21, in <module>
+    from networkx.algorithms.node_classification.hmn import *
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 914, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1407, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1379, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1510, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1553, in _fill_cache
+KeyboardInterrupt

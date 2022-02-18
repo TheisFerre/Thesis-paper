@@ -1,0 +1,11 @@
+Starting:
+Best trial:
+  Value:  0.33704038461049396
+  Params: 
+    optimizer: RMSprop
+    node_out_features: 16
+    hidden_size: 59
+    dropout_p: 0.2044261547283839
+    K: 28
+    weight_decay: 6.896019373990359e-05
+    lr: 0.0010937363029848701

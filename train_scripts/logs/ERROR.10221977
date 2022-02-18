@@ -1,0 +1,111 @@
+INFO:__main__:Starting search: 2021-09-01 16:57:58.941088
+[32m[I 2021-09-01 16:57:58,941][0m A new study created in memory with name: no-name-9be3f64b-24fe-4ded-b978-d1fa94903070[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.1170893213248436
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0435876807660658
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5830545837964097
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5971160391985063
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5809547259972433
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6001105104109014
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5580793025840658
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5698835336060611
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5395656700630809
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6098433105196107
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5263652577361885
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5959535333016545
+INFO:__main__:----------
+[32m[I 2021-09-01 17:02:31,883][0m Trial 0 finished with value: 0.31127120057741803 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 29, 'hidden_size': 30, 'dropout_p': 0.22773802594429138, 'K': 19, 'weight_decay': 4.9359440589556115e-06, 'lr': 0.005068324300535166}. Best is trial 0 with value: 0.31127120057741803.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.007972185493722
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0136374171873979
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.8715303293488847
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9334425437985946
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.709241513928148
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7641080243382965
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.660629108127062
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7557595685701616
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6334852506989184
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7591694222605078
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6242468242886154
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8127298396815558
+INFO:__main__:----------
+[32m[I 2021-09-01 17:06:57,088][0m Trial 1 finished with value: 0.5874295433362325 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 12, 'hidden_size': 21, 'dropout_p': 0.3050985590956988, 'K': 19, 'weight_decay': 5.7852318970198384e-06, 'lr': 5.773305959589041e-05}. Best is trial 0 with value: 0.31127120057741803.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0068842007530854
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.008351854411709
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7003602194747636
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.755812302601404
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.627483981642783
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6536532828424487
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6084996944206611
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6553066679198238
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6009802512002406
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6044942170716594
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5945670072697321
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6226091830573957
+INFO:__main__:----------
+[32m[I 2021-09-01 17:11:42,017][0m Trial 2 finished with value: 0.38614630699157715 and parameters: {'optimizer': 'Adam', 'node_out_features': 16, 'hidden_size': 17, 'dropout_p': 0.20686068334927776, 'K': 24, 'weight_decay': 8.876182876948546e-06, 'lr': 0.00013911441680719626}. Best is trial 0 with value: 0.31127120057741803.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0099288739601038
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0099172275448378
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9960211866622143
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.051290074543578
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.995848714903893
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.079779530203757
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9951364309246986
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0267951090207161
+INFO:__main__:----------
+Traceback (most recent call last):
+  File "hyperparams_edgeconv.py", line 128, in <module>
+    study.optimize(objective, n_trials=50)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/optuna/study/study.py", line 400, in optimize
+    _optimize(
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/optuna/study/_optimize.py", line 66, in _optimize
+    _optimize_sequential(
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/optuna/study/_optimize.py", line 163, in _optimize_sequential
+    trial = _run_trial(study, func, catch)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/optuna/study/_optimize.py", line 213, in _run_trial
+    value_or_values = func(trial)
+  File "hyperparams_edgeconv.py", line 94, in objective
+    loss.backward()
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/_tensor.py", line 255, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, inputs=inputs)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/autograd/__init__.py", line 147, in backward
+    Variable._execution_engine.run_backward(
+KeyboardInterrupt

@@ -1,0 +1,4 @@
+  File "train_model.py", line 35
+    gpu: bool = False
+    ^
+SyntaxError: invalid syntax

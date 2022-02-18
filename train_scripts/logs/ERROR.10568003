@@ -1,0 +1,13 @@
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/GM2017-july-sep-GRID.pkl
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/compare_metalearning.py", line 331, in <module>
+    losses = eval_models(
+  File "/zhome/2b/7/117471/Thesis/src/models/compare_metalearning.py", line 179, in eval_models
+    test_loader_eval = DataLoader(test_data_list, batch_size=len(test_data_list)/5, shuffle=True)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric/data/dataloader.py", line 65, in __init__
+    super(DataLoader,
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 276, in __init__
+    batch_sampler = BatchSampler(sampler, batch_size, drop_last)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/utils/data/sampler.py", line 215, in __init__
+    raise ValueError("batch_size should be a positive integer value, "
+ValueError: batch_size should be a positive integer value, but got batch_size=44.0

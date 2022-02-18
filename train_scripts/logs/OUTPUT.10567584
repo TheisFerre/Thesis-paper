@@ -1,0 +1,909 @@
+Starting:
+Shuffling data...
+Epoch: 1
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5584381222724915
+Baseline loss: 0.1321703940629959
+########
+Epoch: 2
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5451124310493469
+Baseline loss: 0.1321703940629959
+########
+Epoch: 3
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5252944827079773
+Baseline loss: 0.1321703940629959
+########
+Epoch: 4
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5295125246047974
+Baseline loss: 0.1321703940629959
+########
+Epoch: 5
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5563958883285522
+Baseline loss: 0.1321703940629959
+########
+Epoch: 6
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5238140821456909
+Baseline loss: 0.1321703940629959
+########
+Epoch: 7
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5596248507499695
+Baseline loss: 0.1321703940629959
+########
+Epoch: 8
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.538007915019989
+Baseline loss: 0.1321703940629959
+########
+Epoch: 9
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.576109766960144
+Baseline loss: 0.1321703940629959
+########
+Epoch: 10
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5330199599266052
+Baseline loss: 0.1321703940629959
+########
+Epoch: 11
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5317172408103943
+Baseline loss: 0.1321703940629959
+########
+Epoch: 12
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5296664237976074
+Baseline loss: 0.1321703940629959
+########
+Epoch: 13
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5356912612915039
+Baseline loss: 0.1321703940629959
+########
+Epoch: 14
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5343908071517944
+Baseline loss: 0.1321703940629959
+########
+Epoch: 15
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5335527658462524
+Baseline loss: 0.1321703940629959
+########
+Epoch: 16
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5636701583862305
+Baseline loss: 0.1321703940629959
+########
+Epoch: 17
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.562717854976654
+Baseline loss: 0.1321703940629959
+########
+Epoch: 18
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.545481264591217
+Baseline loss: 0.1321703940629959
+########
+Epoch: 19
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5625622272491455
+Baseline loss: 0.1321703940629959
+########
+Epoch: 20
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5519739389419556
+Baseline loss: 0.1321703940629959
+########
+Epoch: 21
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5423863530158997
+Baseline loss: 0.1321703940629959
+########
+Epoch: 22
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5232445001602173
+Baseline loss: 0.1321703940629959
+########
+Epoch: 23
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5248369574546814
+Baseline loss: 0.1321703940629959
+########
+Epoch: 24
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5342801809310913
+Baseline loss: 0.1321703940629959
+########
+Epoch: 25
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5396065711975098
+Baseline loss: 0.1321703940629959
+########
+Epoch: 26
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.539453387260437
+Baseline loss: 0.1321703940629959
+########
+Epoch: 27
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5510739088058472
+Baseline loss: 0.1321703940629959
+########
+Epoch: 28
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5439966320991516
+Baseline loss: 0.1321703940629959
+########
+Epoch: 29
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.555259108543396
+Baseline loss: 0.1321703940629959
+########
+Epoch: 30
+Meta Train Loss: 0.4481388330459595
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5292965769767761
+Baseline loss: 0.1321703940629959
+########
+Shuffling data...
+Epoch: 1
+Meta Train Loss: 0.4343907833099365
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5727478265762329
+Baseline loss: 0.1321703940629959
+########
+Epoch: 2
+Meta Train Loss: 0.4434584677219391
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.6130320429801941
+Baseline loss: 0.1321703940629959
+########
+Epoch: 3
+Meta Train Loss: 0.44339850544929504
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5485588312149048
+Baseline loss: 0.1321703940629959
+########
+Epoch: 4
+Meta Train Loss: 0.4351809024810791
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5387579202651978
+Baseline loss: 0.1321703940629959
+########
+Epoch: 5
+Meta Train Loss: 0.43078961968421936
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.551422655582428
+Baseline loss: 0.1321703940629959
+########
+Epoch: 6
+Meta Train Loss: 0.4497135579586029
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5419076085090637
+Baseline loss: 0.1321703940629959
+########
+Epoch: 7
+Meta Train Loss: 0.44471412897109985
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5422908663749695
+Baseline loss: 0.1321703940629959
+########
+Epoch: 8
+Meta Train Loss: 0.4509904682636261
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5803658366203308
+Baseline loss: 0.1321703940629959
+########
+Epoch: 9
+Meta Train Loss: 0.40792185068130493
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5274912118911743
+Baseline loss: 0.1321703940629959
+########
+Epoch: 10
+Meta Train Loss: 0.45079803466796875
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5461187362670898
+Baseline loss: 0.1321703940629959
+########
+Epoch: 11
+Meta Train Loss: 0.44044679403305054
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5375980734825134
+Baseline loss: 0.1321703940629959
+########
+Epoch: 12
+Meta Train Loss: 0.4748173952102661
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5450140833854675
+Baseline loss: 0.1321703940629959
+########
+Epoch: 13
+Meta Train Loss: 0.438872754573822
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5433006286621094
+Baseline loss: 0.1321703940629959
+########
+Epoch: 14
+Meta Train Loss: 0.45135778188705444
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5308025479316711
+Baseline loss: 0.1321703940629959
+########
+Epoch: 15
+Meta Train Loss: 0.46475714445114136
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5601829290390015
+Baseline loss: 0.1321703940629959
+########
+Epoch: 16
+Meta Train Loss: 0.4381052255630493
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5375999808311462
+Baseline loss: 0.1321703940629959
+########
+Epoch: 17
+Meta Train Loss: 0.47328150272369385
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5341219902038574
+Baseline loss: 0.1321703940629959
+########
+Epoch: 18
+Meta Train Loss: 0.4346129894256592
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.543088436126709
+Baseline loss: 0.1321703940629959
+########
+Epoch: 19
+Meta Train Loss: 0.45212599635124207
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.545233964920044
+Baseline loss: 0.1321703940629959
+########
+Epoch: 20
+Meta Train Loss: 0.46540093421936035
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5624409317970276
+Baseline loss: 0.1321703940629959
+########
+Epoch: 21
+Meta Train Loss: 0.4348852336406708
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.546171247959137
+Baseline loss: 0.1321703940629959
+########
+Epoch: 22
+Meta Train Loss: 0.4322402775287628
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.551052987575531
+Baseline loss: 0.1321703940629959
+########
+Epoch: 23
+Meta Train Loss: 0.45988067984580994
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.551883339881897
+Baseline loss: 0.1321703940629959
+########
+Epoch: 24
+Meta Train Loss: 0.43557900190353394
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5430130362510681
+Baseline loss: 0.1321703940629959
+########
+Epoch: 25
+Meta Train Loss: 0.43940597772598267
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5474970936775208
+Baseline loss: 0.1321703940629959
+########
+Epoch: 26
+Meta Train Loss: 0.4273711144924164
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.53916996717453
+Baseline loss: 0.1321703940629959
+########
+Epoch: 27
+Meta Train Loss: 0.44393137097358704
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5308312773704529
+Baseline loss: 0.1321703940629959
+########
+Epoch: 28
+Meta Train Loss: 0.44582638144493103
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5796656608581543
+Baseline loss: 0.1321703940629959
+########
+Epoch: 29
+Meta Train Loss: 0.48708391189575195
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5539349913597107
+Baseline loss: 0.1321703940629959
+########
+Epoch: 30
+Meta Train Loss: 0.4486135244369507
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.526711106300354
+Baseline loss: 0.1321703940629959
+########
+Shuffling data...
+Epoch: 1
+Meta Train Loss: 0.4184613525867462
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5483142733573914
+Baseline loss: 0.1321703940629959
+########
+Epoch: 2
+Meta Train Loss: 0.422362357378006
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5551694631576538
+Baseline loss: 0.1321703940629959
+########
+Epoch: 3
+Meta Train Loss: 0.4284515678882599
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5594041347503662
+Baseline loss: 0.1321703940629959
+########
+Epoch: 4
+Meta Train Loss: 0.4306999146938324
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5300341844558716
+Baseline loss: 0.1321703940629959
+########
+Epoch: 5
+Meta Train Loss: 0.44159796833992004
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5544428825378418
+Baseline loss: 0.1321703940629959
+########
+Epoch: 6
+Meta Train Loss: 0.4432334303855896
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5391490459442139
+Baseline loss: 0.1321703940629959
+########
+Epoch: 7
+Meta Train Loss: 0.45537707209587097
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5359251499176025
+Baseline loss: 0.1321703940629959
+########
+Epoch: 8
+Meta Train Loss: 0.417581707239151
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5650134086608887
+Baseline loss: 0.1321703940629959
+########
+Epoch: 9
+Meta Train Loss: 0.4465002119541168
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5295946598052979
+Baseline loss: 0.1321703940629959
+########
+Epoch: 10
+Meta Train Loss: 0.40136221051216125
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5398507118225098
+Baseline loss: 0.1321703940629959
+########
+Epoch: 11
+Meta Train Loss: 0.43219438195228577
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5375233292579651
+Baseline loss: 0.1321703940629959
+########
+Epoch: 12
+Meta Train Loss: 0.43875986337661743
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5370742678642273
+Baseline loss: 0.1321703940629959
+########
+Epoch: 13
+Meta Train Loss: 0.3995974063873291
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5407037138938904
+Baseline loss: 0.1321703940629959
+########
+Epoch: 14
+Meta Train Loss: 0.438793420791626
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5309976935386658
+Baseline loss: 0.1321703940629959
+########
+Epoch: 15
+Meta Train Loss: 0.3855900466442108
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5522609353065491
+Baseline loss: 0.1321703940629959
+########
+Epoch: 16
+Meta Train Loss: 0.4484063982963562
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5373103618621826
+Baseline loss: 0.1321703940629959
+########
+Epoch: 17
+Meta Train Loss: 0.41706177592277527
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5534305572509766
+Baseline loss: 0.1321703940629959
+########
+Epoch: 18
+Meta Train Loss: 0.44334667921066284
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5405228137969971
+Baseline loss: 0.1321703940629959
+########
+Epoch: 19
+Meta Train Loss: 0.439454048871994
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.540938675403595
+Baseline loss: 0.1321703940629959
+########
+Epoch: 20
+Meta Train Loss: 0.33829647302627563
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.562842607498169
+Baseline loss: 0.1321703940629959
+########
+Epoch: 21
+Meta Train Loss: 0.4341304302215576
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.545492947101593
+Baseline loss: 0.1321703940629959
+########
+Epoch: 22
+Meta Train Loss: 0.4338979125022888
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.543803334236145
+Baseline loss: 0.1321703940629959
+########
+Epoch: 23
+Meta Train Loss: 0.4541400372982025
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5569363236427307
+Baseline loss: 0.1321703940629959
+########
+Epoch: 24
+Meta Train Loss: 0.40076449513435364
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.540797770023346
+Baseline loss: 0.1321703940629959
+########
+Epoch: 25
+Meta Train Loss: 0.40765854716300964
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5412997007369995
+Baseline loss: 0.1321703940629959
+########
+Epoch: 26
+Meta Train Loss: 0.4502812623977661
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5291696190834045
+Baseline loss: 0.1321703940629959
+########
+Epoch: 27
+Meta Train Loss: 0.4184780418872833
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5327702760696411
+Baseline loss: 0.1321703940629959
+########
+Epoch: 28
+Meta Train Loss: 0.4305996298789978
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5780260562896729
+Baseline loss: 0.1321703940629959
+########
+Epoch: 29
+Meta Train Loss: 0.4221459925174713
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5540837645530701
+Baseline loss: 0.1321703940629959
+########
+Epoch: 30
+Meta Train Loss: 0.40710076689720154
+Finetuned loss: 0.12676942348480225
+Trained Edgeconv loss: 0.12196491658687592
+Untrained Edgeconv loss: 0.5244702100753784
+Baseline loss: 0.1321703940629959
+########
+Shuffling data...
+Epoch: 1
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0437246561050415
+Baseline loss: 1.3430898189544678
+########
+Epoch: 2
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.085176944732666
+Baseline loss: 1.3430898189544678
+########
+Epoch: 3
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.049131155014038
+Baseline loss: 1.3430898189544678
+########
+Epoch: 4
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0569193363189697
+Baseline loss: 1.3430898189544678
+########
+Epoch: 5
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0758979320526123
+Baseline loss: 1.3430898189544678
+########
+Epoch: 6
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0311784744262695
+Baseline loss: 1.3430898189544678
+########
+Epoch: 7
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0467453002929688
+Baseline loss: 1.3430898189544678
+########
+Epoch: 8
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0427064895629883
+Baseline loss: 1.3430898189544678
+########
+Epoch: 9
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0377187728881836
+Baseline loss: 1.3430898189544678
+########
+Epoch: 10
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.032355546951294
+Baseline loss: 1.3430898189544678
+########
+Epoch: 11
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.045277714729309
+Baseline loss: 1.3430898189544678
+########
+Epoch: 12
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0340805053710938
+Baseline loss: 1.3430898189544678
+########
+Epoch: 13
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0329527854919434
+Baseline loss: 1.3430898189544678
+########
+Epoch: 14
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.055976152420044
+Baseline loss: 1.3430898189544678
+########
+Epoch: 15
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.02985680103302
+Baseline loss: 1.3430898189544678
+########
+Epoch: 16
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.036049246788025
+Baseline loss: 1.3430898189544678
+########
+Epoch: 17
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0383203029632568
+Baseline loss: 1.3430898189544678
+########
+Epoch: 18
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0713393688201904
+Baseline loss: 1.3430898189544678
+########
+Epoch: 19
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0529800653457642
+Baseline loss: 1.3430898189544678
+########
+Epoch: 20
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0610859394073486
+Baseline loss: 1.3430898189544678
+########
+Epoch: 21
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0383027791976929
+Baseline loss: 1.3430898189544678
+########
+Epoch: 22
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.047734022140503
+Baseline loss: 1.3430898189544678
+########
+Epoch: 23
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0275012254714966
+Baseline loss: 1.3430898189544678
+########
+Epoch: 24
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.043981909751892
+Baseline loss: 1.3430898189544678
+########
+Epoch: 25
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0451940298080444
+Baseline loss: 1.3430898189544678
+########
+Epoch: 26
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0431116819381714
+Baseline loss: 1.3430898189544678
+########
+Epoch: 27
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0484648942947388
+Baseline loss: 1.3430898189544678
+########
+Epoch: 28
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0441242456436157
+Baseline loss: 1.3430898189544678
+########
+Epoch: 29
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0445261001586914
+Baseline loss: 1.3430898189544678
+########
+Epoch: 30
+Meta Train Loss: 0.8364219069480896
+Finetuned loss: 0.8078787922859192
+Trained Edgeconv loss: 0.7844395041465759
+Untrained Edgeconv loss: 1.0370597839355469
+Baseline loss: 1.3430898189544678
+########
+Shuffling data...
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@hpc.dtu.dk>
+Subject: Job 10567584: <FINETUNE> in cluster <dcc> Exited
+
+Job <FINETUNE> was submitted from host <gbarlogin1> by user <tfehjo> in cluster <dcc> at Tue Oct  5 17:19:00 2021
+Job was executed on host(s) <n-62-11-16>, in queue <gpuv100>, as user <tfehjo> in cluster <dcc> at Tue Oct  5 17:19:01 2021
+</zhome/2b/7/117471> was used as the home directory.
+</zhome/2b/7/117471/Thesis/train_scripts> was used as the working directory.
+Started at Tue Oct  5 17:19:01 2021
+Terminated at Tue Oct  5 17:21:07 2021
+Results reported at Tue Oct  5 17:21:07 2021
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/sh
+#BSUB -J FINETUNE #The name the job will get
+#BSUB -q gpuv100 #The queue the job will be committed to, here the GPU enabled queue
+#BSUB -gpu "num=1:mode=exclusive_process" #How the job will be run on the VM, here I request 1 GPU with exclusive access i.e. only my c #BSUB -n 1 How many CPU cores my job request
+#BSUB -W 24:00 #The maximum runtime my job have note that the queuing might enable shorter jobs earlier due to scheduling.
+#BSUB -R "span[hosts=1]" #How many nodes the job requests
+#BSUB -R "rusage[mem=12GB]" #How much RAM the job should have access to
+#BSUB -R "select[gpu32gb]" #For requesting the extra big GPU w. 32GB of VRAM
+#BSUB -o logs/OUTPUT.%J #Log file
+#BSUB -e logs/ERROR.%J #Error log file
+echo "Starting:"
+
+cd ~/Thesis/metalearning
+#cd /Users/theisferre/Documents/SPECIALE/Thesis/src/models
+
+source ~/Thesis/venv-thesis/bin/activate
+
+
+python /zhome/2b/7/117471/Thesis/src/models/compare_metalearning.py
+
+
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   120.16 sec.
+    Max Memory :                                 2461 MB
+    Average Memory :                             2461.00 MB
+    Total Requested Memory :                     12288.00 MB
+    Delta Memory :                               9827.00 MB
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                7
+    Run time :                                   126 sec.
+    Turnaround time :                            127 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <logs/ERROR.10567584> for stderr output of this job.
+

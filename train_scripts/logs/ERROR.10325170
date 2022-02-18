@@ -1,0 +1,295 @@
+INFO:__main__:Fitting model at time: 2021-09-09 10:46:00.167490
+INFO:__main__:Made it past here!
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.8200120856701191
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0655599911288967
+INFO:__main__:----------
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.792783328819185
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8245693970516623
+INFO:__main__:----------
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7898533566174958
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8215037098276673
+INFO:__main__:----------
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7876732872322383
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8221288712286985
+INFO:__main__:----------
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7874439919556488
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.827065694514375
+INFO:__main__:----------
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7850436051448973
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8227056879691893
+INFO:__main__:----------
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7843812391476617
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8202064672697074
+INFO:__main__:----------
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7836218337846559
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8213448341111964
+INFO:__main__:----------
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Epoch number 201
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7830169244898236
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8201864054814351
+INFO:__main__:----------
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Epoch number 226
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7832870824816183
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.816291627640287
+INFO:__main__:----------
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Made it past here!
+INFO:__main__:Total training time: 3:5:34
+INFO:__main__:Average Epoch time: 0.74 minutes
+INFO:__main__:Saving files to /zhome/2b/7/117471/Thesis/models/baselinegnn_2021-09-09 13:51:34
+INFO:__main__:Files saved successfully

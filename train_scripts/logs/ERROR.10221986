@@ -1,0 +1,1436 @@
+INFO:__main__:Starting search: 2021-09-01 17:14:34.760667
+[32m[I 2021-09-01 17:14:34,761][0m A new study created in memory with name: no-name-fbb381bd-4cdb-4080-9e98-f36c8483aa0c[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0065127591084886
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.017752136464361
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0085733418362033
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9942166262531075
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0087606026597664
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0925292150401507
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0064508437752722
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.030099342425675
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0084242266155203
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.022351239333564
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0061940908860325
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.1673626214695336
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0060084589458673
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0601833275392025
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0058920714034232
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0005690028708267
+INFO:__main__:----------
+[32m[I 2021-09-01 17:19:59,731][0m Trial 0 finished with value: 1.0923939943313599 and parameters: {'optimizer': 'Adam', 'node_out_features': 18, 'hidden_size': 31, 'dropout_p': 0.5161350249243175, 'K': 8, 'weight_decay': 1.717436467516609e-06, 'lr': 2.024929891329702e-06}. Best is trial 0 with value: 1.0923939943313599.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0089676386994644
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9855180693559655
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0073613677553457
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0110723917456155
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.005939981631911
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0303527512235995
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0075423365654188
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0099298084217243
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.008076891853906
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9981193640575086
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.008533620646626
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.028571242835139
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0059233940351886
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.029049442477559
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0067664672420087
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0717821171798363
+INFO:__main__:----------
+[32m[I 2021-09-01 17:26:26,647][0m Trial 1 finished with value: 1.1004869937896729 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 17, 'hidden_size': 58, 'dropout_p': 0.4303543043691982, 'K': 18, 'weight_decay': 0.0005643701559769231, 'lr': 1.111194496428551e-06}. Best is trial 0 with value: 1.0923939943313599.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.024602157768375
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9954278153510656
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0165629693599723
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0678731217413775
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0101185781704347
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0002764280044625
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0090414139667139
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0847953534977866
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0089732212604234
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0927430194965453
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0061444484512778
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0700865365475485
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0058989285590108
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.982882139713418
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0064044878556189
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0249414434997013
+INFO:__main__:----------
+[32m[I 2021-09-01 17:32:12,874][0m Trial 2 finished with value: 1.0661941170692444 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 12, 'hidden_size': 51, 'dropout_p': 0.4868654860771822, 'K': 5, 'weight_decay': 1.513013735498649e-07, 'lr': 1.1977455192847205e-05}. Best is trial 2 with value: 1.0661941170692444.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0094495746422936
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0692331575326717
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7163710823704117
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7305505472171909
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6465509642246989
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6681969161860006
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6209534993889134
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6715770104972073
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.612446870034906
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6540015242006659
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6098193969086325
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6673726401941382
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6076632882320927
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6954312740991287
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6071273373085909
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6448707919238902
+INFO:__main__:----------
+[32m[I 2021-09-01 17:37:36,440][0m Trial 3 finished with value: 0.41840750972429913 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 12, 'hidden_size': 14, 'dropout_p': 0.29276046979880566, 'K': 11, 'weight_decay': 0.00018840940512808834, 'lr': 9.947920307451635e-05}. Best is trial 3 with value: 0.41840750972429913.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0152361524833073
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0373156211361556
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.607146612001254
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7557841221611081
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.600891548287031
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7849335995308487
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5958308348792274
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8296214204900371
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5958690724847263
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8609806089229862
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.595815654194473
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8531107695234567
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.596398347775557
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.875611239335827
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5953222978730687
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8678101145998065
+INFO:__main__:----------
+[32m[I 2021-09-01 17:42:51,092][0m Trial 4 finished with value: 0.6964320341746012 and parameters: {'optimizer': 'Adam', 'node_out_features': 18, 'hidden_size': 14, 'dropout_p': 0.4275198761232017, 'K': 7, 'weight_decay': 0.003086629036339303, 'lr': 0.002617303908283685}. Best is trial 3 with value: 0.41840750972429913.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0030506015334688
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0295302182654258
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9949885268431148
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0173145521502245
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9585241977697524
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9529792903565962
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.8272321314168742
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8447284911616951
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.694469345494039
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7066048869832374
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6676722581771787
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6624204341925096
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6498109196073996
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6537730459207807
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6409017357989011
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6783711412993805
+INFO:__main__:----------
+[32m[I 2021-09-01 17:48:13,773][0m Trial 5 finished with value: 0.4066974918047587 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 6, 'hidden_size': 40, 'dropout_p': 0.35875373992193693, 'K': 11, 'weight_decay': 2.674638731572859e-05, 'lr': 2.5358000530657593e-05}. Best is trial 5 with value: 0.4066974918047587.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0015256819733012
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0066018040446656
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9993461815943542
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0355630519144927
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9991094909112899
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.003312347125039
+INFO:__main__:----------
+[32m[I 2021-09-01 17:50:03,036][0m Trial 6 pruned. [0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0042085435717067
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9799416329558059
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6165519720460019
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7217309612665191
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6003615900201505
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6884194064031737
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.592693948487367
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6734243390183177
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.586574713755324
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6667118479399227
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5856883896996763
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6681549749617803
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5845108919128659
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6662180677733394
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5847016730992888
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6612554724694601
+INFO:__main__:----------
+[32m[I 2021-09-01 17:57:15,529][0m Trial 7 finished with value: 0.5130198001861572 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 6, 'hidden_size': 55, 'dropout_p': 0.3938110716137434, 'K': 26, 'weight_decay': 1.973467866345422e-07, 'lr': 0.00022675975424479245}. Best is trial 5 with value: 0.4066974918047587.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0180653621628588
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0271680364959148
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9953237911204728
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0761206326801687
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9950711621609617
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0039616531145144
+INFO:__main__:----------
+[32m[I 2021-09-01 17:58:57,659][0m Trial 8 pruned. [0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0115558520946373
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0545940404856093
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6218797573842666
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.642015692196749
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6011792237623961
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7038463636207322
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5943279158703146
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.670248984207907
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5917040811941109
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6355947469052698
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.58645369221289
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6445284063103106
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5802961853697598
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6377936185701965
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5801845728302576
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6039426706245324
+INFO:__main__:----------
+[32m[I 2021-09-01 18:05:37,410][0m Trial 9 finished with value: 0.37901759147644043 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 7, 'hidden_size': 14, 'dropout_p': 0.2631793099185279, 'K': 29, 'weight_decay': 0.0010514807392068188, 'lr': 0.0002984975584367822}. Best is trial 9 with value: 0.37901759147644043.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0312037634197704
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0728392928041266
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9984278904454571
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0162129680929255
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9971924483961725
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0324409524475884
+INFO:__main__:----------
+[32m[I 2021-09-01 18:07:08,123][0m Trial 10 pruned. [0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0184259769193196
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0645799847056856
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9856495586736426
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0211552320016233
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.802498177592003
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8374601027251768
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.696735024661484
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6906291955788789
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6568220208852379
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6834773009888294
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.636848883666863
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6350416395221871
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6296664737990908
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6390821750786396
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6203481115736248
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6455299500609596
+INFO:__main__:----------
+[32m[I 2021-09-01 18:12:52,468][0m Trial 11 finished with value: 0.41587211688359577 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 6, 'hidden_size': 39, 'dropout_p': 0.31530107577463434, 'K': 15, 'weight_decay': 8.585651463066164e-06, 'lr': 3.8756636757286885e-05}. Best is trial 9 with value: 0.37901759147644043.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.003955475375067
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0158485460015896
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9958611276969497
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9635259609832568
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9813386284501331
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0678405152663775
+INFO:__main__:----------
+[32m[I 2021-09-01 18:14:36,524][0m Trial 12 pruned. [0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0041443096800875
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0225875470052836
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6235341658153284
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6552675628777781
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6103173981323681
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6613448538770174
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6049803045445533
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6189463137017375
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5981828756000753
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6602419585017875
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5958549264405255
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6261219762321798
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5931255224359818
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6126773882274726
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5914694730581442
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6095704392898821
+INFO:__main__:----------
+[32m[I 2021-09-01 18:20:18,658][0m Trial 13 finished with value: 0.4027516742547353 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 9, 'hidden_size': 46, 'dropout_p': 0.2621770393168267, 'K': 14, 'weight_decay': 0.002095153935590481, 'lr': 0.0002848850834802628}. Best is trial 9 with value: 0.37901759147644043.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0116286628378524
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.031655626766891
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6610777002550858
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0610619143842257
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6193725226530558
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.198040195674911
+INFO:__main__:----------
+[32m[I 2021-09-01 18:21:55,651][0m Trial 14 pruned. [0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.002570983205467
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9942071339081873
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6077091509447688
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6222707284836624
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5996190559414746
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6703919002809936
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5942513067328922
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6162505542657203
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6006753939313193
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6000282903465526
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5835489317425729
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6141496976589813
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5831709618744124
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6290405003780966
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5824292960299302
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6211438428723318
+INFO:__main__:----------
+[32m[I 2021-09-01 18:28:03,725][0m Trial 15 finished with value: 0.3846849302450816 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 9, 'hidden_size': 63, 'dropout_p': 0.2707591899341881, 'K': 15, 'weight_decay': 0.0013554398319694876, 'lr': 0.0013788002671030856}. Best is trial 9 with value: 0.37901759147644043.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0003288278091609
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0170750170509268
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9958726658362355
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0832131331346335
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9950967124602004
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9646990483512045
+INFO:__main__:----------
+[32m[I 2021-09-01 18:29:54,901][0m Trial 16 pruned. [0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0040669821755144
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0056478728606741
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9966096161405489
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0286880420121192
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9972605767101326
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0512643906390415
+INFO:__main__:----------
+[32m[I 2021-09-01 18:31:28,751][0m Trial 17 pruned. [0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0122579629346768
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9919579408065099
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7339564544310078
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8033001121270815
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6323040016768504
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6559089652499356
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6132528213423636
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6766079750077971
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6046007093539255
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6431188810580752
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6000039551966604
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6441789222808199
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5971841297889627
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6522631947620654
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5947671426459493
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6427149448229891
+INFO:__main__:----------
+[32m[I 2021-09-01 18:37:10,007][0m Trial 18 finished with value: 0.40820151567459106 and parameters: {'optimizer': 'Adam', 'node_out_features': 15, 'hidden_size': 33, 'dropout_p': 0.36609258147038165, 'K': 16, 'weight_decay': 0.0007679768637548296, 'lr': 0.00010419499734786041}. Best is trial 9 with value: 0.37901759147644043.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0092169629737535
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0139486808361828
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9957384161358768
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0186225866043475
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9954582264707095
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0390009849905926
+INFO:__main__:----------
+[32m[I 2021-09-01 18:38:33,062][0m Trial 19 pruned. [0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0030084562751247
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9857276221571648
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6122569407440941
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7602150053060986
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5894797874483816
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.642946387049219
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5845030568933693
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6914151437190982
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5789840433187293
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6362741786631984
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.576670127708508
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6742295990355037
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5691486630075425
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6906716274901977
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5684925577292959
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6836817875438737
+INFO:__main__:----------
+[32m[I 2021-09-01 18:44:56,954][0m Trial 20 finished with value: 0.4783736765384674 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 14, 'hidden_size': 64, 'dropout_p': 0.30104135570250445, 'K': 19, 'weight_decay': 0.00023292914596556658, 'lr': 0.000600226583546998}. Best is trial 9 with value: 0.37901759147644043.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0170347488074067
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0387822110154514
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6355410959535532
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6470018680143634
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6103444227012954
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.65633384986345
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6023892972695915
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.632507533303734
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6012790749874128
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6145638581331443
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5969428193118695
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6375835529126416
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5956645431948558
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5978555783246272
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5957398477988525
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6413171642046986
+INFO:__main__:----------
+[32m[I 2021-09-01 18:50:38,935][0m Trial 21 finished with value: 0.39315619071324664 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 8, 'hidden_size': 46, 'dropout_p': 0.2602381545207585, 'K': 14, 'weight_decay': 0.002627726900726607, 'lr': 0.00020110478122691074}. Best is trial 9 with value: 0.37901759147644043.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0053642000572687
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0058368964291482
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.99777546456382
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0071446080967204
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.997310661351251
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0493659849008725
+INFO:__main__:----------
+[32m[I 2021-09-01 18:52:04,441][0m Trial 22 pruned. [0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0116028426785506
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.047976223041323
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0000831781338522
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.996458368324653
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9982631288977047
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0142913865692595
+INFO:__main__:----------
+[32m[I 2021-09-01 18:53:42,497][0m Trial 23 pruned. [0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.972532629611379
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0388596415581839
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6069929264931864
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6147623340258278
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.597133551959434
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6183618808550173
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5875343603542806
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6550733523269852
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5784324853561685
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6691969646453043
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.577653406152411
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6097481880896167
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5760229834296932
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6211305923251104
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.576135502760966
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6330296493133155
+INFO:__main__:----------
+[32m[I 2021-09-01 18:59:58,075][0m Trial 24 finished with value: 0.42890608310699463 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 10, 'hidden_size': 43, 'dropout_p': 0.28550071968761914, 'K': 21, 'weight_decay': 0.0008733926020816471, 'lr': 0.0008625019695227842}. Best is trial 9 with value: 0.37901759147644043.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9916752838914389
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0335231158091063
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6076355967356796
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6542971786574233
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5932200950529563
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.602186440897632
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5834977990998513
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5867749142844889
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5791466795264941
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.607991563690366
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5748308830299332
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6234127074803756
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5679429324889514
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6308819872068175
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5664051216669647
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6173431827867935
+INFO:__main__:----------
+[32m[I 2021-09-01 19:06:58,896][0m Trial 25 finished with value: 0.3533068696657817 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 13, 'hidden_size': 60, 'dropout_p': 0.23208679612556604, 'K': 26, 'weight_decay': 0.00011312940008591239, 'lr': 0.0003403354899475717}. Best is trial 25 with value: 0.3533068696657817.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.008384699866124
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0532785871519519
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5753567060268195
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.639649796423791
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5561667970634904
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6479931040095709
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5379804248905156
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6262341473718265
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5275846394235651
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6023019976561719
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5154392199951632
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.581957511583179
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5048427242036567
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6013472448554481
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.49835098390036103
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6043607767187587
+INFO:__main__:----------
+[32m[I 2021-09-01 19:14:03,157][0m Trial 26 finished with value: 0.38746195038159686 and parameters: {'optimizer': 'Adam', 'node_out_features': 13, 'hidden_size': 62, 'dropout_p': 0.22983364404171794, 'K': 27, 'weight_decay': 0.00013045967794202018, 'lr': 0.0026845976947739336}. Best is trial 25 with value: 0.3533068696657817.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0023452061052616
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0277244819678224
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6001897454464796
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6233428921536086
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5818854568248429
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6130864265199323
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.57403785353168
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5975699518267955
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5674513693160743
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5873716139689372
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5739664834119467
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6152945675746548
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5596875801467389
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.590606591948669
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5584366880663691
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5801422734438727
+INFO:__main__:----------
+[32m[I 2021-09-01 19:21:33,395][0m Trial 27 finished with value: 0.3771980106830597 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 21, 'hidden_size': 58, 'dropout_p': 0.22349261579045152, 'K': 28, 'weight_decay': 1.3044260640563203e-05, 'lr': 0.0003562797781061343}. Best is trial 25 with value: 0.3533068696657817.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9785504600363167
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0051273978795014
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6040185220550682
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6243080361764536
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5883869232152144
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6394555264449036
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5802324534298876
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6172541731220432
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5776715404727161
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6209149293168283
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5760623748809696
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6246580460006821
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5755777345264185
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6131595806748577
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5723740782695019
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6277174682492688
+INFO:__main__:----------
+[32m[I 2021-09-01 19:29:03,265][0m Trial 28 finished with value: 0.3952520787715912 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 22, 'hidden_size': 57, 'dropout_p': 0.22307349791857467, 'K': 28, 'weight_decay': 4.558855885836373e-06, 'lr': 0.0004095307404206032}. Best is trial 25 with value: 0.3533068696657817.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0086412332777825
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.038346878323654
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.8209615571746518
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8412946720930816
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6381887772808569
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.646686280406179
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6192887640758874
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6529292526646858
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6091253443051866
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7119062691023434
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6042561793609577
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6988035493029621
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6036432948044026
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6903037280516457
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6027900177313046
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7055868284444438
+INFO:__main__:----------
+[32m[I 2021-09-01 19:35:19,897][0m Trial 29 finished with value: 0.5667071143786112 and parameters: {'optimizer': 'Adam', 'node_out_features': 21, 'hidden_size': 29, 'dropout_p': 0.24381422747766765, 'K': 24, 'weight_decay': 7.039949057499658e-07, 'lr': 8.046202290485578e-05}. Best is trial 25 with value: 0.3533068696657817.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0189279920851742
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0471736045590168
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0132498069687912
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0059878961619897
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0091705044254209
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0397121530554219
+INFO:__main__:----------
+[32m[I 2021-09-01 19:37:04,627][0m Trial 30 pruned. [0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0210200515272179
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0193975855486586
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5831067632994682
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6087555793804179
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5800630629582347
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6052376254724725
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.565864248124129
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5948778950662925
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5618160233729406
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5994832903479611
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.555341221935964
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5971024134937729
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5559387958090514
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6204093184931578
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5411528081753445
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5825801880670235
+INFO:__main__:----------
+[32m[I 2021-09-01 19:44:16,438][0m Trial 31 finished with value: 0.33704038461049396 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 16, 'hidden_size': 59, 'dropout_p': 0.2044261547283839, 'K': 28, 'weight_decay': 6.896019373990359e-05, 'lr': 0.0010937363029848701}. Best is trial 31 with value: 0.33704038461049396.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0005210472687878
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9929668739635275
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6002346786310022
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6040314298303823
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5860672503321763
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6160565730555398
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5729125282831714
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6131571261420731
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5690599182850553
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.614155359017441
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5649466903118493
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6175206327530582
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5602714579710213
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.62279831602971
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5580562771232948
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6757463214645718
+INFO:__main__:----------
+[32m[I 2021-09-01 19:51:28,722][0m Trial 32 finished with value: 0.36204829812049866 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 17, 'hidden_size': 60, 'dropout_p': 0.20714834457000175, 'K': 28, 'weight_decay': 1.7041479770550205e-06, 'lr': 0.00034444193889223383}. Best is trial 31 with value: 0.33704038461049396.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9422472147437236
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0299823850063705
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5894721617200727
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6380240823053172
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.574304186519399
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6187798846056859
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5627522491657929
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6033856150023543
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5627655768110086
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5891780001383413
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.550987514654593
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6289125525117285
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5415977532002563
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5835041210521533
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5357028245961376
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6004650211342528
+INFO:__main__:----------
+[32m[I 2021-09-01 19:58:30,177][0m Trial 33 finished with value: 0.37443740169207257 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 17, 'hidden_size': 60, 'dropout_p': 0.20932230408012925, 'K': 26, 'weight_decay': 1.4170445228544638e-06, 'lr': 0.0009866237790024238}. Best is trial 31 with value: 0.33704038461049396.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9829564377113972
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0379089223684315
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5946502608761108
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6423923799848656
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5743299853710142
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6679170004744082
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.571846498556212
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6007490396649382
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5584422619685451
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6391417770521463
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5516887430266566
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6652692488860525
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5453774854042034
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5620831560988131
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5494747704063385
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5948670654029554
+INFO:__main__:----------
+[32m[I 2021-09-01 20:05:31,613][0m Trial 34 finished with value: 0.40150556961695355 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 17, 'hidden_size': 60, 'dropout_p': 0.21528051336588497, 'K': 26, 'weight_decay': 1.7400012703019277e-06, 'lr': 0.0009338003028932264}. Best is trial 31 with value: 0.33704038461049396.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.1206583350885686
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9828564672940384
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5965353677977554
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6307011613579387
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5764574309529148
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6454049325159114
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5551591995761671
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6073984139543052
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5640530104938177
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6295251269376884
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5322355730419769
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5740278709597784
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.4970852729496255
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5803784535935365
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.4917443498971986
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6140167782289714
+INFO:__main__:----------
+[32m[I 2021-09-01 20:12:39,788][0m Trial 35 finished with value: 0.34874051809310913 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 16, 'hidden_size': 52, 'dropout_p': 0.20126274986170417, 'K': 25, 'weight_decay': 5.280255814837142e-07, 'lr': 0.004899326248984672}. Best is trial 31 with value: 0.33704038461049396.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.2009608771752465
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0144535938683426
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5935765509431473
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6299593620211995
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5836817801958961
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6313793059379521
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5494894807157906
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6014150215791721
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5473259383663067
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.632006465455777
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5136405780574711
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.622496558196474
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5012708844141158
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6194629652403049
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.49427967854160154
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6201620250922218
+INFO:__main__:----------
+[32m[I 2021-09-01 20:19:38,924][0m Trial 36 finished with value: 0.3870175778865814 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 19, 'hidden_size': 51, 'dropout_p': 0.2008812595736979, 'K': 23, 'weight_decay': 1.0396947610989676e-07, 'lr': 0.0040452174316277035}. Best is trial 31 with value: 0.33704038461049396.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.7492368070870508
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0037842217482902
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6673668720774287
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6334106146149381
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6019267621113342
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6707539261641295
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6172378616066506
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8244480940907091
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5723123889342681
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6418429945729826
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5665676486232647
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6820458971732442
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5621355106209124
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6502044533472514
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5571565345379589
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.610581458981966
+INFO:__main__:----------
+[32m[I 2021-09-01 20:26:45,998][0m Trial 37 finished with value: 0.40579132239023846 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 16, 'hidden_size': 55, 'dropout_p': 0.2440566715953768, 'K': 24, 'weight_decay': 3.74479423002519e-07, 'lr': 0.00983073521292874}. Best is trial 31 with value: 0.33704038461049396.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9973212331258386
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0259267223023274
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5816606512323388
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.794506898830047
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5563053690514463
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7154122126475257
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.536588722419662
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7609727776905544
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5191301982474552
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7525556652099926
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5121951809443537
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7985703503991944
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5094865576676525
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7099591534577718
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5080969054820443
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7415003222110912
+INFO:__main__:----------
+[32m[I 2021-09-01 20:33:52,167][0m Trial 38 finished with value: 0.5706531802813212 and parameters: {'optimizer': 'Adam', 'node_out_features': 19, 'hidden_size': 60, 'dropout_p': 0.44740004702644764, 'K': 27, 'weight_decay': 2.9167394049672068e-06, 'lr': 0.0029745813673914654}. Best is trial 31 with value: 0.33704038461049396.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.1254101523613684
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9993502174725714
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5981523259837919
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.751991951340525
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5794538713184977
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.767233760808971
+INFO:__main__:----------
+[32m[I 2021-09-01 20:35:41,756][0m Trial 39 pruned. [0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0355315002121226
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0456611561229223
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5951563370277477
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6227900375294201
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5727380416304784
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6138663366062839
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5577952020446239
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5852833126494188
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5660406401560207
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5651778877678595
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5434244730122092
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6317610384272744
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5284114343044938
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.587806087258143
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5275132067901801
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5906166755587496
+INFO:__main__:----------
+[32m[I 2021-09-01 20:43:05,734][0m Trial 40 finished with value: 0.3547426362832387 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 17, 'hidden_size': 50, 'dropout_p': 0.2874524793547392, 'K': 28, 'weight_decay': 3.787836650400563e-07, 'lr': 0.0018067217989838308}. Best is trial 31 with value: 0.33704038461049396.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9523824811679059
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0808925489843098
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5782676097029963
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6146716819451349
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5880780715047507
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6180701161811328
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5693286991986081
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6082016089193256
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5693139911171003
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5886551373453633
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5357633582729443
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.581025306108412
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5322662525368339
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6002099904844409
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5290247181115416
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6259128421085415
+INFO:__main__:----------
+[32m[I 2021-09-01 20:50:29,683][0m Trial 41 finished with value: 0.3464063803354899 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 17, 'hidden_size': 50, 'dropout_p': 0.23412206356506804, 'K': 28, 'weight_decay': 4.734308072790827e-07, 'lr': 0.002007247803715296}. Best is trial 31 with value: 0.33704038461049396.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9960579726498793
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0300463192595515
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5795439727265228
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6382350380400567
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5666606404881656
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.608285075934328
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.55769429116377
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6259563599498904
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5541138585583067
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6159671516835746
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5497478232104274
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6114509548498082
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.532442311645468
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6067700010847897
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.531368681796582
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6124038169882456
+INFO:__main__:----------
+[32m[I 2021-09-01 20:57:33,404][0m Trial 42 finished with value: 0.3533963958422343 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 15, 'hidden_size': 49, 'dropout_p': 0.29093809424971073, 'K': 30, 'weight_decay': 5.204993166717669e-07, 'lr': 0.0016443348414086686}. Best is trial 31 with value: 0.33704038461049396.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.2074549019638399
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0071405344069577
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5827502958654374
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6547788069244382
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5602095323963321
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5932033766537451
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5386102686806519
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.592256231353836
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5241055645754782
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5878168526595975
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.542669291443456
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6347626906107054
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.4935005626279103
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.595391764332505
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.48911666272278936
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5980935003608756
+INFO:__main__:----------
+[32m[I 2021-09-01 21:04:37,368][0m Trial 43 finished with value: 0.3451891044775645 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 15, 'hidden_size': 49, 'dropout_p': 0.23990792935074592, 'K': 30, 'weight_decay': 3.0794781989491554e-07, 'lr': 0.0035786387132192895}. Best is trial 31 with value: 0.33704038461049396.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.1109296802901893
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0309835051090566
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0025765848700776
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9751587608063439
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9979787605468029
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0558024882352606
+INFO:__main__:----------
+[32m[I 2021-09-01 21:06:18,505][0m Trial 44 pruned. [0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.1088870979986676
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0489411059382017
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5843132422731253
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6159388469937436
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5758165977528482
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6129759658387457
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5682990270433002
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6208274238313707
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5689450305699831
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6352037844479902
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5484770635889904
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6446231892064529
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5441547921089017
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5955873470673763
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5419761067277852
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6170413653079991
+INFO:__main__:----------
+[32m[I 2021-09-01 21:13:35,156][0m Trial 45 finished with value: 0.39327125747998554 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 14, 'hidden_size': 52, 'dropout_p': 0.2309885650973516, 'K': 27, 'weight_decay': 0.0002309339804351495, 'lr': 0.0038093591565671148}. Best is trial 31 with value: 0.33704038461049396.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0104930724262475
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0713097133633984
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.010919422903222
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0417472363148408
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0096057410278376
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0210391570219124
+INFO:__main__:----------
+[32m[I 2021-09-01 21:15:22,231][0m Trial 46 pruned. [0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9915361210302128
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0716869504402187
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6003703984080176
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6275971730160465
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5638761141409993
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7040999611365899
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5520563089006374
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6520570821830433
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.540270768873041
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6541089371601222
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5377149647369439
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6400864904170462
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.535862747913179
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6585131027542068
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5360763387268708
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6497537971934567
+INFO:__main__:----------
+[32m[I 2021-09-01 21:22:59,570][0m Trial 47 finished with value: 0.4310085078080495 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 18, 'hidden_size': 56, 'dropout_p': 0.3187260294279677, 'K': 30, 'weight_decay': 8.120972843875795e-07, 'lr': 0.002343431630024325}. Best is trial 31 with value: 0.33704038461049396.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0046092242671858
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0671638061663433
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6060850363606535
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.624389501268973
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5939324862590696
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5959786616890959
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5881500657384361
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6088432453525896
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5840865364433169
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6368056239986996
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5815249665452048
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6735454685195523
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5758332142643454
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6286451852242564
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5677761480675484
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6353199890465886
+INFO:__main__:----------
+[32m[I 2021-09-01 21:28:28,464][0m Trial 48 finished with value: 0.38513808449109393 and parameters: {'optimizer': 'Adam', 'node_out_features': 13, 'hidden_size': 47, 'dropout_p': 0.39031627367406807, 'K': 8, 'weight_decay': 1.6820829334968487e-07, 'lr': 0.0005831852465674567}. Best is trial 31 with value: 0.33704038461049396.[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9793797524904994
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0535113145860058
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5962570283450209
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6669776583532433
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5890601470927257
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6297241720875106
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5791357872641668
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6179778434769173
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5771737965396683
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6219973518866155
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5769099994308883
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6138967596122972
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5781085266882207
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6166921631808882
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5752744996174806
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.5863286344732265
+INFO:__main__:----------
+[32m[I 2021-09-01 21:34:26,482][0m Trial 49 finished with value: 0.409483144680659 and parameters: {'optimizer': 'RMSprop', 'node_out_features': 32, 'hidden_size': 58, 'dropout_p': 0.2776901958828706, 'K': 5, 'weight_decay': 4.4780430163858535e-06, 'lr': 0.0011133013677654816}. Best is trial 31 with value: 0.33704038461049396.[0m
+INFO:__main__:Study statistics: 
+--- Logging error ---
+Traceback (most recent call last):
+  File "/appl/python/3.8.11/lib/python3.8/logging/__init__.py", line 1085, in emit
+    msg = self.format(record)
+  File "/appl/python/3.8.11/lib/python3.8/logging/__init__.py", line 929, in format
+    return fmt.format(record)
+  File "/appl/python/3.8.11/lib/python3.8/logging/__init__.py", line 668, in format
+    record.message = record.getMessage()
+  File "/appl/python/3.8.11/lib/python3.8/logging/__init__.py", line 373, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Call stack:
+  File "hyperparams_edgeconv.py", line 136, in <module>
+    logger.info("  Number of finished trials: ", len(study.trials))
+Message: '  Number of finished trials: '
+Arguments: (50,)
+--- Logging error ---
+Traceback (most recent call last):
+  File "/appl/python/3.8.11/lib/python3.8/logging/__init__.py", line 1085, in emit
+    msg = self.format(record)
+  File "/appl/python/3.8.11/lib/python3.8/logging/__init__.py", line 929, in format
+    return fmt.format(record)
+  File "/appl/python/3.8.11/lib/python3.8/logging/__init__.py", line 668, in format
+    record.message = record.getMessage()
+  File "/appl/python/3.8.11/lib/python3.8/logging/__init__.py", line 373, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Call stack:
+  File "hyperparams_edgeconv.py", line 137, in <module>
+    logger.info("  Number of pruned trials: ", len(pruned_trials))
+Message: '  Number of pruned trials: '
+Arguments: (14,)
+--- Logging error ---
+Traceback (most recent call last):
+  File "/appl/python/3.8.11/lib/python3.8/logging/__init__.py", line 1085, in emit
+    msg = self.format(record)
+  File "/appl/python/3.8.11/lib/python3.8/logging/__init__.py", line 929, in format
+    return fmt.format(record)
+  File "/appl/python/3.8.11/lib/python3.8/logging/__init__.py", line 668, in format
+    record.message = record.getMessage()
+  File "/appl/python/3.8.11/lib/python3.8/logging/__init__.py", line 373, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Call stack:
+  File "hyperparams_edgeconv.py", line 138, in <module>
+    logger.info("  Number of complete trials: ", len(complete_trials))
+Message: '  Number of complete trials: '
+Arguments: (36,)
+INFO:__main__:Saving files to /zhome/2b/7/117471/Thesis/models/edgeconv_hyperopt_2021-09-01 21:34:26
+Traceback (most recent call last):
+  File "hyperparams_edgeconv.py", line 174, in <module>
+    json.dump(params_dict, outfile)
+  File "/appl/python/3.8.11/lib/python3.8/json/__init__.py", line 179, in dump
+    for chunk in iterable:
+  File "/appl/python/3.8.11/lib/python3.8/json/encoder.py", line 431, in _iterencode
+    yield from _iterencode_dict(o, _current_indent_level)
+  File "/appl/python/3.8.11/lib/python3.8/json/encoder.py", line 405, in _iterencode_dict
+    yield from chunks
+  File "/appl/python/3.8.11/lib/python3.8/json/encoder.py", line 438, in _iterencode
+    o = _default(o)
+  File "/appl/python/3.8.11/lib/python3.8/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type FrozenTrial is not JSON serializable

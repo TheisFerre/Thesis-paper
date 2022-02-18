@@ -1,0 +1,65 @@
+Starting:
+Shuffling data...
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@hpc.dtu.dk>
+Subject: Job 10731853: <compute_losses> in cluster <dcc> Exited
+
+Job <compute_losses> was submitted from host <gbarlogin1> by user <tfehjo> in cluster <dcc> at Mon Nov  1 15:04:33 2021
+Job was executed on host(s) <n-62-20-14>, in queue <gpuv100>, as user <tfehjo> in cluster <dcc> at Mon Nov  1 15:04:33 2021
+</zhome/2b/7/117471> was used as the home directory.
+</zhome/2b/7/117471/Thesis/train_scripts> was used as the working directory.
+Started at Mon Nov  1 15:04:33 2021
+Terminated at Mon Nov  1 15:05:34 2021
+Results reported at Mon Nov  1 15:05:34 2021
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/sh
+#BSUB -J compute_losses #The name the job will get
+#BSUB -q gpuv100 #The queue the job will be committed to, here the GPU enabled queue
+#BSUB -gpu "num=1:mode=exclusive_process" #How the job will be run on the VM, here I request 1 GPU with exclusive access i.e. only my c #BSUB -n 1 How many CPU cores my job request
+#BSUB -W 24:00 #The maximum runtime my job have note that the queuing might enable shorter jobs earlier due to scheduling.
+#BSUB -R "span[hosts=1]" #How many nodes the job requests
+#BSUB -R "rusage[mem=12GB]" #How much RAM the job should have access to
+#BSUB -R "select[gpu32gb]" #For requesting the extra big GPU w. 32GB of VRAM
+#BSUB -o logs/OUTPUT.%J #Log file
+#BSUB -e logs/ERROR.%J #Error log file
+echo "Starting:"
+
+cd ~/Thesis/metalearning
+#cd /Users/theisferre/Documents/SPECIALE/Thesis/src/models
+
+source ~/Thesis/venv-thesis/bin/activate
+
+
+python /zhome/2b/7/117471/Thesis/src/models/predict_all_data.py
+
+
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   7.75 sec.
+    Max Memory :                                 85 MB
+    Average Memory :                             85.00 MB
+    Total Requested Memory :                     12288.00 MB
+    Delta Memory :                               12203.00 MB
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                5
+    Run time :                                   116 sec.
+    Turnaround time :                            61 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <logs/ERROR.10731853> for stderr output of this job.
+

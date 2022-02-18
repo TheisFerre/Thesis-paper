@@ -1,0 +1,15 @@
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/TLC2018-FHV-aug-REGION-HOUR8.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-GRID5-HOUR1.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-GRID10-HOUR4.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-GRID10-HOUR8.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/citibike-tripdata-REGION-HOUR8.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-GRID10-HOUR1.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-GRID5-HOUR4.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/citibike-tripdata-REGION-HOUR1.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/TLC2018-FHV-aug-REGION-HOUR1.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-GRID5-HOUR8.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/citibike-tripdata-REGION-HOUR4.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/TLC2018-FHV-aug-REGION-HOUR4.pkl
+INFO:__main__:{'TLC2018-FHV-aug-REGION-HOUR8': <torch_geometric.data.dataloader.DataLoader object at 0x7f00e2b7cbb0>, 'yellow-taxi2020-nov-GRID5-HOUR1': <torch_geometric.data.dataloader.DataLoader object at 0x7f00e2b7cc10>, 'yellow-taxi2020-nov-GRID10-HOUR4': <torch_geometric.data.dataloader.DataLoader object at 0x7f00e2b37a90>, 'yellow-taxi2020-nov-GRID10-HOUR8': <torch_geometric.data.dataloader.DataLoader object at 0x7f00e2b378e0>, 'citibike-tripdata-REGION-HOUR8': <torch_geometric.data.dataloader.DataLoader object at 0x7f00e2ac52b0>, 'yellow-taxi2020-nov-GRID10-HOUR1': <torch_geometric.data.dataloader.DataLoader object at 0x7f00e2a66550>, 'yellow-taxi2020-nov-GRID5-HOUR4': <torch_geometric.data.dataloader.DataLoader object at 0x7f00e2a74670>, 'citibike-tripdata-REGION-HOUR1': <torch_geometric.data.dataloader.DataLoader object at 0x7f00de2dfb20>, 'TLC2018-FHV-aug-REGION-HOUR1': <torch_geometric.data.dataloader.DataLoader object at 0x7f00e31cb2e0>, 'yellow-taxi2020-nov-GRID5-HOUR8': <torch_geometric.data.dataloader.DataLoader object at 0x7f00e2b7ce50>, 'citibike-tripdata-REGION-HOUR4': <torch_geometric.data.dataloader.DataLoader object at 0x7f00df5e2880>, 'TLC2018-FHV-aug-REGION-HOUR4': <torch_geometric.data.dataloader.DataLoader object at 0x7f00e2a29670>}
+INFO:__main__:Fitting model at time: 2021-12-02 09:20:55.937149
+User defined signal 2

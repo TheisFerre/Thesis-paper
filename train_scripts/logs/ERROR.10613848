@@ -1,0 +1,8 @@
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/yellow-taxi2020-nov-REGION.pkl
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/compare_metalearning.py", line 389, in <module>
+    losses = eval_models(
+  File "/zhome/2b/7/117471/Thesis/src/models/compare_metalearning.py", line 299, in eval_models
+    query_loss_transfer += lossfn(batch.y, query_preds_transfer.view(batch.num_graphs, -1)).item()
+UnboundLocalError: local variable 'query_loss_transfer' referenced before assignment

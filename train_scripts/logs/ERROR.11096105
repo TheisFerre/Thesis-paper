@@ -1,0 +1,364 @@
+INFO:__main__:Reference model: /zhome/2b/7/117471/Thesis/data/processed/loss_study/METR-LA-HOUR1-REGION.pkl
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/METR-LA-HOUR1-REGION.pkl
+INFO:__main__:0.3194088079035282
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-REGION.pkl
+INFO:__main__:0.92289899289608
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/LYFT2014-july-sep-GRID.pkl
+INFO:__main__:1.2262064889073372
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-GRID.pkl
+INFO:__main__:0.8212028796022589
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-REGION.pkl
+INFO:__main__:0.46068912744522095
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/GM2017-july-sep-REGION.pkl
+INFO:__main__:1.8583078980445862
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-REGION.pkl
+INFO:__main__:0.8134261152961038
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/green-taxi2020-dec-GRID.pkl
+INFO:__main__:0.828541710972786
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-GRID.pkl
+INFO:__main__:0.4452175199985504
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike-tripdata-GRID.pkl
+INFO:__main__:0.45841907913034613
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-GRID.pkl
+INFO:__main__:0.8454529196023941
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-GRID.pkl
+INFO:__main__:0.6227036064321344
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-REGION.pkl
+INFO:__main__:0.7924818626858972
+INFO:__main__:{'METR-LA-HOUR1-REGION': 0.3194088079035282, 'yellow-taxi2020-nov-REGION': 0.92289899289608, 'LYFT2014-july-sep-GRID': 1.2262064889073372, 'UBER2015-jan-june-GRID': 0.8212028796022589, 'TLC2018-FHV-aug-REGION': 0.46068912744522095, 'GM2017-july-sep-REGION': 1.8583078980445862, 'UBER2015-jan-june-REGION': 0.8134261152961038, 'green-taxi2020-dec-GRID': 0.828541710972786, 'TLC2018-FHV-aug-GRID': 0.4452175199985504, 'citibike-tripdata-GRID': 0.45841907913034613, 'yellow-taxi2020-nov-GRID': 0.8454529196023941, 'citibike2014-tripdata-GRID': 0.6227036064321344, 'citibike2014-tripdata-REGION': 0.7924818626858972}
+INFO:__main__:Reference model: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-REGION.pkl
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/METR-LA-HOUR1-REGION.pkl
+INFO:__main__:0.41772208362817764
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-REGION.pkl
+INFO:__main__:0.8005762249231339
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/LYFT2014-july-sep-GRID.pkl
+INFO:__main__:1.2384054511785507
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-GRID.pkl
+INFO:__main__:0.8742952482266859
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-REGION.pkl
+INFO:__main__:0.43131570518016815
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/GM2017-july-sep-REGION.pkl
+INFO:__main__:1.1227126121520996
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-REGION.pkl
+INFO:__main__:0.721838341517882
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/green-taxi2020-dec-GRID.pkl
+INFO:__main__:0.7974836081266403
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-GRID.pkl
+INFO:__main__:0.6036031395196915
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike-tripdata-GRID.pkl
+INFO:__main__:0.45611397244713525
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-GRID.pkl
+INFO:__main__:0.8557822555303574
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-GRID.pkl
+INFO:__main__:0.6166732893748716
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-REGION.pkl
+INFO:__main__:0.700734714215452
+INFO:__main__:{'METR-LA-HOUR1-REGION': 0.41772208362817764, 'yellow-taxi2020-nov-REGION': 0.8005762249231339, 'LYFT2014-july-sep-GRID': 1.2384054511785507, 'UBER2015-jan-june-GRID': 0.8742952482266859, 'TLC2018-FHV-aug-REGION': 0.43131570518016815, 'GM2017-july-sep-REGION': 1.1227126121520996, 'UBER2015-jan-june-REGION': 0.721838341517882, 'green-taxi2020-dec-GRID': 0.7974836081266403, 'TLC2018-FHV-aug-GRID': 0.6036031395196915, 'citibike-tripdata-GRID': 0.45611397244713525, 'yellow-taxi2020-nov-GRID': 0.8557822555303574, 'citibike2014-tripdata-GRID': 0.6166732893748716, 'citibike2014-tripdata-REGION': 0.700734714215452}
+INFO:__main__:Reference model: /zhome/2b/7/117471/Thesis/data/processed/loss_study/LYFT2014-july-sep-GRID.pkl
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/METR-LA-HOUR1-REGION.pkl
+INFO:__main__:0.498262956738472
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-REGION.pkl
+INFO:__main__:0.9933003932237625
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/LYFT2014-july-sep-GRID.pkl
+INFO:__main__:1.1786347441375256
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-GRID.pkl
+INFO:__main__:0.7162220031023026
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-REGION.pkl
+INFO:__main__:0.505358450114727
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/GM2017-july-sep-REGION.pkl
+INFO:__main__:1.5900680422782898
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-REGION.pkl
+INFO:__main__:0.8218912482261658
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/green-taxi2020-dec-GRID.pkl
+INFO:__main__:0.704751655459404
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-GRID.pkl
+INFO:__main__:0.4554588198661804
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike-tripdata-GRID.pkl
+INFO:__main__:0.4104340835051103
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-GRID.pkl
+INFO:__main__:0.7383957430720329
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-GRID.pkl
+INFO:__main__:0.5251770683310248
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-REGION.pkl
+INFO:__main__:0.7963503138585524
+INFO:__main__:{'METR-LA-HOUR1-REGION': 0.498262956738472, 'yellow-taxi2020-nov-REGION': 0.9933003932237625, 'LYFT2014-july-sep-GRID': 1.1786347441375256, 'UBER2015-jan-june-GRID': 0.7162220031023026, 'TLC2018-FHV-aug-REGION': 0.505358450114727, 'GM2017-july-sep-REGION': 1.5900680422782898, 'UBER2015-jan-june-REGION': 0.8218912482261658, 'green-taxi2020-dec-GRID': 0.704751655459404, 'TLC2018-FHV-aug-GRID': 0.4554588198661804, 'citibike-tripdata-GRID': 0.4104340835051103, 'yellow-taxi2020-nov-GRID': 0.7383957430720329, 'citibike2014-tripdata-GRID': 0.5251770683310248, 'citibike2014-tripdata-REGION': 0.7963503138585524}
+INFO:__main__:Reference model: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-GRID.pkl
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/METR-LA-HOUR1-REGION.pkl
+INFO:__main__:0.4585644379258156
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-REGION.pkl
+INFO:__main__:0.8880507200956345
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/LYFT2014-july-sep-GRID.pkl
+INFO:__main__:1.1666293144226074
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-GRID.pkl
+INFO:__main__:0.6808672804724086
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-REGION.pkl
+INFO:__main__:0.46691057085990906
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/GM2017-july-sep-REGION.pkl
+INFO:__main__:1.4725092053413391
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-REGION.pkl
+INFO:__main__:0.7421159717169675
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/green-taxi2020-dec-GRID.pkl
+INFO:__main__:0.722851112484932
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-GRID.pkl
+INFO:__main__:0.4345811530947685
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike-tripdata-GRID.pkl
+INFO:__main__:0.4024669338356365
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-GRID.pkl
+INFO:__main__:0.7412181794643402
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-GRID.pkl
+INFO:__main__:0.5389819700609554
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-REGION.pkl
+INFO:__main__:0.7381913499398665
+INFO:__main__:{'METR-LA-HOUR1-REGION': 0.4585644379258156, 'yellow-taxi2020-nov-REGION': 0.8880507200956345, 'LYFT2014-july-sep-GRID': 1.1666293144226074, 'UBER2015-jan-june-GRID': 0.6808672804724086, 'TLC2018-FHV-aug-REGION': 0.46691057085990906, 'GM2017-july-sep-REGION': 1.4725092053413391, 'UBER2015-jan-june-REGION': 0.7421159717169675, 'green-taxi2020-dec-GRID': 0.722851112484932, 'TLC2018-FHV-aug-GRID': 0.4345811530947685, 'citibike-tripdata-GRID': 0.4024669338356365, 'yellow-taxi2020-nov-GRID': 0.7412181794643402, 'citibike2014-tripdata-GRID': 0.5389819700609554, 'citibike2014-tripdata-REGION': 0.7381913499398665}
+INFO:__main__:Reference model: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-REGION.pkl
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/METR-LA-HOUR1-REGION.pkl
+INFO:__main__:0.4202469512820244
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-REGION.pkl
+INFO:__main__:1.0037251263856888
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/LYFT2014-july-sep-GRID.pkl
+INFO:__main__:1.509666420519352
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-GRID.pkl
+INFO:__main__:1.020702768455852
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-REGION.pkl
+INFO:__main__:0.3474040925502777
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/GM2017-july-sep-REGION.pkl
+INFO:__main__:1.9590829610824585
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-REGION.pkl
+INFO:__main__:0.8267018253153021
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/green-taxi2020-dec-GRID.pkl
+INFO:__main__:1.046546071767807
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-GRID.pkl
+INFO:__main__:0.40268829464912415
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike-tripdata-GRID.pkl
+INFO:__main__:0.4506737237626856
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-GRID.pkl
+INFO:__main__:1.162465587258339
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-GRID.pkl
+INFO:__main__:0.7332936322147195
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-REGION.pkl
+INFO:__main__:0.7915346216071736
+INFO:__main__:{'METR-LA-HOUR1-REGION': 0.4202469512820244, 'yellow-taxi2020-nov-REGION': 1.0037251263856888, 'LYFT2014-july-sep-GRID': 1.509666420519352, 'UBER2015-jan-june-GRID': 1.020702768455852, 'TLC2018-FHV-aug-REGION': 0.3474040925502777, 'GM2017-july-sep-REGION': 1.9590829610824585, 'UBER2015-jan-june-REGION': 0.8267018253153021, 'green-taxi2020-dec-GRID': 1.046546071767807, 'TLC2018-FHV-aug-GRID': 0.40268829464912415, 'citibike-tripdata-GRID': 0.4506737237626856, 'yellow-taxi2020-nov-GRID': 1.162465587258339, 'citibike2014-tripdata-GRID': 0.7332936322147195, 'citibike2014-tripdata-REGION': 0.7915346216071736}
+INFO:__main__:Reference model: /zhome/2b/7/117471/Thesis/data/processed/loss_study/GM2017-july-sep-REGION.pkl
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/METR-LA-HOUR1-REGION.pkl
+INFO:__main__:0.522520162165165
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-REGION.pkl
+INFO:__main__:0.8992575407028198
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/LYFT2014-july-sep-GRID.pkl
+INFO:__main__:1.382888488471508
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-GRID.pkl
+INFO:__main__:1.0847083086317235
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-REGION.pkl
+INFO:__main__:0.6218055784702301
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/GM2017-july-sep-REGION.pkl
+INFO:__main__:1.5315794944763184
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-REGION.pkl
+INFO:__main__:0.8693455945361744
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/green-taxi2020-dec-GRID.pkl
+INFO:__main__:0.9904508590698242
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-GRID.pkl
+INFO:__main__:0.8339580595493317
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike-tripdata-GRID.pkl
+INFO:__main__:0.7904970049858093
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-GRID.pkl
+INFO:__main__:1.040752187371254
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-GRID.pkl
+INFO:__main__:0.9578761783513156
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-REGION.pkl
+INFO:__main__:0.8539736392823133
+INFO:__main__:{'METR-LA-HOUR1-REGION': 0.522520162165165, 'yellow-taxi2020-nov-REGION': 0.8992575407028198, 'LYFT2014-july-sep-GRID': 1.382888488471508, 'UBER2015-jan-june-GRID': 1.0847083086317235, 'TLC2018-FHV-aug-REGION': 0.6218055784702301, 'GM2017-july-sep-REGION': 1.5315794944763184, 'UBER2015-jan-june-REGION': 0.8693455945361744, 'green-taxi2020-dec-GRID': 0.9904508590698242, 'TLC2018-FHV-aug-GRID': 0.8339580595493317, 'citibike-tripdata-GRID': 0.7904970049858093, 'yellow-taxi2020-nov-GRID': 1.040752187371254, 'citibike2014-tripdata-GRID': 0.9578761783513156, 'citibike2014-tripdata-REGION': 0.8539736392823133}
+INFO:__main__:Reference model: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-REGION.pkl
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/METR-LA-HOUR1-REGION.pkl
+INFO:__main__:0.7182955294847488
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-REGION.pkl
+INFO:__main__:1.0329478830099106
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/LYFT2014-july-sep-GRID.pkl
+INFO:__main__:1.3353068828582764
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-GRID.pkl
+INFO:__main__:1.085061644965952
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-REGION.pkl
+INFO:__main__:0.9543409496545792
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/GM2017-july-sep-REGION.pkl
+INFO:__main__:0.9983159601688385
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-REGION.pkl
+INFO:__main__:1.035132800990885
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/green-taxi2020-dec-GRID.pkl
+INFO:__main__:0.9733582586050034
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-GRID.pkl
+INFO:__main__:0.9694223701953888
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike-tripdata-GRID.pkl
+INFO:__main__:0.9154357205737721
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-GRID.pkl
+INFO:__main__:1.0100854635238647
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-GRID.pkl
+INFO:__main__:1.0575578158551997
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-REGION.pkl
+INFO:__main__:1.064276245507327
+INFO:__main__:{'METR-LA-HOUR1-REGION': 0.7182955294847488, 'yellow-taxi2020-nov-REGION': 1.0329478830099106, 'LYFT2014-july-sep-GRID': 1.3353068828582764, 'UBER2015-jan-june-GRID': 1.085061644965952, 'TLC2018-FHV-aug-REGION': 0.9543409496545792, 'GM2017-july-sep-REGION': 0.9983159601688385, 'UBER2015-jan-june-REGION': 1.035132800990885, 'green-taxi2020-dec-GRID': 0.9733582586050034, 'TLC2018-FHV-aug-GRID': 0.9694223701953888, 'citibike-tripdata-GRID': 0.9154357205737721, 'yellow-taxi2020-nov-GRID': 1.0100854635238647, 'citibike2014-tripdata-GRID': 1.0575578158551997, 'citibike2014-tripdata-REGION': 1.064276245507327}
+INFO:__main__:Reference model: /zhome/2b/7/117471/Thesis/data/processed/loss_study/green-taxi2020-dec-GRID.pkl
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/METR-LA-HOUR1-REGION.pkl
+INFO:__main__:0.8755160421133041
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-REGION.pkl
+INFO:__main__:1.048351839184761
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/LYFT2014-july-sep-GRID.pkl
+INFO:__main__:1.2732611894607544
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-GRID.pkl
+INFO:__main__:0.7788999080657959
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-REGION.pkl
+INFO:__main__:0.6903370916843414
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/GM2017-july-sep-REGION.pkl
+INFO:__main__:1.4736470580101013
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-REGION.pkl
+INFO:__main__:0.9704060229388151
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/green-taxi2020-dec-GRID.pkl
+INFO:__main__:0.6694721207022667
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-GRID.pkl
+INFO:__main__:0.4964194893836975
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike-tripdata-GRID.pkl
+INFO:__main__:0.4528975486755371
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-GRID.pkl
+INFO:__main__:0.7490188628435135
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-GRID.pkl
+INFO:__main__:0.6177476007830013
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-REGION.pkl
+INFO:__main__:0.9827780384909023
+INFO:__main__:{'METR-LA-HOUR1-REGION': 0.8755160421133041, 'yellow-taxi2020-nov-REGION': 1.048351839184761, 'LYFT2014-july-sep-GRID': 1.2732611894607544, 'UBER2015-jan-june-GRID': 0.7788999080657959, 'TLC2018-FHV-aug-REGION': 0.6903370916843414, 'GM2017-july-sep-REGION': 1.4736470580101013, 'UBER2015-jan-june-REGION': 0.9704060229388151, 'green-taxi2020-dec-GRID': 0.6694721207022667, 'TLC2018-FHV-aug-GRID': 0.4964194893836975, 'citibike-tripdata-GRID': 0.4528975486755371, 'yellow-taxi2020-nov-GRID': 0.7490188628435135, 'citibike2014-tripdata-GRID': 0.6177476007830013, 'citibike2014-tripdata-REGION': 0.9827780384909023}
+INFO:__main__:Reference model: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-GRID.pkl
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/METR-LA-HOUR1-REGION.pkl
+INFO:__main__:0.371957391500473
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-REGION.pkl
+INFO:__main__:0.9828289747238159
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/LYFT2014-july-sep-GRID.pkl
+INFO:__main__:1.255137488245964
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-GRID.pkl
+INFO:__main__:0.7326222184029493
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-REGION.pkl
+INFO:__main__:0.4480409547686577
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/GM2017-july-sep-REGION.pkl
+INFO:__main__:1.937407910823822
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-REGION.pkl
+INFO:__main__:0.8029543269764293
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/green-taxi2020-dec-GRID.pkl
+INFO:__main__:0.8051164448261261
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-GRID.pkl
+INFO:__main__:0.3472907766699791
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike-tripdata-GRID.pkl
+INFO:__main__:0.4181506877595728
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-GRID.pkl
+INFO:__main__:0.8432434946298599
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-GRID.pkl
+INFO:__main__:0.5605075616728176
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-REGION.pkl
+INFO:__main__:0.7538546852090142
+INFO:__main__:{'METR-LA-HOUR1-REGION': 0.371957391500473, 'yellow-taxi2020-nov-REGION': 0.9828289747238159, 'LYFT2014-july-sep-GRID': 1.255137488245964, 'UBER2015-jan-june-GRID': 0.7326222184029493, 'TLC2018-FHV-aug-REGION': 0.4480409547686577, 'GM2017-july-sep-REGION': 1.937407910823822, 'UBER2015-jan-june-REGION': 0.8029543269764293, 'green-taxi2020-dec-GRID': 0.8051164448261261, 'TLC2018-FHV-aug-GRID': 0.3472907766699791, 'citibike-tripdata-GRID': 0.4181506877595728, 'yellow-taxi2020-nov-GRID': 0.8432434946298599, 'citibike2014-tripdata-GRID': 0.5605075616728176, 'citibike2014-tripdata-REGION': 0.7538546852090142}
+INFO:__main__:Reference model: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike-tripdata-GRID.pkl
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/METR-LA-HOUR1-REGION.pkl
+INFO:__main__:0.35758986324071884
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-REGION.pkl
+INFO:__main__:0.8828664720058441
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/LYFT2014-july-sep-GRID.pkl
+INFO:__main__:1.1882655024528503
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-GRID.pkl
+INFO:__main__:0.7423640557310798
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-REGION.pkl
+INFO:__main__:0.45492276549339294
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/GM2017-july-sep-REGION.pkl
+INFO:__main__:1.3117485642433167
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-REGION.pkl
+INFO:__main__:0.760895701971921
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/green-taxi2020-dec-GRID.pkl
+INFO:__main__:0.7507220953702927
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-GRID.pkl
+INFO:__main__:0.4593667611479759
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike-tripdata-GRID.pkl
+INFO:__main__:0.3495240834626285
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-GRID.pkl
+INFO:__main__:0.7844506129622459
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-GRID.pkl
+INFO:__main__:0.5128906111825596
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-REGION.pkl
+INFO:__main__:0.7275733798742294
+INFO:__main__:{'METR-LA-HOUR1-REGION': 0.35758986324071884, 'yellow-taxi2020-nov-REGION': 0.8828664720058441, 'LYFT2014-july-sep-GRID': 1.1882655024528503, 'UBER2015-jan-june-GRID': 0.7423640557310798, 'TLC2018-FHV-aug-REGION': 0.45492276549339294, 'GM2017-july-sep-REGION': 1.3117485642433167, 'UBER2015-jan-june-REGION': 0.760895701971921, 'green-taxi2020-dec-GRID': 0.7507220953702927, 'TLC2018-FHV-aug-GRID': 0.4593667611479759, 'citibike-tripdata-GRID': 0.3495240834626285, 'yellow-taxi2020-nov-GRID': 0.7844506129622459, 'citibike2014-tripdata-GRID': 0.5128906111825596, 'citibike2014-tripdata-REGION': 0.7275733798742294}
+INFO:__main__:Reference model: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-GRID.pkl
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/METR-LA-HOUR1-REGION.pkl
+INFO:__main__:0.4617740735411644
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-REGION.pkl
+INFO:__main__:0.9915239214897156
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/LYFT2014-july-sep-GRID.pkl
+INFO:__main__:1.1702450886368752
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-GRID.pkl
+INFO:__main__:0.7368013032458045
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-REGION.pkl
+INFO:__main__:0.46418480575084686
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/GM2017-july-sep-REGION.pkl
+INFO:__main__:1.5740830898284912
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-REGION.pkl
+INFO:__main__:0.831106261773543
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/green-taxi2020-dec-GRID.pkl
+INFO:__main__:0.6975887268781662
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-GRID.pkl
+INFO:__main__:0.470024898648262
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike-tripdata-GRID.pkl
+INFO:__main__:0.38107367808168585
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-GRID.pkl
+INFO:__main__:0.7343170791864395
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-GRID.pkl
+INFO:__main__:0.5416000079024922
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-REGION.pkl
+INFO:__main__:0.772719996896657
+INFO:__main__:{'METR-LA-HOUR1-REGION': 0.4617740735411644, 'yellow-taxi2020-nov-REGION': 0.9915239214897156, 'LYFT2014-july-sep-GRID': 1.1702450886368752, 'UBER2015-jan-june-GRID': 0.7368013032458045, 'TLC2018-FHV-aug-REGION': 0.46418480575084686, 'GM2017-july-sep-REGION': 1.5740830898284912, 'UBER2015-jan-june-REGION': 0.831106261773543, 'green-taxi2020-dec-GRID': 0.6975887268781662, 'TLC2018-FHV-aug-GRID': 0.470024898648262, 'citibike-tripdata-GRID': 0.38107367808168585, 'yellow-taxi2020-nov-GRID': 0.7343170791864395, 'citibike2014-tripdata-GRID': 0.5416000079024922, 'citibike2014-tripdata-REGION': 0.772719996896657}
+INFO:__main__:Reference model: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-GRID.pkl
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/METR-LA-HOUR1-REGION.pkl
+INFO:__main__:0.4594248756766319
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-REGION.pkl
+INFO:__main__:0.9038930088281631
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/LYFT2014-july-sep-GRID.pkl
+INFO:__main__:1.242560364305973
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-GRID.pkl
+INFO:__main__:0.7809998989105225
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-REGION.pkl
+INFO:__main__:0.4356097877025604
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/GM2017-july-sep-REGION.pkl
+INFO:__main__:1.2615282535552979
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-REGION.pkl
+INFO:__main__:0.7618747678670016
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/green-taxi2020-dec-GRID.pkl
+INFO:__main__:0.7506609708070755
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-GRID.pkl
+INFO:__main__:0.4672359749674797
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike-tripdata-GRID.pkl
+INFO:__main__:0.4240856333212419
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-GRID.pkl
+INFO:__main__:0.8140932843089104
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-GRID.pkl
+INFO:__main__:0.4201965074647557
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-REGION.pkl
+INFO:__main__:0.7231119681488384
+INFO:__main__:{'METR-LA-HOUR1-REGION': 0.4594248756766319, 'yellow-taxi2020-nov-REGION': 0.9038930088281631, 'LYFT2014-july-sep-GRID': 1.242560364305973, 'UBER2015-jan-june-GRID': 0.7809998989105225, 'TLC2018-FHV-aug-REGION': 0.4356097877025604, 'GM2017-july-sep-REGION': 1.2615282535552979, 'UBER2015-jan-june-REGION': 0.7618747678670016, 'green-taxi2020-dec-GRID': 0.7506609708070755, 'TLC2018-FHV-aug-GRID': 0.4672359749674797, 'citibike-tripdata-GRID': 0.4240856333212419, 'yellow-taxi2020-nov-GRID': 0.8140932843089104, 'citibike2014-tripdata-GRID': 0.4201965074647557, 'citibike2014-tripdata-REGION': 0.7231119681488384}
+INFO:__main__:Reference model: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-REGION.pkl
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/METR-LA-HOUR1-REGION.pkl
+INFO:__main__:0.5155151188373566
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-REGION.pkl
+INFO:__main__:0.890343502163887
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/LYFT2014-july-sep-GRID.pkl
+INFO:__main__:1.1979794837534428
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-GRID.pkl
+INFO:__main__:0.7885801467028531
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-REGION.pkl
+INFO:__main__:0.5018255114555359
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/GM2017-july-sep-REGION.pkl
+INFO:__main__:1.6131011247634888
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/UBER2015-jan-june-REGION.pkl
+INFO:__main__:0.7750944088805806
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/green-taxi2020-dec-GRID.pkl
+INFO:__main__:0.7248090505599976
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/TLC2018-FHV-aug-GRID.pkl
+INFO:__main__:0.5017031282186508
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike-tripdata-GRID.pkl
+INFO:__main__:0.42008258266882464
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/yellow-taxi2020-nov-GRID.pkl
+INFO:__main__:0.7918854802846909
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-GRID.pkl
+INFO:__main__:0.5299926535649733
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/loss_study/citibike2014-tripdata-REGION.pkl
+INFO:__main__:0.673158816315911
+INFO:__main__:{'METR-LA-HOUR1-REGION': 0.5155151188373566, 'yellow-taxi2020-nov-REGION': 0.890343502163887, 'LYFT2014-july-sep-GRID': 1.1979794837534428, 'UBER2015-jan-june-GRID': 0.7885801467028531, 'TLC2018-FHV-aug-REGION': 0.5018255114555359, 'GM2017-july-sep-REGION': 1.6131011247634888, 'UBER2015-jan-june-REGION': 0.7750944088805806, 'green-taxi2020-dec-GRID': 0.7248090505599976, 'TLC2018-FHV-aug-GRID': 0.5017031282186508, 'citibike-tripdata-GRID': 0.42008258266882464, 'yellow-taxi2020-nov-GRID': 0.7918854802846909, 'citibike2014-tripdata-GRID': 0.5299926535649733, 'citibike2014-tripdata-REGION': 0.673158816315911}

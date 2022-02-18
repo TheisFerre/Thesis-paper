@@ -1,0 +1,10 @@
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/aglation-non_augmented/LYFT2014-july-sep-GRID.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/aglation-non_augmented/UBER2015-jan-june-GRID.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/aglation-non_augmented/UBER2015-jan-june-REGION.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/aglation-non_augmented/TLC2018-FHV-aug-GRID.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/aglation-non_augmented/yellow-taxi2020-nov-GRID.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/aglation-non_augmented/citibike2014-tripdata-REGION.pkl
+INFO:__main__:{'LYFT2014-july-sep-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7f101797cb50>, 'UBER2015-jan-june-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7f101755d790>, 'UBER2015-jan-june-REGION': <torch_geometric.data.dataloader.DataLoader object at 0x7f1017859bb0>, 'TLC2018-FHV-aug-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7f1017859a00>, 'yellow-taxi2020-nov-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7f1016b90e50>, 'citibike2014-tripdata-REGION': <torch_geometric.data.dataloader.DataLoader object at 0x7f1016424e20>}
+INFO:__main__:Fitting model at time: 2021-11-24 20:08:54.282826
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+UserWarning: torch.nn.utils.clip_grad_norm is now deprecated in favor of torch.nn.utils.clip_grad_norm_.

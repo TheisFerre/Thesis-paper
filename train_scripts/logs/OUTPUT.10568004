@@ -1,0 +1,6859 @@
+Starting:
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.49485862255096436
+Baseline loss: 0.14096264879811893
+########
+Epoch: 2
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4874947423284704
+Baseline loss: 0.14096264879811893
+########
+Epoch: 3
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.49034134637225757
+Baseline loss: 0.14096264879811893
+########
+Epoch: 4
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4718947004188191
+Baseline loss: 0.14096264879811893
+########
+Epoch: 5
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4970933496952057
+Baseline loss: 0.14096264879811893
+########
+Epoch: 6
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.46757422252134845
+Baseline loss: 0.14096264879811893
+########
+Epoch: 7
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5262243368408897
+Baseline loss: 0.14096264879811893
+########
+Epoch: 8
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.49037597938017413
+Baseline loss: 0.14096264879811893
+########
+Epoch: 9
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5048417476090518
+Baseline loss: 0.14096264879811893
+########
+Epoch: 10
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.47178469462828204
+Baseline loss: 0.14096264879811893
+########
+Epoch: 11
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.48404939066280017
+Baseline loss: 0.14096264879811893
+########
+Epoch: 12
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4905055950988423
+Baseline loss: 0.14096264879811893
+########
+Epoch: 13
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4728923873467879
+Baseline loss: 0.14096264879811893
+########
+Epoch: 14
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4716285331682725
+Baseline loss: 0.14096264879811893
+########
+Epoch: 15
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4623933190649206
+Baseline loss: 0.14096264879811893
+########
+Epoch: 16
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5207610455426303
+Baseline loss: 0.14096264879811893
+########
+Epoch: 17
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5226745659654791
+Baseline loss: 0.14096264879811893
+########
+Epoch: 18
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.49956621906974097
+Baseline loss: 0.14096264879811893
+########
+Epoch: 19
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5022630258039995
+Baseline loss: 0.14096264879811893
+########
+Epoch: 20
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.49409928105094214
+Baseline loss: 0.14096264879811893
+########
+Epoch: 21
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.47488603537732904
+Baseline loss: 0.14096264879811893
+########
+Epoch: 22
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.47256801345131616
+Baseline loss: 0.14096264879811893
+########
+Epoch: 23
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4662979678674178
+Baseline loss: 0.14096264879811893
+########
+Epoch: 24
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4921311085874384
+Baseline loss: 0.14096264879811893
+########
+Epoch: 25
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4822110750458457
+Baseline loss: 0.14096264879811893
+########
+Epoch: 26
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.47800681536847894
+Baseline loss: 0.14096264879811893
+########
+Epoch: 27
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4697886515747417
+Baseline loss: 0.14096264879811893
+########
+Epoch: 28
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4962909628044475
+Baseline loss: 0.14096264879811893
+########
+Epoch: 29
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5059252598068931
+Baseline loss: 0.14096264879811893
+########
+Epoch: 30
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4802064218304374
+Baseline loss: 0.14096264879811893
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4891479096629403
+Baseline loss: 0.14096264879811893
+########
+Epoch: 2
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5572832497683439
+Baseline loss: 0.14096264879811893
+########
+Epoch: 3
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5112929506735369
+Baseline loss: 0.14096264879811893
+########
+Epoch: 4
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4711610105904666
+Baseline loss: 0.14096264879811893
+########
+Epoch: 5
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4870211021466689
+Baseline loss: 0.14096264879811893
+########
+Epoch: 6
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4692258591001684
+Baseline loss: 0.14096264879811893
+########
+Epoch: 7
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4718058244748549
+Baseline loss: 0.14096264879811893
+########
+Epoch: 8
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4973606819456274
+Baseline loss: 0.14096264879811893
+########
+Epoch: 9
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4987943551757119
+Baseline loss: 0.14096264879811893
+########
+Epoch: 10
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5086816684766249
+Baseline loss: 0.14096264879811893
+########
+Epoch: 11
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4780416055159135
+Baseline loss: 0.14096264879811893
+########
+Epoch: 12
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.46624472872777417
+Baseline loss: 0.14096264879811893
+########
+Epoch: 13
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.49693195115436206
+Baseline loss: 0.14096264879811893
+########
+Epoch: 14
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4776922112161463
+Baseline loss: 0.14096264879811893
+########
+Epoch: 15
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5243825614452362
+Baseline loss: 0.14096264879811893
+########
+Epoch: 16
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.48047779906879773
+Baseline loss: 0.14096264879811893
+########
+Epoch: 17
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.48462009971792047
+Baseline loss: 0.14096264879811893
+########
+Epoch: 18
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4870049140670083
+Baseline loss: 0.14096264879811893
+########
+Epoch: 19
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.478694425387816
+Baseline loss: 0.14096264879811893
+########
+Epoch: 20
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5051860050721602
+Baseline loss: 0.14096264879811893
+########
+Epoch: 21
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4850784811106595
+Baseline loss: 0.14096264879811893
+########
+Epoch: 22
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4943549633026123
+Baseline loss: 0.14096264879811893
+########
+Epoch: 23
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.49604644829576666
+Baseline loss: 0.14096264879811893
+########
+Epoch: 24
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.48125756599686365
+Baseline loss: 0.14096264879811893
+########
+Epoch: 25
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4762662080201236
+Baseline loss: 0.14096264879811893
+########
+Epoch: 26
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.47825095599347894
+Baseline loss: 0.14096264879811893
+########
+Epoch: 27
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.46366259726611053
+Baseline loss: 0.14096264879811893
+########
+Epoch: 28
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5024662234566428
+Baseline loss: 0.14096264879811893
+########
+Epoch: 29
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5092852820049633
+Baseline loss: 0.14096264879811893
+########
+Epoch: 30
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.48790509321472864
+Baseline loss: 0.14096264879811893
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5114671262827787
+Baseline loss: 0.14096264879811893
+########
+Epoch: 2
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5278775123032656
+Baseline loss: 0.14096264879811893
+########
+Epoch: 3
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.47842320935292676
+Baseline loss: 0.14096264879811893
+########
+Epoch: 4
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4727544838731939
+Baseline loss: 0.14096264879811893
+########
+Epoch: 5
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4920650774782354
+Baseline loss: 0.14096264879811893
+########
+Epoch: 6
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.47093752839348535
+Baseline loss: 0.14096264879811893
+########
+Epoch: 7
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4816480712457137
+Baseline loss: 0.14096264879811893
+########
+Epoch: 8
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4979467039758509
+Baseline loss: 0.14096264879811893
+########
+Epoch: 9
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.49663547765124927
+Baseline loss: 0.14096264879811893
+########
+Epoch: 10
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5080673315308311
+Baseline loss: 0.14096264879811893
+########
+Epoch: 11
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4820306626233188
+Baseline loss: 0.14096264879811893
+########
+Epoch: 12
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.46456665207039227
+Baseline loss: 0.14096264879811893
+########
+Epoch: 13
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5079076615246859
+Baseline loss: 0.14096264879811893
+########
+Epoch: 14
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.47666729580272327
+Baseline loss: 0.14096264879811893
+########
+Epoch: 15
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5176674344322898
+Baseline loss: 0.14096264879811893
+########
+Epoch: 16
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.47817106409506366
+Baseline loss: 0.14096264879811893
+########
+Epoch: 17
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.48765020207925275
+Baseline loss: 0.14096264879811893
+########
+Epoch: 18
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4862013134089383
+Baseline loss: 0.14096264879811893
+########
+Epoch: 19
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.48385310443964874
+Baseline loss: 0.14096264879811893
+########
+Epoch: 20
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.514976748011329
+Baseline loss: 0.14096264879811893
+########
+Epoch: 21
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.48207867416468536
+Baseline loss: 0.14096264879811893
+########
+Epoch: 22
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5005240006880327
+Baseline loss: 0.14096264879811893
+########
+Epoch: 23
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.49876548756252637
+Baseline loss: 0.14096264879811893
+########
+Epoch: 24
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4805449762127616
+Baseline loss: 0.14096264879811893
+########
+Epoch: 25
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.47747681357643823
+Baseline loss: 0.14096264879811893
+########
+Epoch: 26
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.478940333832394
+Baseline loss: 0.14096264879811893
+########
+Epoch: 27
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.46910538456656714
+Baseline loss: 0.14096264879811893
+########
+Epoch: 28
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5007224651900205
+Baseline loss: 0.14096264879811893
+########
+Epoch: 29
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.5362936827269468
+Baseline loss: 0.14096264879811893
+########
+Epoch: 30
+Trained Edgeconv loss: 0.13060937720266255
+Untrained Edgeconv loss: 0.4833954762328755
+Baseline loss: 0.14096264879811893
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0622714012861252
+Baseline loss: 1.4738583713769913
+########
+Epoch: 2
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0731568485498428
+Baseline loss: 1.4738583713769913
+########
+Epoch: 3
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0875891596078873
+Baseline loss: 1.4738583713769913
+########
+Epoch: 4
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0642001330852509
+Baseline loss: 1.4738583713769913
+########
+Epoch: 5
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.1034153699874878
+Baseline loss: 1.4738583713769913
+########
+Epoch: 6
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0708674192428589
+Baseline loss: 1.4738583713769913
+########
+Epoch: 7
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0692694783210754
+Baseline loss: 1.4738583713769913
+########
+Epoch: 8
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0900748819112778
+Baseline loss: 1.4738583713769913
+########
+Epoch: 9
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0195999592542648
+Baseline loss: 1.4738583713769913
+########
+Epoch: 10
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0597440004348755
+Baseline loss: 1.4738583713769913
+########
+Epoch: 11
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0698916763067245
+Baseline loss: 1.4738583713769913
+########
+Epoch: 12
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0202867239713669
+Baseline loss: 1.4738583713769913
+########
+Epoch: 13
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.055981159210205
+Baseline loss: 1.4738583713769913
+########
+Epoch: 14
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0627485066652298
+Baseline loss: 1.4738583713769913
+########
+Epoch: 15
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0276109427213669
+Baseline loss: 1.4738583713769913
+########
+Epoch: 16
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0387868136167526
+Baseline loss: 1.4738583713769913
+########
+Epoch: 17
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0282431989908218
+Baseline loss: 1.4738583713769913
+########
+Epoch: 18
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.075658142566681
+Baseline loss: 1.4738583713769913
+########
+Epoch: 19
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0203374177217484
+Baseline loss: 1.4738583713769913
+########
+Epoch: 20
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0554404854774475
+Baseline loss: 1.4738583713769913
+########
+Epoch: 21
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0484053045511246
+Baseline loss: 1.4738583713769913
+########
+Epoch: 22
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0362876504659653
+Baseline loss: 1.4738583713769913
+########
+Epoch: 23
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.048306867480278
+Baseline loss: 1.4738583713769913
+########
+Epoch: 24
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.038414016366005
+Baseline loss: 1.4738583713769913
+########
+Epoch: 25
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0546624660491943
+Baseline loss: 1.4738583713769913
+########
+Epoch: 26
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0440058559179306
+Baseline loss: 1.4738583713769913
+########
+Epoch: 27
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0418417751789093
+Baseline loss: 1.4738583713769913
+########
+Epoch: 28
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0292989313602448
+Baseline loss: 1.4738583713769913
+########
+Epoch: 29
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0573135763406754
+Baseline loss: 1.4738583713769913
+########
+Epoch: 30
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.056226134300232
+Baseline loss: 1.4738583713769913
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0433741211891174
+Baseline loss: 1.4738583713769913
+########
+Epoch: 2
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.1847763359546661
+Baseline loss: 1.4738583713769913
+########
+Epoch: 3
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.1662849485874176
+Baseline loss: 1.4738583713769913
+########
+Epoch: 4
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0882645845413208
+Baseline loss: 1.4738583713769913
+########
+Epoch: 5
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.1267111897468567
+Baseline loss: 1.4738583713769913
+########
+Epoch: 6
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0406862050294876
+Baseline loss: 1.4738583713769913
+########
+Epoch: 7
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0579676032066345
+Baseline loss: 1.4738583713769913
+########
+Epoch: 8
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.049610510468483
+Baseline loss: 1.4738583713769913
+########
+Epoch: 9
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.053639367222786
+Baseline loss: 1.4738583713769913
+########
+Epoch: 10
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0438397228717804
+Baseline loss: 1.4738583713769913
+########
+Epoch: 11
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.034181609749794
+Baseline loss: 1.4738583713769913
+########
+Epoch: 12
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.074971854686737
+Baseline loss: 1.4738583713769913
+########
+Epoch: 13
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.036548525094986
+Baseline loss: 1.4738583713769913
+########
+Epoch: 14
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0311730355024338
+Baseline loss: 1.4738583713769913
+########
+Epoch: 15
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0508263856172562
+Baseline loss: 1.4738583713769913
+########
+Epoch: 16
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0780873894691467
+Baseline loss: 1.4738583713769913
+########
+Epoch: 17
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.1370949447154999
+Baseline loss: 1.4738583713769913
+########
+Epoch: 18
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0726074576377869
+Baseline loss: 1.4738583713769913
+########
+Epoch: 19
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0639936476945877
+Baseline loss: 1.4738583713769913
+########
+Epoch: 20
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0414614975452423
+Baseline loss: 1.4738583713769913
+########
+Epoch: 21
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0583938211202621
+Baseline loss: 1.4738583713769913
+########
+Epoch: 22
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0812707543373108
+Baseline loss: 1.4738583713769913
+########
+Epoch: 23
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0971103757619858
+Baseline loss: 1.4738583713769913
+########
+Epoch: 24
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0342843234539032
+Baseline loss: 1.4738583713769913
+########
+Epoch: 25
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.031368926167488
+Baseline loss: 1.4738583713769913
+########
+Epoch: 26
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0858613848686218
+Baseline loss: 1.4738583713769913
+########
+Epoch: 27
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0218099057674408
+Baseline loss: 1.4738583713769913
+########
+Epoch: 28
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0801231116056442
+Baseline loss: 1.4738583713769913
+########
+Epoch: 29
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0509337335824966
+Baseline loss: 1.4738583713769913
+########
+Epoch: 30
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0896647572517395
+Baseline loss: 1.4738583713769913
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0645922273397446
+Baseline loss: 1.4738583713769913
+########
+Epoch: 2
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0572551786899567
+Baseline loss: 1.4738583713769913
+########
+Epoch: 3
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0858764350414276
+Baseline loss: 1.4738583713769913
+########
+Epoch: 4
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0807789266109467
+Baseline loss: 1.4738583713769913
+########
+Epoch: 5
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0999472439289093
+Baseline loss: 1.4738583713769913
+########
+Epoch: 6
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0322504192590714
+Baseline loss: 1.4738583713769913
+########
+Epoch: 7
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0196671932935715
+Baseline loss: 1.4738583713769913
+########
+Epoch: 8
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.1330955922603607
+Baseline loss: 1.4738583713769913
+########
+Epoch: 9
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0688640475273132
+Baseline loss: 1.4738583713769913
+########
+Epoch: 10
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0707241892814636
+Baseline loss: 1.4738583713769913
+########
+Epoch: 11
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.042795553803444
+Baseline loss: 1.4738583713769913
+########
+Epoch: 12
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0418867617845535
+Baseline loss: 1.4738583713769913
+########
+Epoch: 13
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.064962461590767
+Baseline loss: 1.4738583713769913
+########
+Epoch: 14
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0285112857818604
+Baseline loss: 1.4738583713769913
+########
+Epoch: 15
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0635918378829956
+Baseline loss: 1.4738583713769913
+########
+Epoch: 16
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0600695610046387
+Baseline loss: 1.4738583713769913
+########
+Epoch: 17
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.1214205026626587
+Baseline loss: 1.4738583713769913
+########
+Epoch: 18
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0653228461742401
+Baseline loss: 1.4738583713769913
+########
+Epoch: 19
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.125127375125885
+Baseline loss: 1.4738583713769913
+########
+Epoch: 20
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0245342999696732
+Baseline loss: 1.4738583713769913
+########
+Epoch: 21
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0509137958288193
+Baseline loss: 1.4738583713769913
+########
+Epoch: 22
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0667547583580017
+Baseline loss: 1.4738583713769913
+########
+Epoch: 23
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0492548644542694
+Baseline loss: 1.4738583713769913
+########
+Epoch: 24
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0387543439865112
+Baseline loss: 1.4738583713769913
+########
+Epoch: 25
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0566755682229996
+Baseline loss: 1.4738583713769913
+########
+Epoch: 26
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0353512316942215
+Baseline loss: 1.4738583713769913
+########
+Epoch: 27
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0541497468948364
+Baseline loss: 1.4738583713769913
+########
+Epoch: 28
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.025923252105713
+Baseline loss: 1.4738583713769913
+########
+Epoch: 29
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0342793613672256
+Baseline loss: 1.4738583713769913
+########
+Epoch: 30
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0445127487182617
+Baseline loss: 1.4738583713769913
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3851001858711243
+Baseline loss: 1.6722254008054733
+########
+Epoch: 2
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3602945357561111
+Baseline loss: 1.6722254008054733
+########
+Epoch: 3
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.366686724126339
+Baseline loss: 1.6722254008054733
+########
+Epoch: 4
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.345025673508644
+Baseline loss: 1.6722254008054733
+########
+Epoch: 5
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3801181837916374
+Baseline loss: 1.6722254008054733
+########
+Epoch: 6
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3423972204327583
+Baseline loss: 1.6722254008054733
+########
+Epoch: 7
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3767129331827164
+Baseline loss: 1.6722254008054733
+########
+Epoch: 8
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3599593415856361
+Baseline loss: 1.6722254008054733
+########
+Epoch: 9
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3857415243983269
+Baseline loss: 1.6722254008054733
+########
+Epoch: 10
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3373050913214684
+Baseline loss: 1.6722254008054733
+########
+Epoch: 11
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3673916533589363
+Baseline loss: 1.6722254008054733
+########
+Epoch: 12
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3545533791184425
+Baseline loss: 1.6722254008054733
+########
+Epoch: 13
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3565314710140228
+Baseline loss: 1.6722254008054733
+########
+Epoch: 14
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.357812449336052
+Baseline loss: 1.6722254008054733
+########
+Epoch: 15
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3446707352995872
+Baseline loss: 1.6722254008054733
+########
+Epoch: 16
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.40442805737257
+Baseline loss: 1.6722254008054733
+########
+Epoch: 17
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3946215510368347
+Baseline loss: 1.6722254008054733
+########
+Epoch: 18
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3675364032387733
+Baseline loss: 1.6722254008054733
+########
+Epoch: 19
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3963433504104614
+Baseline loss: 1.6722254008054733
+########
+Epoch: 20
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3753044828772545
+Baseline loss: 1.6722254008054733
+########
+Epoch: 21
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.356901653110981
+Baseline loss: 1.6722254008054733
+########
+Epoch: 22
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.344749554991722
+Baseline loss: 1.6722254008054733
+########
+Epoch: 23
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3542531579732895
+Baseline loss: 1.6722254008054733
+########
+Epoch: 24
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3594782575964928
+Baseline loss: 1.6722254008054733
+########
+Epoch: 25
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.360057458281517
+Baseline loss: 1.6722254008054733
+########
+Epoch: 26
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.348325677216053
+Baseline loss: 1.6722254008054733
+########
+Epoch: 27
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.361412674188614
+Baseline loss: 1.6722254008054733
+########
+Epoch: 28
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3638640865683556
+Baseline loss: 1.6722254008054733
+########
+Epoch: 29
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3596744313836098
+Baseline loss: 1.6722254008054733
+########
+Epoch: 30
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3420124351978302
+Baseline loss: 1.6722254008054733
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.4552986100316048
+Baseline loss: 1.6722254008054733
+########
+Epoch: 2
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3843164145946503
+Baseline loss: 1.6722254008054733
+########
+Epoch: 3
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.364664450287819
+Baseline loss: 1.6722254008054733
+########
+Epoch: 4
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3481526598334312
+Baseline loss: 1.6722254008054733
+########
+Epoch: 5
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3764371052384377
+Baseline loss: 1.6722254008054733
+########
+Epoch: 6
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3606305122375488
+Baseline loss: 1.6722254008054733
+########
+Epoch: 7
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3538934364914894
+Baseline loss: 1.6722254008054733
+########
+Epoch: 8
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3845945000648499
+Baseline loss: 1.6722254008054733
+########
+Epoch: 9
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3503502383828163
+Baseline loss: 1.6722254008054733
+########
+Epoch: 10
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.37749083340168
+Baseline loss: 1.6722254008054733
+########
+Epoch: 11
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3633455745875835
+Baseline loss: 1.6722254008054733
+########
+Epoch: 12
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3507505282759666
+Baseline loss: 1.6722254008054733
+########
+Epoch: 13
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3747621178627014
+Baseline loss: 1.6722254008054733
+########
+Epoch: 14
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3435221910476685
+Baseline loss: 1.6722254008054733
+########
+Epoch: 15
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3639852851629257
+Baseline loss: 1.6722254008054733
+########
+Epoch: 16
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3619832322001457
+Baseline loss: 1.6722254008054733
+########
+Epoch: 17
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3662931695580482
+Baseline loss: 1.6722254008054733
+########
+Epoch: 18
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3598929569125175
+Baseline loss: 1.6722254008054733
+########
+Epoch: 19
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3816423937678337
+Baseline loss: 1.6722254008054733
+########
+Epoch: 20
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3767582699656487
+Baseline loss: 1.6722254008054733
+########
+Epoch: 21
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3634684011340141
+Baseline loss: 1.6722254008054733
+########
+Epoch: 22
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3689021915197372
+Baseline loss: 1.6722254008054733
+########
+Epoch: 23
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.366699405014515
+Baseline loss: 1.6722254008054733
+########
+Epoch: 24
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.352914221584797
+Baseline loss: 1.6722254008054733
+########
+Epoch: 25
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.36185722053051
+Baseline loss: 1.6722254008054733
+########
+Epoch: 26
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3543260022997856
+Baseline loss: 1.6722254008054733
+########
+Epoch: 27
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.342212662100792
+Baseline loss: 1.6722254008054733
+########
+Epoch: 28
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3830548971891403
+Baseline loss: 1.6722254008054733
+########
+Epoch: 29
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3727119117975235
+Baseline loss: 1.6722254008054733
+########
+Epoch: 30
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.365487352013588
+Baseline loss: 1.6722254008054733
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3803743086755276
+Baseline loss: 1.6722254008054733
+########
+Epoch: 2
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3971629664301872
+Baseline loss: 1.6722254008054733
+########
+Epoch: 3
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.349460057914257
+Baseline loss: 1.6722254008054733
+########
+Epoch: 4
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3488012850284576
+Baseline loss: 1.6722254008054733
+########
+Epoch: 5
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3713507428765297
+Baseline loss: 1.6722254008054733
+########
+Epoch: 6
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3629130572080612
+Baseline loss: 1.6722254008054733
+########
+Epoch: 7
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3529721572995186
+Baseline loss: 1.6722254008054733
+########
+Epoch: 8
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3779353722929955
+Baseline loss: 1.6722254008054733
+########
+Epoch: 9
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.360929623246193
+Baseline loss: 1.6722254008054733
+########
+Epoch: 10
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3682755306363106
+Baseline loss: 1.6722254008054733
+########
+Epoch: 11
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3613733351230621
+Baseline loss: 1.6722254008054733
+########
+Epoch: 12
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.35044664144516
+Baseline loss: 1.6722254008054733
+########
+Epoch: 13
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3760404512286186
+Baseline loss: 1.6722254008054733
+########
+Epoch: 14
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.342186614871025
+Baseline loss: 1.6722254008054733
+########
+Epoch: 15
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3671779111027718
+Baseline loss: 1.6722254008054733
+########
+Epoch: 16
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3590648099780083
+Baseline loss: 1.6722254008054733
+########
+Epoch: 17
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3682450875639915
+Baseline loss: 1.6722254008054733
+########
+Epoch: 18
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.360555723309517
+Baseline loss: 1.6722254008054733
+########
+Epoch: 19
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3703517094254494
+Baseline loss: 1.6722254008054733
+########
+Epoch: 20
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3780851140618324
+Baseline loss: 1.6722254008054733
+########
+Epoch: 21
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3691376522183418
+Baseline loss: 1.6722254008054733
+########
+Epoch: 22
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3832432255148888
+Baseline loss: 1.6722254008054733
+########
+Epoch: 23
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3686869367957115
+Baseline loss: 1.6722254008054733
+########
+Epoch: 24
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3546937331557274
+Baseline loss: 1.6722254008054733
+########
+Epoch: 25
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3591816872358322
+Baseline loss: 1.6722254008054733
+########
+Epoch: 26
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3534285202622414
+Baseline loss: 1.6722254008054733
+########
+Epoch: 27
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3390226662158966
+Baseline loss: 1.6722254008054733
+########
+Epoch: 28
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3802290633320808
+Baseline loss: 1.6722254008054733
+########
+Epoch: 29
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3871237263083458
+Baseline loss: 1.6722254008054733
+########
+Epoch: 30
+Trained Edgeconv loss: 1.1887380257248878
+Untrained Edgeconv loss: 1.3632461056113243
+Baseline loss: 1.6722254008054733
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1147733547470786
+Baseline loss: 0.9830673228610646
+########
+Epoch: 2
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.113765223459764
+Baseline loss: 0.9830673228610646
+########
+Epoch: 3
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1228497597304257
+Baseline loss: 0.9830673228610646
+########
+Epoch: 4
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.09496118534695
+Baseline loss: 0.9830673228610646
+########
+Epoch: 5
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.111718169667504
+Baseline loss: 0.9830673228610646
+########
+Epoch: 6
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1076656905087559
+Baseline loss: 0.9830673228610646
+########
+Epoch: 7
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1328757865862413
+Baseline loss: 0.9830673228610646
+########
+Epoch: 8
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1137719045985828
+Baseline loss: 0.9830673228610646
+########
+Epoch: 9
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1412856795571067
+Baseline loss: 0.9830673228610646
+########
+Epoch: 10
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0900393263860182
+Baseline loss: 0.9830673228610646
+########
+Epoch: 11
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0979577275839718
+Baseline loss: 0.9830673228610646
+########
+Epoch: 12
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0940245552496477
+Baseline loss: 0.9830673228610646
+########
+Epoch: 13
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0999576882882551
+Baseline loss: 0.9830673228610646
+########
+Epoch: 14
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1038125888867811
+Baseline loss: 0.9830673228610646
+########
+Epoch: 15
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.097488820552826
+Baseline loss: 0.9830673228610646
+########
+Epoch: 16
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.106042672287334
+Baseline loss: 0.9830673228610646
+########
+Epoch: 17
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1148410683328456
+Baseline loss: 0.9830673228610646
+########
+Epoch: 18
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1264145889065482
+Baseline loss: 0.9830673228610646
+########
+Epoch: 19
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1185267594727604
+Baseline loss: 0.9830673228610646
+########
+Epoch: 20
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1250927366993644
+Baseline loss: 0.9830673228610646
+########
+Epoch: 21
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.112290783361955
+Baseline loss: 0.9830673228610646
+########
+Epoch: 22
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1113406067544764
+Baseline loss: 0.9830673228610646
+########
+Epoch: 23
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0928529744798487
+Baseline loss: 0.9830673228610646
+########
+Epoch: 24
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1106823926622218
+Baseline loss: 0.9830673228610646
+########
+Epoch: 25
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1325303749604658
+Baseline loss: 0.9830673228610646
+########
+Epoch: 26
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1015474498271942
+Baseline loss: 0.9830673228610646
+########
+Epoch: 27
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1096497096798636
+Baseline loss: 0.9830673228610646
+########
+Epoch: 28
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.127958433194594
+Baseline loss: 0.9830673228610646
+########
+Epoch: 29
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0983524512160907
+Baseline loss: 0.9830673228610646
+########
+Epoch: 30
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1114612113345752
+Baseline loss: 0.9830673228610646
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.2085527560927651
+Baseline loss: 0.9830673228610646
+########
+Epoch: 2
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1211256086826324
+Baseline loss: 0.9830673228610646
+########
+Epoch: 3
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1237285949967124
+Baseline loss: 0.9830673228610646
+########
+Epoch: 4
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0996043384075165
+Baseline loss: 0.9830673228610646
+########
+Epoch: 5
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.120925090529702
+Baseline loss: 0.9830673228610646
+########
+Epoch: 6
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.111636671152982
+Baseline loss: 0.9830673228610646
+########
+Epoch: 7
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0944896313277157
+Baseline loss: 0.9830673228610646
+########
+Epoch: 8
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1129414222457192
+Baseline loss: 0.9830673228610646
+########
+Epoch: 9
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1386088837276807
+Baseline loss: 0.9830673228610646
+########
+Epoch: 10
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1624033667824485
+Baseline loss: 0.9830673228610646
+########
+Epoch: 11
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.129636450247331
+Baseline loss: 0.9830673228610646
+########
+Epoch: 12
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0953382443297992
+Baseline loss: 0.9830673228610646
+########
+Epoch: 13
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0999262034893036
+Baseline loss: 0.9830673228610646
+########
+Epoch: 14
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0915367603302002
+Baseline loss: 0.9830673228610646
+########
+Epoch: 15
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1263893246650696
+Baseline loss: 0.9830673228610646
+########
+Epoch: 16
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1121119260787964
+Baseline loss: 0.9830673228610646
+########
+Epoch: 17
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1259218779477207
+Baseline loss: 0.9830673228610646
+########
+Epoch: 18
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1084273891015486
+Baseline loss: 0.9830673228610646
+########
+Epoch: 19
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.132258260791952
+Baseline loss: 0.9830673228610646
+########
+Epoch: 20
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.100350566885688
+Baseline loss: 0.9830673228610646
+########
+Epoch: 21
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0952478918162258
+Baseline loss: 0.9830673228610646
+########
+Epoch: 22
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1046450977975673
+Baseline loss: 0.9830673228610646
+########
+Epoch: 23
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1102576906030828
+Baseline loss: 0.9830673228610646
+########
+Epoch: 24
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.094332757321271
+Baseline loss: 0.9830673228610646
+########
+Epoch: 25
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0919827683405443
+Baseline loss: 0.9830673228610646
+########
+Epoch: 26
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1068609248508106
+Baseline loss: 0.9830673228610646
+########
+Epoch: 27
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0844067416407845
+Baseline loss: 0.9830673228610646
+########
+Epoch: 28
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.124104830351743
+Baseline loss: 0.9830673228610646
+########
+Epoch: 29
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1250967573035846
+Baseline loss: 0.9830673228610646
+########
+Epoch: 30
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0940359803763302
+Baseline loss: 0.9830673228610646
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1180505725470455
+Baseline loss: 0.9830673228610646
+########
+Epoch: 2
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.124256188219244
+Baseline loss: 0.9830673228610646
+########
+Epoch: 3
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1114862019365483
+Baseline loss: 0.9830673228610646
+########
+Epoch: 4
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.100268225778233
+Baseline loss: 0.9830673228610646
+########
+Epoch: 5
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1138331727548079
+Baseline loss: 0.9830673228610646
+########
+Epoch: 6
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.100243086164648
+Baseline loss: 0.9830673228610646
+########
+Epoch: 7
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.094474654306065
+Baseline loss: 0.9830673228610646
+########
+Epoch: 8
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1173902262340893
+Baseline loss: 0.9830673228610646
+########
+Epoch: 9
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1220093098553745
+Baseline loss: 0.9830673228610646
+########
+Epoch: 10
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1373488496650348
+Baseline loss: 0.9830673228610646
+########
+Epoch: 11
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.130580186843872
+Baseline loss: 0.9830673228610646
+########
+Epoch: 12
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0944749116897583
+Baseline loss: 0.9830673228610646
+########
+Epoch: 13
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0968838198618456
+Baseline loss: 0.9830673228610646
+########
+Epoch: 14
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0901726565577767
+Baseline loss: 0.9830673228610646
+########
+Epoch: 15
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1170129477977753
+Baseline loss: 0.9830673228610646
+########
+Epoch: 16
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1121796369552612
+Baseline loss: 0.9830673228610646
+########
+Epoch: 17
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.120384625413201
+Baseline loss: 0.9830673228610646
+########
+Epoch: 18
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.091500003229488
+Baseline loss: 0.9830673228610646
+########
+Epoch: 19
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1286187930540605
+Baseline loss: 0.9830673228610646
+########
+Epoch: 20
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0944624055515637
+Baseline loss: 0.9830673228610646
+########
+Epoch: 21
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.094863173636523
+Baseline loss: 0.9830673228610646
+########
+Epoch: 22
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1049114655364642
+Baseline loss: 0.9830673228610646
+########
+Epoch: 23
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.109757659110156
+Baseline loss: 0.9830673228610646
+########
+Epoch: 24
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0907751538536765
+Baseline loss: 0.9830673228610646
+########
+Epoch: 25
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0923631380904804
+Baseline loss: 0.9830673228610646
+########
+Epoch: 26
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.105599815195257
+Baseline loss: 0.9830673228610646
+########
+Epoch: 27
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.0849195691672238
+Baseline loss: 0.9830673228610646
+########
+Epoch: 28
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.115818527611819
+Baseline loss: 0.9830673228610646
+########
+Epoch: 29
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.1047035862099042
+Baseline loss: 0.9830673228610646
+########
+Epoch: 30
+Trained Edgeconv loss: 0.667060684074055
+Untrained Edgeconv loss: 1.096095171841708
+Baseline loss: 0.9830673228610646
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9947947710752487
+Baseline loss: 0.4515115022659302
+########
+Epoch: 2
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9479208886623383
+Baseline loss: 0.4515115022659302
+########
+Epoch: 3
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9381660521030426
+Baseline loss: 0.4515115022659302
+########
+Epoch: 4
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.922193631529808
+Baseline loss: 0.4515115022659302
+########
+Epoch: 5
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 1.000159427523613
+Baseline loss: 0.4515115022659302
+########
+Epoch: 6
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9577434062957764
+Baseline loss: 0.4515115022659302
+########
+Epoch: 7
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 1.0061722546815872
+Baseline loss: 0.4515115022659302
+########
+Epoch: 8
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9886119216680527
+Baseline loss: 0.4515115022659302
+########
+Epoch: 9
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 1.0037321746349335
+Baseline loss: 0.4515115022659302
+########
+Epoch: 10
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9195229262113571
+Baseline loss: 0.4515115022659302
+########
+Epoch: 11
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9822463542222977
+Baseline loss: 0.4515115022659302
+########
+Epoch: 12
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9410618096590042
+Baseline loss: 0.4515115022659302
+########
+Epoch: 13
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9793175011873245
+Baseline loss: 0.4515115022659302
+########
+Epoch: 14
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9731951653957367
+Baseline loss: 0.4515115022659302
+########
+Epoch: 15
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9595547020435333
+Baseline loss: 0.4515115022659302
+########
+Epoch: 16
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9897672086954117
+Baseline loss: 0.4515115022659302
+########
+Epoch: 17
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 1.038962110877037
+Baseline loss: 0.4515115022659302
+########
+Epoch: 18
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9939694702625275
+Baseline loss: 0.4515115022659302
+########
+Epoch: 19
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 1.0118348896503448
+Baseline loss: 0.4515115022659302
+########
+Epoch: 20
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9597587734460831
+Baseline loss: 0.4515115022659302
+########
+Epoch: 21
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9637315422296524
+Baseline loss: 0.4515115022659302
+########
+Epoch: 22
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9414011090993881
+Baseline loss: 0.4515115022659302
+########
+Epoch: 23
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9333624094724655
+Baseline loss: 0.4515115022659302
+########
+Epoch: 24
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9615208208560944
+Baseline loss: 0.4515115022659302
+########
+Epoch: 25
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9645102918148041
+Baseline loss: 0.4515115022659302
+########
+Epoch: 26
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.982221782207489
+Baseline loss: 0.4515115022659302
+########
+Epoch: 27
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9831405282020569
+Baseline loss: 0.4515115022659302
+########
+Epoch: 28
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9645652920007706
+Baseline loss: 0.4515115022659302
+########
+Epoch: 29
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9860257804393768
+Baseline loss: 0.4515115022659302
+########
+Epoch: 30
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9448456466197968
+Baseline loss: 0.4515115022659302
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 1.1781904995441437
+Baseline loss: 0.4515115022659302
+########
+Epoch: 2
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 1.5451434552669525
+Baseline loss: 0.4515115022659302
+########
+Epoch: 3
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9492229372262955
+Baseline loss: 0.4515115022659302
+########
+Epoch: 4
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9405845254659653
+Baseline loss: 0.4515115022659302
+########
+Epoch: 5
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9895153492689133
+Baseline loss: 0.4515115022659302
+########
+Epoch: 6
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9692386835813522
+Baseline loss: 0.4515115022659302
+########
+Epoch: 7
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9659030437469482
+Baseline loss: 0.4515115022659302
+########
+Epoch: 8
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 1.008913204073906
+Baseline loss: 0.4515115022659302
+########
+Epoch: 9
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9667664766311646
+Baseline loss: 0.4515115022659302
+########
+Epoch: 10
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9992583394050598
+Baseline loss: 0.4515115022659302
+########
+Epoch: 11
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9558653235435486
+Baseline loss: 0.4515115022659302
+########
+Epoch: 12
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9546961337327957
+Baseline loss: 0.4515115022659302
+########
+Epoch: 13
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.993768960237503
+Baseline loss: 0.4515115022659302
+########
+Epoch: 14
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9443946480751038
+Baseline loss: 0.4515115022659302
+########
+Epoch: 15
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 1.0130049735307693
+Baseline loss: 0.4515115022659302
+########
+Epoch: 16
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9547893553972244
+Baseline loss: 0.4515115022659302
+########
+Epoch: 17
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9800934046506882
+Baseline loss: 0.4515115022659302
+########
+Epoch: 18
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9564215242862701
+Baseline loss: 0.4515115022659302
+########
+Epoch: 19
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9652076363563538
+Baseline loss: 0.4515115022659302
+########
+Epoch: 20
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9471831172704697
+Baseline loss: 0.4515115022659302
+########
+Epoch: 21
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9853106141090393
+Baseline loss: 0.4515115022659302
+########
+Epoch: 22
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9986273497343063
+Baseline loss: 0.4515115022659302
+########
+Epoch: 23
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.945596769452095
+Baseline loss: 0.4515115022659302
+########
+Epoch: 24
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9494763314723969
+Baseline loss: 0.4515115022659302
+########
+Epoch: 25
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9696827381849289
+Baseline loss: 0.4515115022659302
+########
+Epoch: 26
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9365175515413284
+Baseline loss: 0.4515115022659302
+########
+Epoch: 27
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.968830332159996
+Baseline loss: 0.4515115022659302
+########
+Epoch: 28
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.984098419547081
+Baseline loss: 0.4515115022659302
+########
+Epoch: 29
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 1.0333139896392822
+Baseline loss: 0.4515115022659302
+########
+Epoch: 30
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.945242241024971
+Baseline loss: 0.4515115022659302
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 1.0194613337516785
+Baseline loss: 0.4515115022659302
+########
+Epoch: 2
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9964413195848465
+Baseline loss: 0.4515115022659302
+########
+Epoch: 3
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9922155737876892
+Baseline loss: 0.4515115022659302
+########
+Epoch: 4
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9422262758016586
+Baseline loss: 0.4515115022659302
+########
+Epoch: 5
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 1.0483028888702393
+Baseline loss: 0.4515115022659302
+########
+Epoch: 6
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9340948462486267
+Baseline loss: 0.4515115022659302
+########
+Epoch: 7
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9421748518943787
+Baseline loss: 0.4515115022659302
+########
+Epoch: 8
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9523952901363373
+Baseline loss: 0.4515115022659302
+########
+Epoch: 9
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9526267051696777
+Baseline loss: 0.4515115022659302
+########
+Epoch: 10
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9848083257675171
+Baseline loss: 0.4515115022659302
+########
+Epoch: 11
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9505822211503983
+Baseline loss: 0.4515115022659302
+########
+Epoch: 12
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9231903702020645
+Baseline loss: 0.4515115022659302
+########
+Epoch: 13
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.982466921210289
+Baseline loss: 0.4515115022659302
+########
+Epoch: 14
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.979581281542778
+Baseline loss: 0.4515115022659302
+########
+Epoch: 15
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9857318997383118
+Baseline loss: 0.4515115022659302
+########
+Epoch: 16
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9847539067268372
+Baseline loss: 0.4515115022659302
+########
+Epoch: 17
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.942946270108223
+Baseline loss: 0.4515115022659302
+########
+Epoch: 18
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9697140753269196
+Baseline loss: 0.4515115022659302
+########
+Epoch: 19
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9482761174440384
+Baseline loss: 0.4515115022659302
+########
+Epoch: 20
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9273096770048141
+Baseline loss: 0.4515115022659302
+########
+Epoch: 21
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9571783691644669
+Baseline loss: 0.4515115022659302
+########
+Epoch: 22
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9686009734869003
+Baseline loss: 0.4515115022659302
+########
+Epoch: 23
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.998286783695221
+Baseline loss: 0.4515115022659302
+########
+Epoch: 24
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9482969641685486
+Baseline loss: 0.4515115022659302
+########
+Epoch: 25
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9940798431634903
+Baseline loss: 0.4515115022659302
+########
+Epoch: 26
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9753614664077759
+Baseline loss: 0.4515115022659302
+########
+Epoch: 27
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9857588708400726
+Baseline loss: 0.4515115022659302
+########
+Epoch: 28
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9492926299571991
+Baseline loss: 0.4515115022659302
+########
+Epoch: 29
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9569926261901855
+Baseline loss: 0.4515115022659302
+########
+Epoch: 30
+Trained Edgeconv loss: 0.37847036868333817
+Untrained Edgeconv loss: 0.9663479626178741
+Baseline loss: 0.4515115022659302
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1033960580825806
+Baseline loss: 2.267239809036255
+########
+Epoch: 2
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.102260708808899
+Baseline loss: 2.267239809036255
+########
+Epoch: 3
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.094048023223877
+Baseline loss: 2.267239809036255
+########
+Epoch: 4
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.091504693031311
+Baseline loss: 2.267239809036255
+########
+Epoch: 5
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1102553606033325
+Baseline loss: 2.267239809036255
+########
+Epoch: 6
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0884947776794434
+Baseline loss: 2.267239809036255
+########
+Epoch: 7
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.101867914199829
+Baseline loss: 2.267239809036255
+########
+Epoch: 8
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1023476123809814
+Baseline loss: 2.267239809036255
+########
+Epoch: 9
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0900278091430664
+Baseline loss: 2.267239809036255
+########
+Epoch: 10
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0907670259475708
+Baseline loss: 2.267239809036255
+########
+Epoch: 11
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0998059511184692
+Baseline loss: 2.267239809036255
+########
+Epoch: 12
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0937178134918213
+Baseline loss: 2.267239809036255
+########
+Epoch: 13
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1055370569229126
+Baseline loss: 2.267239809036255
+########
+Epoch: 14
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1026922464370728
+Baseline loss: 2.267239809036255
+########
+Epoch: 15
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0940206050872803
+Baseline loss: 2.267239809036255
+########
+Epoch: 16
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1299424171447754
+Baseline loss: 2.267239809036255
+########
+Epoch: 17
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1071056127548218
+Baseline loss: 2.267239809036255
+########
+Epoch: 18
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0955921411514282
+Baseline loss: 2.267239809036255
+########
+Epoch: 19
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.099284291267395
+Baseline loss: 2.267239809036255
+########
+Epoch: 20
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1029016971588135
+Baseline loss: 2.267239809036255
+########
+Epoch: 21
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0959264039993286
+Baseline loss: 2.267239809036255
+########
+Epoch: 22
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1036497354507446
+Baseline loss: 2.267239809036255
+########
+Epoch: 23
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0971161127090454
+Baseline loss: 2.267239809036255
+########
+Epoch: 24
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1077033281326294
+Baseline loss: 2.267239809036255
+########
+Epoch: 25
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1167100667953491
+Baseline loss: 2.267239809036255
+########
+Epoch: 26
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0971938371658325
+Baseline loss: 2.267239809036255
+########
+Epoch: 27
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1200549602508545
+Baseline loss: 2.267239809036255
+########
+Epoch: 28
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0998395681381226
+Baseline loss: 2.267239809036255
+########
+Epoch: 29
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1106452941894531
+Baseline loss: 2.267239809036255
+########
+Epoch: 30
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0968297719955444
+Baseline loss: 2.267239809036255
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.137162446975708
+Baseline loss: 2.267239809036255
+########
+Epoch: 2
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.163547396659851
+Baseline loss: 2.267239809036255
+########
+Epoch: 3
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0813579559326172
+Baseline loss: 2.267239809036255
+########
+Epoch: 4
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1143726110458374
+Baseline loss: 2.267239809036255
+########
+Epoch: 5
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1265957355499268
+Baseline loss: 2.267239809036255
+########
+Epoch: 6
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0969895124435425
+Baseline loss: 2.267239809036255
+########
+Epoch: 7
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1123168468475342
+Baseline loss: 2.267239809036255
+########
+Epoch: 8
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.12473726272583
+Baseline loss: 2.267239809036255
+########
+Epoch: 9
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0914517641067505
+Baseline loss: 2.267239809036255
+########
+Epoch: 10
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.108108639717102
+Baseline loss: 2.267239809036255
+########
+Epoch: 11
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0971264839172363
+Baseline loss: 2.267239809036255
+########
+Epoch: 12
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1018460988998413
+Baseline loss: 2.267239809036255
+########
+Epoch: 13
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1126842498779297
+Baseline loss: 2.267239809036255
+########
+Epoch: 14
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0875613689422607
+Baseline loss: 2.267239809036255
+########
+Epoch: 15
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1281412839889526
+Baseline loss: 2.267239809036255
+########
+Epoch: 16
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1008243560791016
+Baseline loss: 2.267239809036255
+########
+Epoch: 17
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.094902515411377
+Baseline loss: 2.267239809036255
+########
+Epoch: 18
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1855090856552124
+Baseline loss: 2.267239809036255
+########
+Epoch: 19
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1042757034301758
+Baseline loss: 2.267239809036255
+########
+Epoch: 20
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1121412515640259
+Baseline loss: 2.267239809036255
+########
+Epoch: 21
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0912047624588013
+Baseline loss: 2.267239809036255
+########
+Epoch: 22
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.086858868598938
+Baseline loss: 2.267239809036255
+########
+Epoch: 23
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1158944368362427
+Baseline loss: 2.267239809036255
+########
+Epoch: 24
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0856801271438599
+Baseline loss: 2.267239809036255
+########
+Epoch: 25
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0973159074783325
+Baseline loss: 2.267239809036255
+########
+Epoch: 26
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1073780059814453
+Baseline loss: 2.267239809036255
+########
+Epoch: 27
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0882339477539062
+Baseline loss: 2.267239809036255
+########
+Epoch: 28
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1835973262786865
+Baseline loss: 2.267239809036255
+########
+Epoch: 29
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.117117166519165
+Baseline loss: 2.267239809036255
+########
+Epoch: 30
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1022160053253174
+Baseline loss: 2.267239809036255
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0954452753067017
+Baseline loss: 2.267239809036255
+########
+Epoch: 2
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1378706693649292
+Baseline loss: 2.267239809036255
+########
+Epoch: 3
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0921684503555298
+Baseline loss: 2.267239809036255
+########
+Epoch: 4
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1032873392105103
+Baseline loss: 2.267239809036255
+########
+Epoch: 5
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1394851207733154
+Baseline loss: 2.267239809036255
+########
+Epoch: 6
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.124976396560669
+Baseline loss: 2.267239809036255
+########
+Epoch: 7
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1014089584350586
+Baseline loss: 2.267239809036255
+########
+Epoch: 8
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.112944483757019
+Baseline loss: 2.267239809036255
+########
+Epoch: 9
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0906823873519897
+Baseline loss: 2.267239809036255
+########
+Epoch: 10
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1066534519195557
+Baseline loss: 2.267239809036255
+########
+Epoch: 11
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0949866771697998
+Baseline loss: 2.267239809036255
+########
+Epoch: 12
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0952705144882202
+Baseline loss: 2.267239809036255
+########
+Epoch: 13
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1118648052215576
+Baseline loss: 2.267239809036255
+########
+Epoch: 14
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.087589144706726
+Baseline loss: 2.267239809036255
+########
+Epoch: 15
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.123077630996704
+Baseline loss: 2.267239809036255
+########
+Epoch: 16
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.108446717262268
+Baseline loss: 2.267239809036255
+########
+Epoch: 17
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0901800394058228
+Baseline loss: 2.267239809036255
+########
+Epoch: 18
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1478456258773804
+Baseline loss: 2.267239809036255
+########
+Epoch: 19
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0939013957977295
+Baseline loss: 2.267239809036255
+########
+Epoch: 20
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1146697998046875
+Baseline loss: 2.267239809036255
+########
+Epoch: 21
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.09250009059906
+Baseline loss: 2.267239809036255
+########
+Epoch: 22
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.091080904006958
+Baseline loss: 2.267239809036255
+########
+Epoch: 23
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1063859462738037
+Baseline loss: 2.267239809036255
+########
+Epoch: 24
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0856781005859375
+Baseline loss: 2.267239809036255
+########
+Epoch: 25
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.097583293914795
+Baseline loss: 2.267239809036255
+########
+Epoch: 26
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1067603826522827
+Baseline loss: 2.267239809036255
+########
+Epoch: 27
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.089792013168335
+Baseline loss: 2.267239809036255
+########
+Epoch: 28
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.128917932510376
+Baseline loss: 2.267239809036255
+########
+Epoch: 29
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.1265994310379028
+Baseline loss: 2.267239809036255
+########
+Epoch: 30
+Trained Edgeconv loss: 1.0735780000686646
+Untrained Edgeconv loss: 1.0979288816452026
+Baseline loss: 2.267239809036255
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1465389403429898
+Baseline loss: 2.1656500426205723
+########
+Epoch: 2
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1116525747559287
+Baseline loss: 2.1656500426205723
+########
+Epoch: 3
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1014358076182278
+Baseline loss: 2.1656500426205723
+########
+Epoch: 4
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.0968018174171448
+Baseline loss: 2.1656500426205723
+########
+Epoch: 5
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1145611080256375
+Baseline loss: 2.1656500426205723
+########
+Epoch: 6
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.093770368532701
+Baseline loss: 2.1656500426205723
+########
+Epoch: 7
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1312767375599255
+Baseline loss: 2.1656500426205723
+########
+Epoch: 8
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1096029119058088
+Baseline loss: 2.1656500426205723
+########
+Epoch: 9
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1445670994845303
+Baseline loss: 2.1656500426205723
+########
+Epoch: 10
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.0988913015885786
+Baseline loss: 2.1656500426205723
+########
+Epoch: 11
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1090655435215344
+Baseline loss: 2.1656500426205723
+########
+Epoch: 12
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1080931154164402
+Baseline loss: 2.1656500426205723
+########
+Epoch: 13
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.0961472988128662
+Baseline loss: 2.1656500426205723
+########
+Epoch: 14
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.0998721610416065
+Baseline loss: 2.1656500426205723
+########
+Epoch: 15
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.090457721190019
+Baseline loss: 2.1656500426205723
+########
+Epoch: 16
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.132208439436826
+Baseline loss: 2.1656500426205723
+########
+Epoch: 17
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1289706013419412
+Baseline loss: 2.1656500426205723
+########
+Epoch: 18
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1078590208833867
+Baseline loss: 2.1656500426205723
+########
+Epoch: 19
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1208221045407383
+Baseline loss: 2.1656500426205723
+########
+Epoch: 20
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1188187003135681
+Baseline loss: 2.1656500426205723
+########
+Epoch: 21
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1113553047180176
+Baseline loss: 2.1656500426205723
+########
+Epoch: 22
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.0967965776270086
+Baseline loss: 2.1656500426205723
+########
+Epoch: 23
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.093837786804546
+Baseline loss: 2.1656500426205723
+########
+Epoch: 24
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1101978800513528
+Baseline loss: 2.1656500426205723
+########
+Epoch: 25
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1020470478317954
+Baseline loss: 2.1656500426205723
+########
+Epoch: 26
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.0980395891449668
+Baseline loss: 2.1656500426205723
+########
+Epoch: 27
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1009794690392234
+Baseline loss: 2.1656500426205723
+########
+Epoch: 28
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1073961583050815
+Baseline loss: 2.1656500426205723
+########
+Epoch: 29
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1174143390222029
+Baseline loss: 2.1656500426205723
+########
+Epoch: 30
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1029688390818508
+Baseline loss: 2.1656500426205723
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.137892723083496
+Baseline loss: 2.1656500426205723
+########
+Epoch: 2
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.2326911687850952
+Baseline loss: 2.1656500426205723
+########
+Epoch: 3
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1314505338668823
+Baseline loss: 2.1656500426205723
+########
+Epoch: 4
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.0981897169893438
+Baseline loss: 2.1656500426205723
+########
+Epoch: 5
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1252302039753308
+Baseline loss: 2.1656500426205723
+########
+Epoch: 6
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1149160103364424
+Baseline loss: 2.1656500426205723
+########
+Epoch: 7
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.103011277588931
+Baseline loss: 2.1656500426205723
+########
+Epoch: 8
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.124876076524908
+Baseline loss: 2.1656500426205723
+########
+Epoch: 9
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1319899017160588
+Baseline loss: 2.1656500426205723
+########
+Epoch: 10
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1172789118506692
+Baseline loss: 2.1656500426205723
+########
+Epoch: 11
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1104845838113264
+Baseline loss: 2.1656500426205723
+########
+Epoch: 12
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.094079467383298
+Baseline loss: 2.1656500426205723
+########
+Epoch: 13
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1095115000551397
+Baseline loss: 2.1656500426205723
+########
+Epoch: 14
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.095679759979248
+Baseline loss: 2.1656500426205723
+########
+Epoch: 15
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1398013830184937
+Baseline loss: 2.1656500426205723
+########
+Epoch: 16
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1142966151237488
+Baseline loss: 2.1656500426205723
+########
+Epoch: 17
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.0995059988715432
+Baseline loss: 2.1656500426205723
+########
+Epoch: 18
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.111003745685924
+Baseline loss: 2.1656500426205723
+########
+Epoch: 19
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1069256880066611
+Baseline loss: 2.1656500426205723
+########
+Epoch: 20
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1304805549708279
+Baseline loss: 2.1656500426205723
+########
+Epoch: 21
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1106227961453525
+Baseline loss: 2.1656500426205723
+########
+Epoch: 22
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.100872121073983
+Baseline loss: 2.1656500426205723
+########
+Epoch: 23
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1138579411940142
+Baseline loss: 2.1656500426205723
+########
+Epoch: 24
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1064957651225003
+Baseline loss: 2.1656500426205723
+########
+Epoch: 25
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1109406352043152
+Baseline loss: 2.1656500426205723
+########
+Epoch: 26
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.110387460751967
+Baseline loss: 2.1656500426205723
+########
+Epoch: 27
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.095753788948059
+Baseline loss: 2.1656500426205723
+########
+Epoch: 28
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1354974941773848
+Baseline loss: 2.1656500426205723
+########
+Epoch: 29
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1160516793077642
+Baseline loss: 2.1656500426205723
+########
+Epoch: 30
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.0994545492258938
+Baseline loss: 2.1656500426205723
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1313857165249912
+Baseline loss: 2.1656500426205723
+########
+Epoch: 2
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1332700144160877
+Baseline loss: 2.1656500426205723
+########
+Epoch: 3
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1088695471937007
+Baseline loss: 2.1656500426205723
+########
+Epoch: 4
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.094159191304987
+Baseline loss: 2.1656500426205723
+########
+Epoch: 5
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1098863265731118
+Baseline loss: 2.1656500426205723
+########
+Epoch: 6
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1179353323849766
+Baseline loss: 2.1656500426205723
+########
+Epoch: 7
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1143813404169949
+Baseline loss: 2.1656500426205723
+########
+Epoch: 8
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1080471548167141
+Baseline loss: 2.1656500426205723
+########
+Epoch: 9
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.097956657409668
+Baseline loss: 2.1656500426205723
+########
+Epoch: 10
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1142087578773499
+Baseline loss: 2.1656500426205723
+########
+Epoch: 11
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1130258711901577
+Baseline loss: 2.1656500426205723
+########
+Epoch: 12
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.098275981166146
+Baseline loss: 2.1656500426205723
+########
+Epoch: 13
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.0973109061067754
+Baseline loss: 2.1656500426205723
+########
+Epoch: 14
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1074549013918096
+Baseline loss: 2.1656500426205723
+########
+Epoch: 15
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.0913435220718384
+Baseline loss: 2.1656500426205723
+########
+Epoch: 16
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1077047532255
+Baseline loss: 2.1656500426205723
+########
+Epoch: 17
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1147332895885815
+Baseline loss: 2.1656500426205723
+########
+Epoch: 18
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.095167409289967
+Baseline loss: 2.1656500426205723
+########
+Epoch: 19
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.0979567170143127
+Baseline loss: 2.1656500426205723
+########
+Epoch: 20
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1143108281222256
+Baseline loss: 2.1656500426205723
+########
+Epoch: 21
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1084046255458484
+Baseline loss: 2.1656500426205723
+########
+Epoch: 22
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1028092937035994
+Baseline loss: 2.1656500426205723
+########
+Epoch: 23
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1082481416788967
+Baseline loss: 2.1656500426205723
+########
+Epoch: 24
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.0999511046843096
+Baseline loss: 2.1656500426205723
+########
+Epoch: 25
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1107646389441057
+Baseline loss: 2.1656500426205723
+########
+Epoch: 26
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.1186477650295605
+Baseline loss: 2.1656500426205723
+########
+Epoch: 27
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.0996344956484707
+Baseline loss: 2.1656500426205723
+########
+Epoch: 28
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.105597978288477
+Baseline loss: 2.1656500426205723
+########
+Epoch: 29
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.104382108558308
+Baseline loss: 2.1656500426205723
+########
+Epoch: 30
+Trained Edgeconv loss: 1.0405871190808036
+Untrained Edgeconv loss: 1.0967046781019731
+Baseline loss: 2.1656500426205723
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0696066943081943
+Baseline loss: 1.0889997292648663
+########
+Epoch: 2
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0672214139591565
+Baseline loss: 1.0889997292648663
+########
+Epoch: 3
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0716131031513214
+Baseline loss: 1.0889997292648663
+########
+Epoch: 4
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.048248136585409
+Baseline loss: 1.0889997292648663
+########
+Epoch: 5
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.062386455861005
+Baseline loss: 1.0889997292648663
+########
+Epoch: 6
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0596736940470608
+Baseline loss: 1.0889997292648663
+########
+Epoch: 7
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0770852890881626
+Baseline loss: 1.0889997292648663
+########
+Epoch: 8
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0636659400029616
+Baseline loss: 1.0889997292648663
+########
+Epoch: 9
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0901595787568525
+Baseline loss: 1.0889997292648663
+########
+Epoch: 10
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0397556288675829
+Baseline loss: 1.0889997292648663
+########
+Epoch: 11
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.050656107338992
+Baseline loss: 1.0889997292648663
+########
+Epoch: 12
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0437237484888597
+Baseline loss: 1.0889997292648663
+########
+Epoch: 13
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0566671111366965
+Baseline loss: 1.0889997292648663
+########
+Epoch: 14
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.056520315733823
+Baseline loss: 1.0889997292648663
+########
+Epoch: 15
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0453095679933375
+Baseline loss: 1.0889997292648663
+########
+Epoch: 16
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0589081672104923
+Baseline loss: 1.0889997292648663
+########
+Epoch: 17
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0660722905939275
+Baseline loss: 1.0889997292648663
+########
+Epoch: 18
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.06922125545415
+Baseline loss: 1.0889997292648663
+########
+Epoch: 19
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0734607116742567
+Baseline loss: 1.0889997292648663
+########
+Epoch: 20
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0642034926197745
+Baseline loss: 1.0889997292648663
+########
+Epoch: 21
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0513450286605142
+Baseline loss: 1.0889997292648663
+########
+Epoch: 22
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0625090897083282
+Baseline loss: 1.0889997292648663
+########
+Epoch: 23
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0481134896928614
+Baseline loss: 1.0889997292648663
+########
+Epoch: 24
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0665681145407937
+Baseline loss: 1.0889997292648663
+########
+Epoch: 25
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0801305174827576
+Baseline loss: 1.0889997292648663
+########
+Epoch: 26
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0507764653726057
+Baseline loss: 1.0889997292648663
+########
+Epoch: 27
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0592262338508258
+Baseline loss: 1.0889997292648663
+########
+Epoch: 28
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.078658472407948
+Baseline loss: 1.0889997292648663
+########
+Epoch: 29
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.049546867609024
+Baseline loss: 1.0889997292648663
+########
+Epoch: 30
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0522933493960986
+Baseline loss: 1.0889997292648663
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0952515385367654
+Baseline loss: 1.0889997292648663
+########
+Epoch: 2
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0954746035012333
+Baseline loss: 1.0889997292648663
+########
+Epoch: 3
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0729242265224457
+Baseline loss: 1.0889997292648663
+########
+Epoch: 4
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.04963019490242
+Baseline loss: 1.0889997292648663
+########
+Epoch: 5
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0743967375972054
+Baseline loss: 1.0889997292648663
+########
+Epoch: 6
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0626477815888145
+Baseline loss: 1.0889997292648663
+########
+Epoch: 7
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0497875592925332
+Baseline loss: 1.0889997292648663
+########
+Epoch: 8
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0627089034427295
+Baseline loss: 1.0889997292648663
+########
+Epoch: 9
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0762697810476476
+Baseline loss: 1.0889997292648663
+########
+Epoch: 10
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.1046226864511317
+Baseline loss: 1.0889997292648663
+########
+Epoch: 11
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0794237337329171
+Baseline loss: 1.0889997292648663
+########
+Epoch: 12
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.04917941310189
+Baseline loss: 1.0889997292648663
+########
+Epoch: 13
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0513300001621246
+Baseline loss: 1.0889997292648663
+########
+Epoch: 14
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0463678240776062
+Baseline loss: 1.0889997292648663
+########
+Epoch: 15
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.059817679903724
+Baseline loss: 1.0889997292648663
+########
+Epoch: 16
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.059069888158278
+Baseline loss: 1.0889997292648663
+########
+Epoch: 17
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0736772255464033
+Baseline loss: 1.0889997292648663
+########
+Epoch: 18
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0621639029546217
+Baseline loss: 1.0889997292648663
+########
+Epoch: 19
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0653800801797346
+Baseline loss: 1.0889997292648663
+########
+Epoch: 20
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0503868596120314
+Baseline loss: 1.0889997292648663
+########
+Epoch: 21
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0468192479827187
+Baseline loss: 1.0889997292648663
+########
+Epoch: 22
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0558978806842456
+Baseline loss: 1.0889997292648663
+########
+Epoch: 23
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0627205696972934
+Baseline loss: 1.0889997292648663
+########
+Epoch: 24
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0488237765702335
+Baseline loss: 1.0889997292648663
+########
+Epoch: 25
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0449538664384321
+Baseline loss: 1.0889997292648663
+########
+Epoch: 26
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0621625266291879
+Baseline loss: 1.0889997292648663
+########
+Epoch: 27
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0370227586139331
+Baseline loss: 1.0889997292648663
+########
+Epoch: 28
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0754713063890284
+Baseline loss: 1.0889997292648663
+########
+Epoch: 29
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.076821814883839
+Baseline loss: 1.0889997292648663
+########
+Epoch: 30
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0419453084468842
+Baseline loss: 1.0889997292648663
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0695772712880915
+Baseline loss: 1.0889997292648663
+########
+Epoch: 2
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0500889122486115
+Baseline loss: 1.0889997292648663
+########
+Epoch: 3
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0417746278372677
+Baseline loss: 1.0889997292648663
+########
+Epoch: 4
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.061564570123499
+Baseline loss: 1.0889997292648663
+########
+Epoch: 5
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0740705647251823
+Baseline loss: 1.0889997292648663
+########
+Epoch: 6
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0397618250413374
+Baseline loss: 1.0889997292648663
+########
+Epoch: 7
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0465923574837772
+Baseline loss: 1.0889997292648663
+########
+Epoch: 8
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0644866959615187
+Baseline loss: 1.0889997292648663
+########
+Epoch: 9
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0607928660782902
+Baseline loss: 1.0889997292648663
+########
+Epoch: 10
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0733482837677002
+Baseline loss: 1.0889997292648663
+########
+Epoch: 11
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0665121241049333
+Baseline loss: 1.0889997292648663
+########
+Epoch: 12
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0480540530248121
+Baseline loss: 1.0889997292648663
+########
+Epoch: 13
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0540219328620217
+Baseline loss: 1.0889997292648663
+########
+Epoch: 14
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0912207771431317
+Baseline loss: 1.0889997292648663
+########
+Epoch: 15
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.057915435595946
+Baseline loss: 1.0889997292648663
+########
+Epoch: 16
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0615733672272076
+Baseline loss: 1.0889997292648663
+########
+Epoch: 17
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0466544140468945
+Baseline loss: 1.0889997292648663
+########
+Epoch: 18
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0571888116273014
+Baseline loss: 1.0889997292648663
+########
+Epoch: 19
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0745596939867192
+Baseline loss: 1.0889997292648663
+########
+Epoch: 20
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0627738995985552
+Baseline loss: 1.0889997292648663
+########
+Epoch: 21
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0461250110106035
+Baseline loss: 1.0889997292648663
+########
+Epoch: 22
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0626359148459001
+Baseline loss: 1.0889997292648663
+########
+Epoch: 23
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0520033240318298
+Baseline loss: 1.0889997292648663
+########
+Epoch: 24
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.052832085977901
+Baseline loss: 1.0889997292648663
+########
+Epoch: 25
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0497831810604443
+Baseline loss: 1.0889997292648663
+########
+Epoch: 26
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0457695424556732
+Baseline loss: 1.0889997292648663
+########
+Epoch: 27
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0625942268154838
+Baseline loss: 1.0889997292648663
+########
+Epoch: 28
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0579763407056981
+Baseline loss: 1.0889997292648663
+########
+Epoch: 29
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0745026902718977
+Baseline loss: 1.0889997292648663
+########
+Epoch: 30
+Trained Edgeconv loss: 0.6773131706497886
+Untrained Edgeconv loss: 1.0587028129534288
+Baseline loss: 1.0889997292648663
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9654365032911301
+Baseline loss: 1.3127594590187073
+########
+Epoch: 2
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9869672805070877
+Baseline loss: 1.3127594590187073
+########
+Epoch: 3
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9906066954135895
+Baseline loss: 1.3127594590187073
+########
+Epoch: 4
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.964430570602417
+Baseline loss: 1.3127594590187073
+########
+Epoch: 5
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0199391096830368
+Baseline loss: 1.3127594590187073
+########
+Epoch: 6
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.034131184220314
+Baseline loss: 1.3127594590187073
+########
+Epoch: 7
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.002516433596611
+Baseline loss: 1.3127594590187073
+########
+Epoch: 8
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0184980779886246
+Baseline loss: 1.3127594590187073
+########
+Epoch: 9
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9599371701478958
+Baseline loss: 1.3127594590187073
+########
+Epoch: 10
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9602274745702744
+Baseline loss: 1.3127594590187073
+########
+Epoch: 11
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9766538590192795
+Baseline loss: 1.3127594590187073
+########
+Epoch: 12
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9752707034349442
+Baseline loss: 1.3127594590187073
+########
+Epoch: 13
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9816903322935104
+Baseline loss: 1.3127594590187073
+########
+Epoch: 14
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9928610771894455
+Baseline loss: 1.3127594590187073
+########
+Epoch: 15
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9634103029966354
+Baseline loss: 1.3127594590187073
+########
+Epoch: 16
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9791983217000961
+Baseline loss: 1.3127594590187073
+########
+Epoch: 17
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9728966057300568
+Baseline loss: 1.3127594590187073
+########
+Epoch: 18
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0066033750772476
+Baseline loss: 1.3127594590187073
+########
+Epoch: 19
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9812126755714417
+Baseline loss: 1.3127594590187073
+########
+Epoch: 20
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9696322679519653
+Baseline loss: 1.3127594590187073
+########
+Epoch: 21
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9714638739824295
+Baseline loss: 1.3127594590187073
+########
+Epoch: 22
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9708038717508316
+Baseline loss: 1.3127594590187073
+########
+Epoch: 23
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9980781674385071
+Baseline loss: 1.3127594590187073
+########
+Epoch: 24
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9661789536476135
+Baseline loss: 1.3127594590187073
+########
+Epoch: 25
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9866695255041122
+Baseline loss: 1.3127594590187073
+########
+Epoch: 26
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.96058289706707
+Baseline loss: 1.3127594590187073
+########
+Epoch: 27
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.021833822131157
+Baseline loss: 1.3127594590187073
+########
+Epoch: 28
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0833154916763306
+Baseline loss: 1.3127594590187073
+########
+Epoch: 29
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9977321028709412
+Baseline loss: 1.3127594590187073
+########
+Epoch: 30
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9655430167913437
+Baseline loss: 1.3127594590187073
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9645892828702927
+Baseline loss: 1.3127594590187073
+########
+Epoch: 2
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0006120204925537
+Baseline loss: 1.3127594590187073
+########
+Epoch: 3
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0097658336162567
+Baseline loss: 1.3127594590187073
+########
+Epoch: 4
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0048324316740036
+Baseline loss: 1.3127594590187073
+########
+Epoch: 5
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0786652714014053
+Baseline loss: 1.3127594590187073
+########
+Epoch: 6
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.994820848107338
+Baseline loss: 1.3127594590187073
+########
+Epoch: 7
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9941837787628174
+Baseline loss: 1.3127594590187073
+########
+Epoch: 8
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9829340428113937
+Baseline loss: 1.3127594590187073
+########
+Epoch: 9
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9808708280324936
+Baseline loss: 1.3127594590187073
+########
+Epoch: 10
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0292748510837555
+Baseline loss: 1.3127594590187073
+########
+Epoch: 11
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.049854800105095
+Baseline loss: 1.3127594590187073
+########
+Epoch: 12
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9927773028612137
+Baseline loss: 1.3127594590187073
+########
+Epoch: 13
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9592692852020264
+Baseline loss: 1.3127594590187073
+########
+Epoch: 14
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0281311571598053
+Baseline loss: 1.3127594590187073
+########
+Epoch: 15
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9907013922929764
+Baseline loss: 1.3127594590187073
+########
+Epoch: 16
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.964342474937439
+Baseline loss: 1.3127594590187073
+########
+Epoch: 17
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9842571467161179
+Baseline loss: 1.3127594590187073
+########
+Epoch: 18
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9958188384771347
+Baseline loss: 1.3127594590187073
+########
+Epoch: 19
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9577001631259918
+Baseline loss: 1.3127594590187073
+########
+Epoch: 20
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0200686901807785
+Baseline loss: 1.3127594590187073
+########
+Epoch: 21
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0265619158744812
+Baseline loss: 1.3127594590187073
+########
+Epoch: 22
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9835616946220398
+Baseline loss: 1.3127594590187073
+########
+Epoch: 23
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9985403418540955
+Baseline loss: 1.3127594590187073
+########
+Epoch: 24
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9785008281469345
+Baseline loss: 1.3127594590187073
+########
+Epoch: 25
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0232620537281036
+Baseline loss: 1.3127594590187073
+########
+Epoch: 26
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0073480010032654
+Baseline loss: 1.3127594590187073
+########
+Epoch: 27
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9422503709793091
+Baseline loss: 1.3127594590187073
+########
+Epoch: 28
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0160414725542068
+Baseline loss: 1.3127594590187073
+########
+Epoch: 29
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0242022275924683
+Baseline loss: 1.3127594590187073
+########
+Epoch: 30
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9748973846435547
+Baseline loss: 1.3127594590187073
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9866293221712112
+Baseline loss: 1.3127594590187073
+########
+Epoch: 2
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9878727942705154
+Baseline loss: 1.3127594590187073
+########
+Epoch: 3
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9998382925987244
+Baseline loss: 1.3127594590187073
+########
+Epoch: 4
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.981963649392128
+Baseline loss: 1.3127594590187073
+########
+Epoch: 5
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9985305815935135
+Baseline loss: 1.3127594590187073
+########
+Epoch: 6
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9719779193401337
+Baseline loss: 1.3127594590187073
+########
+Epoch: 7
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9980788677930832
+Baseline loss: 1.3127594590187073
+########
+Epoch: 8
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9947097152471542
+Baseline loss: 1.3127594590187073
+########
+Epoch: 9
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9811643213033676
+Baseline loss: 1.3127594590187073
+########
+Epoch: 10
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0076646655797958
+Baseline loss: 1.3127594590187073
+########
+Epoch: 11
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0104799419641495
+Baseline loss: 1.3127594590187073
+########
+Epoch: 12
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9724814295768738
+Baseline loss: 1.3127594590187073
+########
+Epoch: 13
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9585105031728745
+Baseline loss: 1.3127594590187073
+########
+Epoch: 14
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0274927914142609
+Baseline loss: 1.3127594590187073
+########
+Epoch: 15
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9807090163230896
+Baseline loss: 1.3127594590187073
+########
+Epoch: 16
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9618643522262573
+Baseline loss: 1.3127594590187073
+########
+Epoch: 17
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9769299477338791
+Baseline loss: 1.3127594590187073
+########
+Epoch: 18
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9940802305936813
+Baseline loss: 1.3127594590187073
+########
+Epoch: 19
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9737716019153595
+Baseline loss: 1.3127594590187073
+########
+Epoch: 20
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0179091542959213
+Baseline loss: 1.3127594590187073
+########
+Epoch: 21
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9903763234615326
+Baseline loss: 1.3127594590187073
+########
+Epoch: 22
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9979018419981003
+Baseline loss: 1.3127594590187073
+########
+Epoch: 23
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9949739724397659
+Baseline loss: 1.3127594590187073
+########
+Epoch: 24
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9718524366617203
+Baseline loss: 1.3127594590187073
+########
+Epoch: 25
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0044395178556442
+Baseline loss: 1.3127594590187073
+########
+Epoch: 26
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0123987942934036
+Baseline loss: 1.3127594590187073
+########
+Epoch: 27
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9423629343509674
+Baseline loss: 1.3127594590187073
+########
+Epoch: 28
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.0110969096422195
+Baseline loss: 1.3127594590187073
+########
+Epoch: 29
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 1.015816017985344
+Baseline loss: 1.3127594590187073
+########
+Epoch: 30
+Trained Edgeconv loss: 0.6751454994082451
+Untrained Edgeconv loss: 0.9696486443281174
+Baseline loss: 1.3127594590187073
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.0057871043682098
+Baseline loss: 0.41022462397813797
+########
+Epoch: 2
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9530319273471832
+Baseline loss: 0.41022462397813797
+########
+Epoch: 3
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9469933360815048
+Baseline loss: 0.41022462397813797
+########
+Epoch: 4
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9373336434364319
+Baseline loss: 0.41022462397813797
+########
+Epoch: 5
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.0103221982717514
+Baseline loss: 0.41022462397813797
+########
+Epoch: 6
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9596590399742126
+Baseline loss: 0.41022462397813797
+########
+Epoch: 7
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.013609141111374
+Baseline loss: 0.41022462397813797
+########
+Epoch: 8
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9954624325037003
+Baseline loss: 0.41022462397813797
+########
+Epoch: 9
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.0173820704221725
+Baseline loss: 0.41022462397813797
+########
+Epoch: 10
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9289320409297943
+Baseline loss: 0.41022462397813797
+########
+Epoch: 11
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9863754659891129
+Baseline loss: 0.41022462397813797
+########
+Epoch: 12
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9596095681190491
+Baseline loss: 0.41022462397813797
+########
+Epoch: 13
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9859816431999207
+Baseline loss: 0.41022462397813797
+########
+Epoch: 14
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9797984957695007
+Baseline loss: 0.41022462397813797
+########
+Epoch: 15
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9727144092321396
+Baseline loss: 0.41022462397813797
+########
+Epoch: 16
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.0067737251520157
+Baseline loss: 0.41022462397813797
+########
+Epoch: 17
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.0516042709350586
+Baseline loss: 0.41022462397813797
+########
+Epoch: 18
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.011949360370636
+Baseline loss: 0.41022462397813797
+########
+Epoch: 19
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.021262288093567
+Baseline loss: 0.41022462397813797
+########
+Epoch: 20
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9686855971813202
+Baseline loss: 0.41022462397813797
+########
+Epoch: 21
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.971554771065712
+Baseline loss: 0.41022462397813797
+########
+Epoch: 22
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9450726211071014
+Baseline loss: 0.41022462397813797
+########
+Epoch: 23
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9434312731027603
+Baseline loss: 0.41022462397813797
+########
+Epoch: 24
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9804059267044067
+Baseline loss: 0.41022462397813797
+########
+Epoch: 25
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9743546694517136
+Baseline loss: 0.41022462397813797
+########
+Epoch: 26
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9881390780210495
+Baseline loss: 0.41022462397813797
+########
+Epoch: 27
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9955982565879822
+Baseline loss: 0.41022462397813797
+########
+Epoch: 28
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9680454879999161
+Baseline loss: 0.41022462397813797
+########
+Epoch: 29
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9971999526023865
+Baseline loss: 0.41022462397813797
+########
+Epoch: 30
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9488749355077744
+Baseline loss: 0.41022462397813797
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.2306320369243622
+Baseline loss: 0.41022462397813797
+########
+Epoch: 2
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.6000430285930634
+Baseline loss: 0.41022462397813797
+########
+Epoch: 3
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.949167862534523
+Baseline loss: 0.41022462397813797
+########
+Epoch: 4
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9408611208200455
+Baseline loss: 0.41022462397813797
+########
+Epoch: 5
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.003347709774971
+Baseline loss: 0.41022462397813797
+########
+Epoch: 6
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9847681224346161
+Baseline loss: 0.41022462397813797
+########
+Epoch: 7
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9731522649526596
+Baseline loss: 0.41022462397813797
+########
+Epoch: 8
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.0353076308965683
+Baseline loss: 0.41022462397813797
+########
+Epoch: 9
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9773480147123337
+Baseline loss: 0.41022462397813797
+########
+Epoch: 10
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.0079163163900375
+Baseline loss: 0.41022462397813797
+########
+Epoch: 11
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9651485830545425
+Baseline loss: 0.41022462397813797
+########
+Epoch: 12
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.967147558927536
+Baseline loss: 0.41022462397813797
+########
+Epoch: 13
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9938344210386276
+Baseline loss: 0.41022462397813797
+########
+Epoch: 14
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.947904571890831
+Baseline loss: 0.41022462397813797
+########
+Epoch: 15
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.0229306519031525
+Baseline loss: 0.41022462397813797
+########
+Epoch: 16
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9819150865077972
+Baseline loss: 0.41022462397813797
+########
+Epoch: 17
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9905215948820114
+Baseline loss: 0.41022462397813797
+########
+Epoch: 18
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9588123559951782
+Baseline loss: 0.41022462397813797
+########
+Epoch: 19
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9757248312234879
+Baseline loss: 0.41022462397813797
+########
+Epoch: 20
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9510244727134705
+Baseline loss: 0.41022462397813797
+########
+Epoch: 21
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.00013367831707
+Baseline loss: 0.41022462397813797
+########
+Epoch: 22
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.020186796784401
+Baseline loss: 0.41022462397813797
+########
+Epoch: 23
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9549683481454849
+Baseline loss: 0.41022462397813797
+########
+Epoch: 24
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9659820348024368
+Baseline loss: 0.41022462397813797
+########
+Epoch: 25
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9748723953962326
+Baseline loss: 0.41022462397813797
+########
+Epoch: 26
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9463290721178055
+Baseline loss: 0.41022462397813797
+########
+Epoch: 27
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.980429396033287
+Baseline loss: 0.41022462397813797
+########
+Epoch: 28
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9913580268621445
+Baseline loss: 0.41022462397813797
+########
+Epoch: 29
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.052552729845047
+Baseline loss: 0.41022462397813797
+########
+Epoch: 30
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9538015574216843
+Baseline loss: 0.41022462397813797
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.0408987700939178
+Baseline loss: 0.41022462397813797
+########
+Epoch: 2
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.0774685740470886
+Baseline loss: 0.41022462397813797
+########
+Epoch: 3
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9878537654876709
+Baseline loss: 0.41022462397813797
+########
+Epoch: 4
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.941222071647644
+Baseline loss: 0.41022462397813797
+########
+Epoch: 5
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9511033296585083
+Baseline loss: 0.41022462397813797
+########
+Epoch: 6
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9643366485834122
+Baseline loss: 0.41022462397813797
+########
+Epoch: 7
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9768087714910507
+Baseline loss: 0.41022462397813797
+########
+Epoch: 8
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.007907748222351
+Baseline loss: 0.41022462397813797
+########
+Epoch: 9
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9817345440387726
+Baseline loss: 0.41022462397813797
+########
+Epoch: 10
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.985835537314415
+Baseline loss: 0.41022462397813797
+########
+Epoch: 11
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9664662629365921
+Baseline loss: 0.41022462397813797
+########
+Epoch: 12
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9702989608049393
+Baseline loss: 0.41022462397813797
+########
+Epoch: 13
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.017125353217125
+Baseline loss: 0.41022462397813797
+########
+Epoch: 14
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9519333392381668
+Baseline loss: 0.41022462397813797
+########
+Epoch: 15
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.0007221102714539
+Baseline loss: 0.41022462397813797
+########
+Epoch: 16
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9697375446557999
+Baseline loss: 0.41022462397813797
+########
+Epoch: 17
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9812308996915817
+Baseline loss: 0.41022462397813797
+########
+Epoch: 18
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9566294401884079
+Baseline loss: 0.41022462397813797
+########
+Epoch: 19
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9900519549846649
+Baseline loss: 0.41022462397813797
+########
+Epoch: 20
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9527024626731873
+Baseline loss: 0.41022462397813797
+########
+Epoch: 21
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9964834749698639
+Baseline loss: 0.41022462397813797
+########
+Epoch: 22
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.0420587062835693
+Baseline loss: 0.41022462397813797
+########
+Epoch: 23
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.957711398601532
+Baseline loss: 0.41022462397813797
+########
+Epoch: 24
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9657802432775497
+Baseline loss: 0.41022462397813797
+########
+Epoch: 25
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9906289577484131
+Baseline loss: 0.41022462397813797
+########
+Epoch: 26
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9400555491447449
+Baseline loss: 0.41022462397813797
+########
+Epoch: 27
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9731487333774567
+Baseline loss: 0.41022462397813797
+########
+Epoch: 28
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9923807978630066
+Baseline loss: 0.41022462397813797
+########
+Epoch: 29
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 1.0030073672533035
+Baseline loss: 0.41022462397813797
+########
+Epoch: 30
+Trained Edgeconv loss: 0.328368216753006
+Untrained Edgeconv loss: 0.9622731506824493
+Baseline loss: 0.41022462397813797
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9566220370205966
+Baseline loss: 0.48034630851312116
+########
+Epoch: 2
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9575363831086592
+Baseline loss: 0.48034630851312116
+########
+Epoch: 3
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.938277239149267
+Baseline loss: 0.48034630851312116
+########
+Epoch: 4
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9344597567211498
+Baseline loss: 0.48034630851312116
+########
+Epoch: 5
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9510356242006476
+Baseline loss: 0.48034630851312116
+########
+Epoch: 6
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.94033128565008
+Baseline loss: 0.48034630851312116
+########
+Epoch: 7
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9520921056920831
+Baseline loss: 0.48034630851312116
+########
+Epoch: 8
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9424695860255848
+Baseline loss: 0.48034630851312116
+########
+Epoch: 9
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 1.000552480871027
+Baseline loss: 0.48034630851312116
+########
+Epoch: 10
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9280505613847212
+Baseline loss: 0.48034630851312116
+########
+Epoch: 11
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9488209811123934
+Baseline loss: 0.48034630851312116
+########
+Epoch: 12
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9245520071549849
+Baseline loss: 0.48034630851312116
+########
+Epoch: 13
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.925797928463329
+Baseline loss: 0.48034630851312116
+########
+Epoch: 14
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9558623866601423
+Baseline loss: 0.48034630851312116
+########
+Epoch: 15
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9258780154314908
+Baseline loss: 0.48034630851312116
+########
+Epoch: 16
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9470075856555592
+Baseline loss: 0.48034630851312116
+########
+Epoch: 17
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9463821486993269
+Baseline loss: 0.48034630851312116
+########
+Epoch: 18
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9530548561703075
+Baseline loss: 0.48034630851312116
+########
+Epoch: 19
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9443119330839678
+Baseline loss: 0.48034630851312116
+########
+Epoch: 20
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9398821646516974
+Baseline loss: 0.48034630851312116
+########
+Epoch: 21
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9373476180163297
+Baseline loss: 0.48034630851312116
+########
+Epoch: 22
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9427384679967706
+Baseline loss: 0.48034630851312116
+########
+Epoch: 23
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9287470416589216
+Baseline loss: 0.48034630851312116
+########
+Epoch: 24
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9510151581330732
+Baseline loss: 0.48034630851312116
+########
+Epoch: 25
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9421642476862128
+Baseline loss: 0.48034630851312116
+########
+Epoch: 26
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9344733411615546
+Baseline loss: 0.48034630851312116
+########
+Epoch: 27
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9395591941746798
+Baseline loss: 0.48034630851312116
+########
+Epoch: 28
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9483590667898004
+Baseline loss: 0.48034630851312116
+########
+Epoch: 29
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9300272518938238
+Baseline loss: 0.48034630851312116
+########
+Epoch: 30
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9299630739472129
+Baseline loss: 0.48034630851312116
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 1.0615053935484453
+Baseline loss: 0.48034630851312116
+########
+Epoch: 2
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 1.1640854315324263
+Baseline loss: 0.48034630851312116
+########
+Epoch: 3
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9455852454358881
+Baseline loss: 0.48034630851312116
+########
+Epoch: 4
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9543735764243386
+Baseline loss: 0.48034630851312116
+########
+Epoch: 5
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9526100863109935
+Baseline loss: 0.48034630851312116
+########
+Epoch: 6
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9362118515101346
+Baseline loss: 0.48034630851312116
+########
+Epoch: 7
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9418659914623607
+Baseline loss: 0.48034630851312116
+########
+Epoch: 8
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9438962719657205
+Baseline loss: 0.48034630851312116
+########
+Epoch: 9
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9678074013103138
+Baseline loss: 0.48034630851312116
+########
+Epoch: 10
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9547860459847883
+Baseline loss: 0.48034630851312116
+########
+Epoch: 11
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9506484486839988
+Baseline loss: 0.48034630851312116
+########
+Epoch: 12
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9563528841192072
+Baseline loss: 0.48034630851312116
+########
+Epoch: 13
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9331057505174116
+Baseline loss: 0.48034630851312116
+########
+Epoch: 14
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.926480623808774
+Baseline loss: 0.48034630851312116
+########
+Epoch: 15
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9699286168271845
+Baseline loss: 0.48034630851312116
+########
+Epoch: 16
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9637068997729908
+Baseline loss: 0.48034630851312116
+########
+Epoch: 17
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9430717825889587
+Baseline loss: 0.48034630851312116
+########
+Epoch: 18
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9460495493628762
+Baseline loss: 0.48034630851312116
+########
+Epoch: 19
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9432589899409901
+Baseline loss: 0.48034630851312116
+########
+Epoch: 20
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9318339824676514
+Baseline loss: 0.48034630851312116
+########
+Epoch: 21
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9361639239571311
+Baseline loss: 0.48034630851312116
+########
+Epoch: 22
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9316225485368208
+Baseline loss: 0.48034630851312116
+########
+Epoch: 23
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9520756981589578
+Baseline loss: 0.48034630851312116
+########
+Epoch: 24
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9418116374449297
+Baseline loss: 0.48034630851312116
+########
+Epoch: 25
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9336043975569985
+Baseline loss: 0.48034630851312116
+########
+Epoch: 26
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9568959203633395
+Baseline loss: 0.48034630851312116
+########
+Epoch: 27
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9218984571370211
+Baseline loss: 0.48034630851312116
+########
+Epoch: 28
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9485722942785784
+Baseline loss: 0.48034630851312116
+########
+Epoch: 29
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9352182691747492
+Baseline loss: 0.48034630851312116
+########
+Epoch: 30
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9550545053048567
+Baseline loss: 0.48034630851312116
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.982644487511028
+Baseline loss: 0.48034630851312116
+########
+Epoch: 2
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9845369187268344
+Baseline loss: 0.48034630851312116
+########
+Epoch: 3
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9454619884490967
+Baseline loss: 0.48034630851312116
+########
+Epoch: 4
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9350747303529219
+Baseline loss: 0.48034630851312116
+########
+Epoch: 5
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9490818002007224
+Baseline loss: 0.48034630851312116
+########
+Epoch: 6
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9349867322228171
+Baseline loss: 0.48034630851312116
+########
+Epoch: 7
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.93665565143932
+Baseline loss: 0.48034630851312116
+########
+Epoch: 8
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.943783467466181
+Baseline loss: 0.48034630851312116
+########
+Epoch: 9
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9567675427957014
+Baseline loss: 0.48034630851312116
+########
+Epoch: 10
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9556589505889199
+Baseline loss: 0.48034630851312116
+########
+Epoch: 11
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9522929787635803
+Baseline loss: 0.48034630851312116
+########
+Epoch: 12
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9561791311610829
+Baseline loss: 0.48034630851312116
+########
+Epoch: 13
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9358675479888916
+Baseline loss: 0.48034630851312116
+########
+Epoch: 14
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9355671459978278
+Baseline loss: 0.48034630851312116
+########
+Epoch: 15
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9560143351554871
+Baseline loss: 0.48034630851312116
+########
+Epoch: 16
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9497866901484403
+Baseline loss: 0.48034630851312116
+########
+Epoch: 17
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9537419297478416
+Baseline loss: 0.48034630851312116
+########
+Epoch: 18
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9361388900063254
+Baseline loss: 0.48034630851312116
+########
+Epoch: 19
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9351182742552324
+Baseline loss: 0.48034630851312116
+########
+Epoch: 20
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9373215707865629
+Baseline loss: 0.48034630851312116
+########
+Epoch: 21
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9315284219655123
+Baseline loss: 0.48034630851312116
+########
+Epoch: 22
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9306607029654763
+Baseline loss: 0.48034630851312116
+########
+Epoch: 23
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.95270789753307
+Baseline loss: 0.48034630851312116
+########
+Epoch: 24
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9405075907707214
+Baseline loss: 0.48034630851312116
+########
+Epoch: 25
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9314218109304254
+Baseline loss: 0.48034630851312116
+########
+Epoch: 26
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9556722315874967
+Baseline loss: 0.48034630851312116
+########
+Epoch: 27
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9224827668883584
+Baseline loss: 0.48034630851312116
+########
+Epoch: 28
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9461746324192394
+Baseline loss: 0.48034630851312116
+########
+Epoch: 29
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9506280042908408
+Baseline loss: 0.48034630851312116
+########
+Epoch: 30
+Trained Edgeconv loss: 0.32594713297757233
+Untrained Edgeconv loss: 0.9516402862288735
+Baseline loss: 0.48034630851312116
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.08616903424263
+Baseline loss: 1.2665633112192154
+########
+Epoch: 2
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.051314041018486
+Baseline loss: 1.2665633112192154
+########
+Epoch: 3
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0837933719158173
+Baseline loss: 1.2665633112192154
+########
+Epoch: 4
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0307599902153015
+Baseline loss: 1.2665633112192154
+########
+Epoch: 5
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.064402312040329
+Baseline loss: 1.2665633112192154
+########
+Epoch: 6
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0542085766792297
+Baseline loss: 1.2665633112192154
+########
+Epoch: 7
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0547874867916107
+Baseline loss: 1.2665633112192154
+########
+Epoch: 8
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.1341060400009155
+Baseline loss: 1.2665633112192154
+########
+Epoch: 9
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0030078887939453
+Baseline loss: 1.2665633112192154
+########
+Epoch: 10
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0982208549976349
+Baseline loss: 1.2665633112192154
+########
+Epoch: 11
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0350991934537888
+Baseline loss: 1.2665633112192154
+########
+Epoch: 12
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0236485600471497
+Baseline loss: 1.2665633112192154
+########
+Epoch: 13
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.015739306807518
+Baseline loss: 1.2665633112192154
+########
+Epoch: 14
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0238470882177353
+Baseline loss: 1.2665633112192154
+########
+Epoch: 15
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0152758806943893
+Baseline loss: 1.2665633112192154
+########
+Epoch: 16
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0254008919000626
+Baseline loss: 1.2665633112192154
+########
+Epoch: 17
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0071990340948105
+Baseline loss: 1.2665633112192154
+########
+Epoch: 18
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0635386109352112
+Baseline loss: 1.2665633112192154
+########
+Epoch: 19
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0098388940095901
+Baseline loss: 1.2665633112192154
+########
+Epoch: 20
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.041869580745697
+Baseline loss: 1.2665633112192154
+########
+Epoch: 21
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.046316996216774
+Baseline loss: 1.2665633112192154
+########
+Epoch: 22
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0238753706216812
+Baseline loss: 1.2665633112192154
+########
+Epoch: 23
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0185130089521408
+Baseline loss: 1.2665633112192154
+########
+Epoch: 24
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.03313809633255
+Baseline loss: 1.2665633112192154
+########
+Epoch: 25
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0190884470939636
+Baseline loss: 1.2665633112192154
+########
+Epoch: 26
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0346385687589645
+Baseline loss: 1.2665633112192154
+########
+Epoch: 27
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0336991399526596
+Baseline loss: 1.2665633112192154
+########
+Epoch: 28
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0142834335565567
+Baseline loss: 1.2665633112192154
+########
+Epoch: 29
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.048489272594452
+Baseline loss: 1.2665633112192154
+########
+Epoch: 30
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.035538598895073
+Baseline loss: 1.2665633112192154
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0333939045667648
+Baseline loss: 1.2665633112192154
+########
+Epoch: 2
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.1312450766563416
+Baseline loss: 1.2665633112192154
+########
+Epoch: 3
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.1540132015943527
+Baseline loss: 1.2665633112192154
+########
+Epoch: 4
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.1280826032161713
+Baseline loss: 1.2665633112192154
+########
+Epoch: 5
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.1746902763843536
+Baseline loss: 1.2665633112192154
+########
+Epoch: 6
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0402784645557404
+Baseline loss: 1.2665633112192154
+########
+Epoch: 7
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.030137524008751
+Baseline loss: 1.2665633112192154
+########
+Epoch: 8
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.033996120095253
+Baseline loss: 1.2665633112192154
+########
+Epoch: 9
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0578222274780273
+Baseline loss: 1.2665633112192154
+########
+Epoch: 10
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0368925034999847
+Baseline loss: 1.2665633112192154
+########
+Epoch: 11
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0183746367692947
+Baseline loss: 1.2665633112192154
+########
+Epoch: 12
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0580511838197708
+Baseline loss: 1.2665633112192154
+########
+Epoch: 13
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0413175523281097
+Baseline loss: 1.2665633112192154
+########
+Epoch: 14
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.017622098326683
+Baseline loss: 1.2665633112192154
+########
+Epoch: 15
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0352852046489716
+Baseline loss: 1.2665633112192154
+########
+Epoch: 16
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0638808757066727
+Baseline loss: 1.2665633112192154
+########
+Epoch: 17
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.1243976205587387
+Baseline loss: 1.2665633112192154
+########
+Epoch: 18
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0644302666187286
+Baseline loss: 1.2665633112192154
+########
+Epoch: 19
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.030821070075035
+Baseline loss: 1.2665633112192154
+########
+Epoch: 20
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0987667590379715
+Baseline loss: 1.2665633112192154
+########
+Epoch: 21
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0859957337379456
+Baseline loss: 1.2665633112192154
+########
+Epoch: 22
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.048690378665924
+Baseline loss: 1.2665633112192154
+########
+Epoch: 23
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0668683648109436
+Baseline loss: 1.2665633112192154
+########
+Epoch: 24
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0028179585933685
+Baseline loss: 1.2665633112192154
+########
+Epoch: 25
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.023216187953949
+Baseline loss: 1.2665633112192154
+########
+Epoch: 26
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0655456185340881
+Baseline loss: 1.2665633112192154
+########
+Epoch: 27
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0072971135377884
+Baseline loss: 1.2665633112192154
+########
+Epoch: 28
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0628919154405594
+Baseline loss: 1.2665633112192154
+########
+Epoch: 29
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0322711616754532
+Baseline loss: 1.2665633112192154
+########
+Epoch: 30
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0829975754022598
+Baseline loss: 1.2665633112192154
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0353137850761414
+Baseline loss: 1.2665633112192154
+########
+Epoch: 2
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0915480554103851
+Baseline loss: 1.2665633112192154
+########
+Epoch: 3
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0549318492412567
+Baseline loss: 1.2665633112192154
+########
+Epoch: 4
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.109320506453514
+Baseline loss: 1.2665633112192154
+########
+Epoch: 5
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.1673866659402847
+Baseline loss: 1.2665633112192154
+########
+Epoch: 6
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0350110083818436
+Baseline loss: 1.2665633112192154
+########
+Epoch: 7
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.031824380159378
+Baseline loss: 1.2665633112192154
+########
+Epoch: 8
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0604801326990128
+Baseline loss: 1.2665633112192154
+########
+Epoch: 9
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.060535877943039
+Baseline loss: 1.2665633112192154
+########
+Epoch: 10
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0337171256542206
+Baseline loss: 1.2665633112192154
+########
+Epoch: 11
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0221724957227707
+Baseline loss: 1.2665633112192154
+########
+Epoch: 12
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0716874450445175
+Baseline loss: 1.2665633112192154
+########
+Epoch: 13
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0262832343578339
+Baseline loss: 1.2665633112192154
+########
+Epoch: 14
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0196892321109772
+Baseline loss: 1.2665633112192154
+########
+Epoch: 15
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0448805093765259
+Baseline loss: 1.2665633112192154
+########
+Epoch: 16
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0637033134698868
+Baseline loss: 1.2665633112192154
+########
+Epoch: 17
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.119469940662384
+Baseline loss: 1.2665633112192154
+########
+Epoch: 18
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0500577241182327
+Baseline loss: 1.2665633112192154
+########
+Epoch: 19
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0267461240291595
+Baseline loss: 1.2665633112192154
+########
+Epoch: 20
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0999735742807388
+Baseline loss: 1.2665633112192154
+########
+Epoch: 21
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0839154124259949
+Baseline loss: 1.2665633112192154
+########
+Epoch: 22
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0552253872156143
+Baseline loss: 1.2665633112192154
+########
+Epoch: 23
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0628567934036255
+Baseline loss: 1.2665633112192154
+########
+Epoch: 24
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0054373294115067
+Baseline loss: 1.2665633112192154
+########
+Epoch: 25
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0220183432102203
+Baseline loss: 1.2665633112192154
+########
+Epoch: 26
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0687006115913391
+Baseline loss: 1.2665633112192154
+########
+Epoch: 27
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0072168707847595
+Baseline loss: 1.2665633112192154
+########
+Epoch: 28
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.0291955471038818
+Baseline loss: 1.2665633112192154
+########
+Epoch: 29
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.023212030529976
+Baseline loss: 1.2665633112192154
+########
+Epoch: 30
+Trained Edgeconv loss: 0.7366577237844467
+Untrained Edgeconv loss: 1.081513687968254
+Baseline loss: 1.2665633112192154
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0247064977884293
+Baseline loss: 1.7558509707450867
+########
+Epoch: 2
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0415127277374268
+Baseline loss: 1.7558509707450867
+########
+Epoch: 3
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.060610979795456
+Baseline loss: 1.7558509707450867
+########
+Epoch: 4
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0262081027030945
+Baseline loss: 1.7558509707450867
+########
+Epoch: 5
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0701819956302643
+Baseline loss: 1.7558509707450867
+########
+Epoch: 6
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.097091093659401
+Baseline loss: 1.7558509707450867
+########
+Epoch: 7
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0606688410043716
+Baseline loss: 1.7558509707450867
+########
+Epoch: 8
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0615998208522797
+Baseline loss: 1.7558509707450867
+########
+Epoch: 9
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0122014731168747
+Baseline loss: 1.7558509707450867
+########
+Epoch: 10
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0217337161302567
+Baseline loss: 1.7558509707450867
+########
+Epoch: 11
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0290459096431732
+Baseline loss: 1.7558509707450867
+########
+Epoch: 12
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0289380848407745
+Baseline loss: 1.7558509707450867
+########
+Epoch: 13
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0385570675134659
+Baseline loss: 1.7558509707450867
+########
+Epoch: 14
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0388180762529373
+Baseline loss: 1.7558509707450867
+########
+Epoch: 15
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.01417575776577
+Baseline loss: 1.7558509707450867
+########
+Epoch: 16
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0319238305091858
+Baseline loss: 1.7558509707450867
+########
+Epoch: 17
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0279144197702408
+Baseline loss: 1.7558509707450867
+########
+Epoch: 18
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0612663179636002
+Baseline loss: 1.7558509707450867
+########
+Epoch: 19
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0328990072011948
+Baseline loss: 1.7558509707450867
+########
+Epoch: 20
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.010839194059372
+Baseline loss: 1.7558509707450867
+########
+Epoch: 21
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0282967537641525
+Baseline loss: 1.7558509707450867
+########
+Epoch: 22
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0311986207962036
+Baseline loss: 1.7558509707450867
+########
+Epoch: 23
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0536549240350723
+Baseline loss: 1.7558509707450867
+########
+Epoch: 24
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0334801822900772
+Baseline loss: 1.7558509707450867
+########
+Epoch: 25
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0353312343358994
+Baseline loss: 1.7558509707450867
+########
+Epoch: 26
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0171893388032913
+Baseline loss: 1.7558509707450867
+########
+Epoch: 27
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0732923746109009
+Baseline loss: 1.7558509707450867
+########
+Epoch: 28
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.12225903570652
+Baseline loss: 1.7558509707450867
+########
+Epoch: 29
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0536597818136215
+Baseline loss: 1.7558509707450867
+########
+Epoch: 30
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.042825385928154
+Baseline loss: 1.7558509707450867
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0167625397443771
+Baseline loss: 1.7558509707450867
+########
+Epoch: 2
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0380234867334366
+Baseline loss: 1.7558509707450867
+########
+Epoch: 3
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0867512673139572
+Baseline loss: 1.7558509707450867
+########
+Epoch: 4
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0333916544914246
+Baseline loss: 1.7558509707450867
+########
+Epoch: 5
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.1054408550262451
+Baseline loss: 1.7558509707450867
+########
+Epoch: 6
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.049339309334755
+Baseline loss: 1.7558509707450867
+########
+Epoch: 7
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0496847480535507
+Baseline loss: 1.7558509707450867
+########
+Epoch: 8
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0277713686227798
+Baseline loss: 1.7558509707450867
+########
+Epoch: 9
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0529875755310059
+Baseline loss: 1.7558509707450867
+########
+Epoch: 10
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0649242550134659
+Baseline loss: 1.7558509707450867
+########
+Epoch: 11
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.1231698542833328
+Baseline loss: 1.7558509707450867
+########
+Epoch: 12
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0643655061721802
+Baseline loss: 1.7558509707450867
+########
+Epoch: 13
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.015449896454811
+Baseline loss: 1.7558509707450867
+########
+Epoch: 14
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0830624103546143
+Baseline loss: 1.7558509707450867
+########
+Epoch: 15
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0554236769676208
+Baseline loss: 1.7558509707450867
+########
+Epoch: 16
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.028494119644165
+Baseline loss: 1.7558509707450867
+########
+Epoch: 17
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0437348783016205
+Baseline loss: 1.7558509707450867
+########
+Epoch: 18
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.05252106487751
+Baseline loss: 1.7558509707450867
+########
+Epoch: 19
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0125760585069656
+Baseline loss: 1.7558509707450867
+########
+Epoch: 20
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0814347863197327
+Baseline loss: 1.7558509707450867
+########
+Epoch: 21
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0810094773769379
+Baseline loss: 1.7558509707450867
+########
+Epoch: 22
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0349342823028564
+Baseline loss: 1.7558509707450867
+########
+Epoch: 23
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.048496425151825
+Baseline loss: 1.7558509707450867
+########
+Epoch: 24
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0337300449609756
+Baseline loss: 1.7558509707450867
+########
+Epoch: 25
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0774342119693756
+Baseline loss: 1.7558509707450867
+########
+Epoch: 26
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0562783181667328
+Baseline loss: 1.7558509707450867
+########
+Epoch: 27
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 0.991872027516365
+Baseline loss: 1.7558509707450867
+########
+Epoch: 28
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0797909945249557
+Baseline loss: 1.7558509707450867
+########
+Epoch: 29
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0860144644975662
+Baseline loss: 1.7558509707450867
+########
+Epoch: 30
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0178819596767426
+Baseline loss: 1.7558509707450867
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0310129076242447
+Baseline loss: 1.7558509707450867
+########
+Epoch: 2
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0543030351400375
+Baseline loss: 1.7558509707450867
+########
+Epoch: 3
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0639732480049133
+Baseline loss: 1.7558509707450867
+########
+Epoch: 4
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0462975353002548
+Baseline loss: 1.7558509707450867
+########
+Epoch: 5
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.051082894206047
+Baseline loss: 1.7558509707450867
+########
+Epoch: 6
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0270255655050278
+Baseline loss: 1.7558509707450867
+########
+Epoch: 7
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.028440460562706
+Baseline loss: 1.7558509707450867
+########
+Epoch: 8
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0437583774328232
+Baseline loss: 1.7558509707450867
+########
+Epoch: 9
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.041006088256836
+Baseline loss: 1.7558509707450867
+########
+Epoch: 10
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0314537584781647
+Baseline loss: 1.7558509707450867
+########
+Epoch: 11
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.056630551815033
+Baseline loss: 1.7558509707450867
+########
+Epoch: 12
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0275212079286575
+Baseline loss: 1.7558509707450867
+########
+Epoch: 13
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0214363932609558
+Baseline loss: 1.7558509707450867
+########
+Epoch: 14
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0875484198331833
+Baseline loss: 1.7558509707450867
+########
+Epoch: 15
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.037085935473442
+Baseline loss: 1.7558509707450867
+########
+Epoch: 16
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0293806493282318
+Baseline loss: 1.7558509707450867
+########
+Epoch: 17
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0199270993471146
+Baseline loss: 1.7558509707450867
+########
+Epoch: 18
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0597546100616455
+Baseline loss: 1.7558509707450867
+########
+Epoch: 19
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0653946101665497
+Baseline loss: 1.7558509707450867
+########
+Epoch: 20
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0713242292404175
+Baseline loss: 1.7558509707450867
+########
+Epoch: 21
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0207380652427673
+Baseline loss: 1.7558509707450867
+########
+Epoch: 22
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.038415938615799
+Baseline loss: 1.7558509707450867
+########
+Epoch: 23
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0379067063331604
+Baseline loss: 1.7558509707450867
+########
+Epoch: 24
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0294603556394577
+Baseline loss: 1.7558509707450867
+########
+Epoch: 25
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0417363196611404
+Baseline loss: 1.7558509707450867
+########
+Epoch: 26
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0750874876976013
+Baseline loss: 1.7558509707450867
+########
+Epoch: 27
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0444049835205078
+Baseline loss: 1.7558509707450867
+########
+Epoch: 28
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0419715195894241
+Baseline loss: 1.7558509707450867
+########
+Epoch: 29
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0686567574739456
+Baseline loss: 1.7558509707450867
+########
+Epoch: 30
+Trained Edgeconv loss: 0.9605559408664703
+Untrained Edgeconv loss: 1.0181014686822891
+Baseline loss: 1.7558509707450867
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0924085487018933
+Baseline loss: 0.6329519708048214
+########
+Epoch: 2
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0801112028685482
+Baseline loss: 0.6329519708048214
+########
+Epoch: 3
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0796057934110814
+Baseline loss: 0.6329519708048214
+########
+Epoch: 4
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0661490153182636
+Baseline loss: 0.6329519708048214
+########
+Epoch: 5
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0869637429714203
+Baseline loss: 0.6329519708048214
+########
+Epoch: 6
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.072769750248302
+Baseline loss: 0.6329519708048214
+########
+Epoch: 7
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.1190257153727792
+Baseline loss: 0.6329519708048214
+########
+Epoch: 8
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0907848612828688
+Baseline loss: 0.6329519708048214
+########
+Epoch: 9
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.1329461471600966
+Baseline loss: 0.6329519708048214
+########
+Epoch: 10
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0656975995410571
+Baseline loss: 0.6329519708048214
+########
+Epoch: 11
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0778827369213104
+Baseline loss: 0.6329519708048214
+########
+Epoch: 12
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0773828327655792
+Baseline loss: 0.6329519708048214
+########
+Epoch: 13
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0725422311912884
+Baseline loss: 0.6329519708048214
+########
+Epoch: 14
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0878892649303784
+Baseline loss: 0.6329519708048214
+########
+Epoch: 15
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0724904455921866
+Baseline loss: 0.6329519708048214
+########
+Epoch: 16
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0901356420733712
+Baseline loss: 0.6329519708048214
+########
+Epoch: 17
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.1017762503840707
+Baseline loss: 0.6329519708048214
+########
+Epoch: 18
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0868364843455227
+Baseline loss: 0.6329519708048214
+########
+Epoch: 19
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.1053554686633023
+Baseline loss: 0.6329519708048214
+########
+Epoch: 20
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0771429403261705
+Baseline loss: 0.6329519708048214
+########
+Epoch: 21
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0794515176252886
+Baseline loss: 0.6329519708048214
+########
+Epoch: 22
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.067270043221387
+Baseline loss: 0.6329519708048214
+########
+Epoch: 23
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.075705354863947
+Baseline loss: 0.6329519708048214
+########
+Epoch: 24
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0858287567442113
+Baseline loss: 0.6329519708048214
+########
+Epoch: 25
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0903392921794544
+Baseline loss: 0.6329519708048214
+########
+Epoch: 26
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0752547491680493
+Baseline loss: 0.6329519708048214
+########
+Epoch: 27
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0863339061086827
+Baseline loss: 0.6329519708048214
+########
+Epoch: 28
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0923950103196232
+Baseline loss: 0.6329519708048214
+########
+Epoch: 29
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0785559497096322
+Baseline loss: 0.6329519708048214
+########
+Epoch: 30
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0709147913889452
+Baseline loss: 0.6329519708048214
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.3082314810969613
+Baseline loss: 0.6329519708048214
+########
+Epoch: 2
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.100542268969796
+Baseline loss: 0.6329519708048214
+########
+Epoch: 3
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.131273621862585
+Baseline loss: 0.6329519708048214
+########
+Epoch: 4
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.06499522653493
+Baseline loss: 0.6329519708048214
+########
+Epoch: 5
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.1038972301916643
+Baseline loss: 0.6329519708048214
+########
+Epoch: 6
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0758877965536984
+Baseline loss: 0.6329519708048214
+########
+Epoch: 7
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.072656200690703
+Baseline loss: 0.6329519708048214
+########
+Epoch: 8
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0860836614261975
+Baseline loss: 0.6329519708048214
+########
+Epoch: 9
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.068673158233816
+Baseline loss: 0.6329519708048214
+########
+Epoch: 10
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.1096636842597614
+Baseline loss: 0.6329519708048214
+########
+Epoch: 11
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.118994328108701
+Baseline loss: 0.6329519708048214
+########
+Epoch: 12
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0751761875369332
+Baseline loss: 0.6329519708048214
+########
+Epoch: 13
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0801619047468358
+Baseline loss: 0.6329519708048214
+########
+Epoch: 14
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0643728836016222
+Baseline loss: 0.6329519708048214
+########
+Epoch: 15
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.075969785451889
+Baseline loss: 0.6329519708048214
+########
+Epoch: 16
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0941401503302834
+Baseline loss: 0.6329519708048214
+########
+Epoch: 17
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0751319608905099
+Baseline loss: 0.6329519708048214
+########
+Epoch: 18
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0739306455308741
+Baseline loss: 0.6329519708048214
+########
+Epoch: 19
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0935197337107225
+Baseline loss: 0.6329519708048214
+########
+Epoch: 20
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.088423945687034
+Baseline loss: 0.6329519708048214
+########
+Epoch: 21
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.085394181988456
+Baseline loss: 0.6329519708048214
+########
+Epoch: 22
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0807488289746372
+Baseline loss: 0.6329519708048214
+########
+Epoch: 23
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.085994457656687
+Baseline loss: 0.6329519708048214
+########
+Epoch: 24
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0790255286476829
+Baseline loss: 0.6329519708048214
+########
+Epoch: 25
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0688693821430206
+Baseline loss: 0.6329519708048214
+########
+Epoch: 26
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0878016461025586
+Baseline loss: 0.6329519708048214
+########
+Epoch: 27
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0604476630687714
+Baseline loss: 0.6329519708048214
+########
+Epoch: 28
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0824323919686405
+Baseline loss: 0.6329519708048214
+########
+Epoch: 29
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.1162714660167694
+Baseline loss: 0.6329519708048214
+########
+Epoch: 30
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.075664292682301
+Baseline loss: 0.6329519708048214
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.11578906937079
+Baseline loss: 0.6329519708048214
+########
+Epoch: 2
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.1049302409995685
+Baseline loss: 0.6329519708048214
+########
+Epoch: 3
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0859630785205148
+Baseline loss: 0.6329519708048214
+########
+Epoch: 4
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.069104164838791
+Baseline loss: 0.6329519708048214
+########
+Epoch: 5
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0833680873567408
+Baseline loss: 0.6329519708048214
+########
+Epoch: 6
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0767542692747982
+Baseline loss: 0.6329519708048214
+########
+Epoch: 7
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0733516297557137
+Baseline loss: 0.6329519708048214
+########
+Epoch: 8
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.1024571765552869
+Baseline loss: 0.6329519708048214
+########
+Epoch: 9
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0686216706579381
+Baseline loss: 0.6329519708048214
+########
+Epoch: 10
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.094059093431993
+Baseline loss: 0.6329519708048214
+########
+Epoch: 11
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0958336212418296
+Baseline loss: 0.6329519708048214
+########
+Epoch: 12
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0753250338814475
+Baseline loss: 0.6329519708048214
+########
+Epoch: 13
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0875036797740243
+Baseline loss: 0.6329519708048214
+########
+Epoch: 14
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0645937729965558
+Baseline loss: 0.6329519708048214
+########
+Epoch: 15
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0927405547011981
+Baseline loss: 0.6329519708048214
+########
+Epoch: 16
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0789566527713428
+Baseline loss: 0.6329519708048214
+########
+Epoch: 17
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0847672034393658
+Baseline loss: 0.6329519708048214
+########
+Epoch: 18
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0734504488381473
+Baseline loss: 0.6329519708048214
+########
+Epoch: 19
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0821128677238117
+Baseline loss: 0.6329519708048214
+########
+Epoch: 20
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0886375849897212
+Baseline loss: 0.6329519708048214
+########
+Epoch: 21
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.081609476696361
+Baseline loss: 0.6329519708048214
+########
+Epoch: 22
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0765557451681658
+Baseline loss: 0.6329519708048214
+########
+Epoch: 23
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.085648607123982
+Baseline loss: 0.6329519708048214
+########
+Epoch: 24
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0777191899039529
+Baseline loss: 0.6329519708048214
+########
+Epoch: 25
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0690084939653224
+Baseline loss: 0.6329519708048214
+########
+Epoch: 26
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0885486575690182
+Baseline loss: 0.6329519708048214
+########
+Epoch: 27
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.059495915066112
+Baseline loss: 0.6329519708048214
+########
+Epoch: 28
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0833316174420444
+Baseline loss: 0.6329519708048214
+########
+Epoch: 29
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0831339684399692
+Baseline loss: 0.6329519708048214
+########
+Epoch: 30
+Trained Edgeconv loss: 0.45966699651696463
+Untrained Edgeconv loss: 1.0807669867168774
+Baseline loss: 0.6329519708048214
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.1003191444006832
+Baseline loss: 0.9784392497756265
+########
+Epoch: 2
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0922654596242038
+Baseline loss: 0.9784392497756265
+########
+Epoch: 3
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0886060432954268
+Baseline loss: 0.9784392497756265
+########
+Epoch: 4
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.077050276777961
+Baseline loss: 0.9784392497756265
+########
+Epoch: 5
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0942661410028285
+Baseline loss: 0.9784392497756265
+########
+Epoch: 6
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0803205018693751
+Baseline loss: 0.9784392497756265
+########
+Epoch: 7
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.1221255443312905
+Baseline loss: 0.9784392497756265
+########
+Epoch: 8
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0985101705247706
+Baseline loss: 0.9784392497756265
+########
+Epoch: 9
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.1361242857846348
+Baseline loss: 0.9784392497756265
+########
+Epoch: 10
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0758489668369293
+Baseline loss: 0.9784392497756265
+########
+Epoch: 11
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0840108530087904
+Baseline loss: 0.9784392497756265
+########
+Epoch: 12
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0842205692421307
+Baseline loss: 0.9784392497756265
+########
+Epoch: 13
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0783829147165471
+Baseline loss: 0.9784392497756265
+########
+Epoch: 14
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0947857905517926
+Baseline loss: 0.9784392497756265
+########
+Epoch: 15
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0789790099317378
+Baseline loss: 0.9784392497756265
+########
+Epoch: 16
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0982361164959995
+Baseline loss: 0.9784392497756265
+########
+Epoch: 17
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.1067315502600237
+Baseline loss: 0.9784392497756265
+########
+Epoch: 18
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0960492573001168
+Baseline loss: 0.9784392497756265
+########
+Epoch: 19
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.1097137602892788
+Baseline loss: 0.9784392497756265
+########
+Epoch: 20
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0885725915431976
+Baseline loss: 0.9784392497756265
+########
+Epoch: 21
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0872027792713859
+Baseline loss: 0.9784392497756265
+########
+Epoch: 22
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0775621316649697
+Baseline loss: 0.9784392497756265
+########
+Epoch: 23
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0830447429960424
+Baseline loss: 0.9784392497756265
+########
+Epoch: 24
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.092384235425429
+Baseline loss: 0.9784392497756265
+########
+Epoch: 25
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0960237871516834
+Baseline loss: 0.9784392497756265
+########
+Epoch: 26
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0819416019049557
+Baseline loss: 0.9784392497756265
+########
+Epoch: 27
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0925338674675336
+Baseline loss: 0.9784392497756265
+########
+Epoch: 28
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0985274856740779
+Baseline loss: 0.9784392497756265
+########
+Epoch: 29
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0876531113277783
+Baseline loss: 0.9784392497756265
+########
+Epoch: 30
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0792320289395072
+Baseline loss: 0.9784392497756265
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.2469625689766624
+Baseline loss: 0.9784392497756265
+########
+Epoch: 2
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.1020449806343426
+Baseline loss: 0.9784392497756265
+########
+Epoch: 3
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.1303166394883937
+Baseline loss: 0.9784392497756265
+########
+Epoch: 4
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.07253267548301
+Baseline loss: 0.9784392497756265
+########
+Epoch: 5
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.108872578902678
+Baseline loss: 0.9784392497756265
+########
+Epoch: 6
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0856304466724396
+Baseline loss: 0.9784392497756265
+########
+Epoch: 7
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0848416956988247
+Baseline loss: 0.9784392497756265
+########
+Epoch: 8
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0991740118373523
+Baseline loss: 0.9784392497756265
+########
+Epoch: 9
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0773821283470502
+Baseline loss: 0.9784392497756265
+########
+Epoch: 10
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.1119844127785077
+Baseline loss: 0.9784392497756265
+########
+Epoch: 11
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.128916252743114
+Baseline loss: 0.9784392497756265
+########
+Epoch: 12
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.082072826949033
+Baseline loss: 0.9784392497756265
+########
+Epoch: 13
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.087165193124251
+Baseline loss: 0.9784392497756265
+########
+Epoch: 14
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0745164968750693
+Baseline loss: 0.9784392497756265
+########
+Epoch: 15
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0869565226814963
+Baseline loss: 0.9784392497756265
+########
+Epoch: 16
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.1062767153436488
+Baseline loss: 0.9784392497756265
+########
+Epoch: 17
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0836093859239058
+Baseline loss: 0.9784392497756265
+########
+Epoch: 18
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0839891704646023
+Baseline loss: 0.9784392497756265
+########
+Epoch: 19
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0983852310614153
+Baseline loss: 0.9784392497756265
+########
+Epoch: 20
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0975591919638894
+Baseline loss: 0.9784392497756265
+########
+Epoch: 21
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0943769297816537
+Baseline loss: 0.9784392497756265
+########
+Epoch: 22
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0881713466210798
+Baseline loss: 0.9784392497756265
+########
+Epoch: 23
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0932430028915405
+Baseline loss: 0.9784392497756265
+########
+Epoch: 24
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0849715146151455
+Baseline loss: 0.9784392497756265
+########
+Epoch: 25
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0791291025551883
+Baseline loss: 0.9784392497756265
+########
+Epoch: 26
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0940020030195063
+Baseline loss: 0.9784392497756265
+########
+Epoch: 27
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.071094962683591
+Baseline loss: 0.9784392497756265
+########
+Epoch: 28
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0955532653765245
+Baseline loss: 0.9784392497756265
+########
+Epoch: 29
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.1190353008833798
+Baseline loss: 0.9784392497756265
+########
+Epoch: 30
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0821036235852675
+Baseline loss: 0.9784392497756265
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.1205578581853346
+Baseline loss: 0.9784392497756265
+########
+Epoch: 2
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0759526978839526
+Baseline loss: 0.9784392497756265
+########
+Epoch: 3
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0804191421378742
+Baseline loss: 0.9784392497756265
+########
+Epoch: 4
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0979047444733707
+Baseline loss: 0.9784392497756265
+########
+Epoch: 5
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0841857520016758
+Baseline loss: 0.9784392497756265
+########
+Epoch: 6
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0956208191134713
+Baseline loss: 0.9784392497756265
+########
+Epoch: 7
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0845792266455563
+Baseline loss: 0.9784392497756265
+########
+Epoch: 8
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0995471938089891
+Baseline loss: 0.9784392497756265
+########
+Epoch: 9
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0870491781017997
+Baseline loss: 0.9784392497756265
+########
+Epoch: 10
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0719864774834027
+Baseline loss: 0.9784392497756265
+########
+Epoch: 11
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.100269008766521
+Baseline loss: 0.9784392497756265
+########
+Epoch: 12
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0894921801306985
+Baseline loss: 0.9784392497756265
+########
+Epoch: 13
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0827414854006334
+Baseline loss: 0.9784392497756265
+########
+Epoch: 14
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0867160071026196
+Baseline loss: 0.9784392497756265
+########
+Epoch: 15
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0943630310622128
+Baseline loss: 0.9784392497756265
+########
+Epoch: 16
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.09202119437131
+Baseline loss: 0.9784392497756265
+########
+Epoch: 17
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.081112113865939
+Baseline loss: 0.9784392497756265
+########
+Epoch: 18
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0907836881550876
+Baseline loss: 0.9784392497756265
+########
+Epoch: 19
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0878957645459608
+Baseline loss: 0.9784392497756265
+########
+Epoch: 20
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0974683734503659
+Baseline loss: 0.9784392497756265
+########
+Epoch: 21
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0988730679858814
+Baseline loss: 0.9784392497756265
+########
+Epoch: 22
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0970424820076337
+Baseline loss: 0.9784392497756265
+########
+Epoch: 23
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0833744542165236
+Baseline loss: 0.9784392497756265
+########
+Epoch: 24
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0970635983076962
+Baseline loss: 0.9784392497756265
+########
+Epoch: 25
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0905796397816052
+Baseline loss: 0.9784392497756265
+########
+Epoch: 26
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.1112260195341976
+Baseline loss: 0.9784392497756265
+########
+Epoch: 27
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.07503080368042
+Baseline loss: 0.9784392497756265
+########
+Epoch: 28
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0816201919859105
+Baseline loss: 0.9784392497756265
+########
+Epoch: 29
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0704902627251365
+Baseline loss: 0.9784392497756265
+########
+Epoch: 30
+Trained Edgeconv loss: 0.6054843257774006
+Untrained Edgeconv loss: 1.0974413589997725
+Baseline loss: 0.9784392497756265
+########
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@hpc.dtu.dk>
+Subject: Job 10568004: <compare> in cluster <dcc> Done
+
+Job <compare> was submitted from host <gbarlogin1> by user <tfehjo> in cluster <dcc> at Tue Oct  5 19:43:52 2021
+Job was executed on host(s) <n-62-20-12>, in queue <gpuv100>, as user <tfehjo> in cluster <dcc> at Tue Oct  5 19:43:53 2021
+</zhome/2b/7/117471> was used as the home directory.
+</zhome/2b/7/117471/Thesis/train_scripts> was used as the working directory.
+Started at Tue Oct  5 19:43:53 2021
+Terminated at Tue Oct  5 21:00:17 2021
+Results reported at Tue Oct  5 21:00:17 2021
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/sh
+#BSUB -J compare #The name the job will get
+#BSUB -q gpuv100 #The queue the job will be committed to, here the GPU enabled queue
+#BSUB -gpu "num=1:mode=exclusive_process" #How the job will be run on the VM, here I request 1 GPU with exclusive access i.e. only my c #BSUB -n 1 How many CPU cores my job request
+#BSUB -W 24:00 #The maximum runtime my job have note that the queuing might enable shorter jobs earlier due to scheduling.
+#BSUB -R "span[hosts=1]" #How many nodes the job requests
+#BSUB -R "rusage[mem=12GB]" #How much RAM the job should have access to
+#BSUB -R "select[gpu32gb]" #For requesting the extra big GPU w. 32GB of VRAM
+#BSUB -o logs/OUTPUT.%J #Log file
+#BSUB -e logs/ERROR.%J #Error log file
+echo "Starting:"
+
+cd ~/Thesis/metalearning
+#cd /Users/theisferre/Documents/SPECIALE/Thesis/src/models
+
+source ~/Thesis/venv-thesis/bin/activate
+
+
+python /zhome/2b/7/117471/Thesis/src/models/compare_metalearning.py
+
+
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   4557.25 sec.
+    Max Memory :                                 2934 MB
+    Average Memory :                             2680.65 MB
+    Total Requested Memory :                     12288.00 MB
+    Delta Memory :                               9354.00 MB
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                8
+    Run time :                                   4593 sec.
+    Turnaround time :                            4585 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <logs/ERROR.10568004> for stderr output of this job.
+

@@ -1,0 +1,69 @@
+INFO:__main__:GM2017-july-sep-GRID.pkl
+INFO:__main__:excluding citibike-tripdata-GRID
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/GM2017-july-sep-GRID.pkl
+INFO:__main__:yellow-taxi2020-nov-REGION.pkl
+INFO:__main__:excluding citibike-tripdata-GRID
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/yellow-taxi2020-nov-REGION.pkl
+INFO:__main__:citibike-tripdata-REGION.pkl
+INFO:__main__:excluding citibike-tripdata-GRID
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/citibike-tripdata-REGION.pkl
+INFO:__main__:LYFT2014-july-sep-GRID.pkl
+INFO:__main__:excluding citibike-tripdata-GRID
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/LYFT2014-july-sep-GRID.pkl
+INFO:__main__:UBER2015-jan-june-GRID.pkl
+INFO:__main__:excluding citibike-tripdata-GRID
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/UBER2015-jan-june-GRID.pkl
+INFO:__main__:TLC2018-FHV-aug-REGION.pkl
+INFO:__main__:excluding citibike-tripdata-GRID
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/TLC2018-FHV-aug-REGION.pkl
+INFO:__main__:T-Drive-taxi-pickups-GRID.pkl
+INFO:__main__:excluding citibike-tripdata-GRID
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/T-Drive-taxi-pickups-GRID.pkl
+INFO:__main__:GM2017-july-sep-REGION.pkl
+INFO:__main__:excluding citibike-tripdata-GRID
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/GM2017-july-sep-REGION.pkl
+INFO:__main__:UBER2015-jan-june-REGION.pkl
+INFO:__main__:excluding citibike-tripdata-GRID
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/UBER2015-jan-june-REGION.pkl
+INFO:__main__:green-taxi2020-dec-GRID.pkl
+INFO:__main__:excluding citibike-tripdata-GRID
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/green-taxi2020-dec-GRID.pkl
+INFO:__main__:TLC2018-FHV-aug-GRID.pkl
+INFO:__main__:excluding citibike-tripdata-GRID
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/TLC2018-FHV-aug-GRID.pkl
+INFO:__main__:citibike-tripdata-GRID.pkl
+INFO:__main__:excluding citibike-tripdata-GRID
+INFO:__main__:excluded
+INFO:__main__:yellow-taxi2020-nov-GRID.pkl
+INFO:__main__:excluding citibike-tripdata-GRID
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/yellow-taxi2020-nov-GRID.pkl
+INFO:__main__:green-taxi2020-dec-REGION.pkl
+INFO:__main__:excluding citibike-tripdata-GRID
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/green-taxi2020-dec-REGION.pkl
+INFO:__main__:citibike2014-tripdata-GRID.pkl
+INFO:__main__:excluding citibike-tripdata-GRID
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/citibike2014-tripdata-GRID.pkl
+INFO:__main__:citibike2014-tripdata-REGION.pkl
+INFO:__main__:excluding citibike-tripdata-GRID
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/citibike2014-tripdata-REGION.pkl
+INFO:__main__:{'GM2017-july-sep-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7fbb8e028a00>, 'yellow-taxi2020-nov-REGION': <torch_geometric.data.dataloader.DataLoader object at 0x7fbb8e0288b0>, 'citibike-tripdata-REGION': <torch_geometric.data.dataloader.DataLoader object at 0x7fbb8de66bb0>, 'LYFT2014-july-sep-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7fbb8e665160>, 'UBER2015-jan-june-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7fbb8e018c40>, 'TLC2018-FHV-aug-REGION': <torch_geometric.data.dataloader.DataLoader object at 0x7fbb8d7c8550>, 'T-Drive-taxi-pickups-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7fbb8d36c0d0>, 'GM2017-july-sep-REGION': <torch_geometric.data.dataloader.DataLoader object at 0x7fbb8d3c7400>, 'UBER2015-jan-june-REGION': <torch_geometric.data.dataloader.DataLoader object at 0x7fbb8d3631f0>, 'green-taxi2020-dec-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7fbb8d36ca30>, 'TLC2018-FHV-aug-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7fbb8d1a73a0>, 'yellow-taxi2020-nov-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7fbb8bd49f10>, 'green-taxi2020-dec-REGION': <torch_geometric.data.dataloader.DataLoader object at 0x7fbb8bb68dc0>, 'citibike2014-tripdata-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7fbb8bc68af0>, 'citibike2014-tripdata-REGION': <torch_geometric.data.dataloader.DataLoader object at 0x7fbb8bb7c460>}
+INFO:__main__:Fitting model at time: 2021-09-29 16:14:31.875484
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/train_meta.py", line 175, in <module>
+    adaptation_steps=args.adaptation_steps,
+  File "/zhome/2b/7/117471/Thesis/src/models/train_meta.py", line 82, in train_model
+    support_preds = learner(support_data)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/learn2learn/algorithms/maml.py", line 107, in forward
+    return self.module(*args, **kwargs)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/2b/7/117471/Thesis/src/models/models.py", line 567, in forward
+    x = self.edgeconv3(x, batch=batched_data.batch)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric/nn/conv/edge_conv.py", line 112, in forward
+    edge_index = knn(x[0], x[1], self.k, b[0], b[1],
+KeyboardInterrupt

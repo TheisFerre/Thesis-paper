@@ -1,0 +1,25 @@
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/citibike2014-tripdata-REGION-HOUR8.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/TLC2018-FHV-aug-GRID5-HOUR1.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/UBER2015-jan-june-REGION-HOUR8.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/citibike2014-tripdata-REGION-HOUR4.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-GRID5-HOUR1.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-GRID10-HOUR4.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/TLC2018-FHV-aug-GRID10-HOUR4.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/UBER2015-jan-june-REGION-HOUR4.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/TLC2018-FHV-aug-GRID5-HOUR8.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-GRID10-HOUR8.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/citibike-tripdata-REGION-HOUR8.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-GRID10-HOUR1.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-GRID5-HOUR4.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/citibike-tripdata-REGION-HOUR1.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/UBER2015-jan-june-REGION-HOUR1.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-GRID5-HOUR8.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/citibike-tripdata-REGION-HOUR4.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/TLC2018-FHV-aug-GRID5-HOUR4.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/citibike2014-tripdata-REGION-HOUR1.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/TLC2018-FHV-aug-GRID10-HOUR1.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/TLC2018-FHV-aug-GRID10-HOUR8.pkl
+INFO:__main__:{'citibike2014-tripdata-REGION-HOUR8': <torch_geometric.data.dataloader.DataLoader object at 0x7f9adcf13fa0>, 'TLC2018-FHV-aug-GRID5-HOUR1': <torch_geometric.data.dataloader.DataLoader object at 0x7f9add415eb0>, 'UBER2015-jan-june-REGION-HOUR8': <torch_geometric.data.dataloader.DataLoader object at 0x7f9adc8ae160>, 'citibike2014-tripdata-REGION-HOUR4': <torch_geometric.data.dataloader.DataLoader object at 0x7f9adc91af40>, 'yellow-taxi2020-nov-GRID5-HOUR1': <torch_geometric.data.dataloader.DataLoader object at 0x7f9adccf1670>, 'yellow-taxi2020-nov-GRID10-HOUR4': <torch_geometric.data.dataloader.DataLoader object at 0x7f9adce2e550>, 'TLC2018-FHV-aug-GRID10-HOUR4': <torch_geometric.data.dataloader.DataLoader object at 0x7f9adcd0f670>, 'UBER2015-jan-june-REGION-HOUR4': <torch_geometric.data.dataloader.DataLoader object at 0x7f9adcc80820>, 'TLC2018-FHV-aug-GRID5-HOUR8': <torch_geometric.data.dataloader.DataLoader object at 0x7f9adcc9ff10>, 'yellow-taxi2020-nov-GRID10-HOUR8': <torch_geometric.data.dataloader.DataLoader object at 0x7f9adcc4d2e0>, 'citibike-tripdata-REGION-HOUR8': <torch_geometric.data.dataloader.DataLoader object at 0x7f9adcbb01f0>, 'yellow-taxi2020-nov-GRID10-HOUR1': <torch_geometric.data.dataloader.DataLoader object at 0x7f9adcc503d0>, 'yellow-taxi2020-nov-GRID5-HOUR4': <torch_geometric.data.dataloader.DataLoader object at 0x7f9adcb44520>, 'citibike-tripdata-REGION-HOUR1': <torch_geometric.data.dataloader.DataLoader object at 0x7f9adca919d0>, 'UBER2015-jan-june-REGION-HOUR1': <torch_geometric.data.dataloader.DataLoader object at 0x7f9adc553ac0>, 'yellow-taxi2020-nov-GRID5-HOUR8': <torch_geometric.data.dataloader.DataLoader object at 0x7f9adcb045b0>, 'citibike-tripdata-REGION-HOUR4': <torch_geometric.data.dataloader.DataLoader object at 0x7f9adc7e3a60>, 'TLC2018-FHV-aug-GRID5-HOUR4': <torch_geometric.data.dataloader.DataLoader object at 0x7f9adc4b41c0>, 'citibike2014-tripdata-REGION-HOUR1': <torch_geometric.data.dataloader.DataLoader object at 0x7f9adc4b8730>, 'TLC2018-FHV-aug-GRID10-HOUR1': <torch_geometric.data.dataloader.DataLoader object at 0x7f9adc3c10d0>, 'TLC2018-FHV-aug-GRID10-HOUR8': <torch_geometric.data.dataloader.DataLoader object at 0x7f9adc3df460>}
+INFO:__main__:Fitting model at time: 2021-11-25 20:17:10.870299
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+UserWarning: torch.nn.utils.clip_grad_norm is now deprecated in favor of torch.nn.utils.clip_grad_norm_.

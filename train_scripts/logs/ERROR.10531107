@@ -1,0 +1,17 @@
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/yellow-taxi2020-nov-REGION.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/citibike-tripdata-REGION.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/LYFT2014-july-sep-GRID.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/UBER2015-jan-june-GRID.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/TLC2018-FHV-aug-REGION.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/T-Drive-taxi-pickups-GRID.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/UBER2015-jan-june-REGION.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/green-taxi2020-dec-GRID.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/TLC2018-FHV-aug-GRID.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/citibike-tripdata-GRID.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/yellow-taxi2020-nov-GRID.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/green-taxi2020-dec-REGION.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/citibike2014-tripdata-GRID.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning/citibike2014-tripdata-REGION.pkl
+INFO:__main__:{'yellow-taxi2020-nov-REGION': <torch_geometric.data.dataloader.DataLoader object at 0x7f0e79608eb0>, 'citibike-tripdata-REGION': <torch_geometric.data.dataloader.DataLoader object at 0x7f0e79608a60>, 'LYFT2014-july-sep-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7f0e79608bb0>, 'UBER2015-jan-june-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7f0e78f95f10>, 'TLC2018-FHV-aug-REGION': <torch_geometric.data.dataloader.DataLoader object at 0x7f0e79403c70>, 'T-Drive-taxi-pickups-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7f0e7932e400>, 'UBER2015-jan-june-REGION': <torch_geometric.data.dataloader.DataLoader object at 0x7f0e78bc2820>, 'green-taxi2020-dec-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7f0e78e78d60>, 'TLC2018-FHV-aug-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7f0e78e10a30>, 'citibike-tripdata-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7f0e78af6190>, 'yellow-taxi2020-nov-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7f0e78a803d0>, 'green-taxi2020-dec-REGION': <torch_geometric.data.dataloader.DataLoader object at 0x7f0e789931c0>, 'citibike2014-tripdata-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7f0e77361370>, 'citibike2014-tripdata-REGION': <torch_geometric.data.dataloader.DataLoader object at 0x7f0e77710fa0>}
+INFO:__main__:Fitting model at time: 2021-09-29 17:16:51.518137
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.

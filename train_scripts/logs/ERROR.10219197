@@ -1,0 +1,19 @@
+INFO:__main__:Fitting model at time: 2021-09-01 13:50:48.910119
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.017538528058029
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0128848493246505
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0040774080409731
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9988901842900212
+INFO:__main__:----------
+Traceback (most recent call last):
+  File "train_model.py", line 147, in <module>
+    model, train_loss, test_loss = train_model(
+  File "train_model.py", line 99, in train_model
+    loss.backward()
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/_tensor.py", line 255, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, inputs=inputs)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/autograd/__init__.py", line 147, in backward
+    Variable._execution_engine.run_backward(
+KeyboardInterrupt

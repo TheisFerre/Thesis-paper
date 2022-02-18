@@ -1,0 +1,8 @@
+INFO:__main__:{'data': '/zhome/2b/7/117471/Thesis/data/processed/metalearning/yellow-taxi2020-nov-GRID.pkl', 'model_path': '/zhome/2b/7/117471/Thesis/metalearning/2021-10-04T14:11:42.156506', 'train_size': 0.9, 'batch_size': 20, 'epochs': 150, 'weight_decay': 1e-10, 'learning_rate': 0.001, 'lr_factor': 0.1, 'lr_patience': 15, 'optimizer': 'SGD', 'gpu': True}
+INFO:__main__:Fitting model at time: 2021-10-05 16:48:39.674294
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/finetune_meta.py", line 164, in <module>
+    model, train_loss, test_loss = finetune_model(
+  File "/zhome/2b/7/117471/Thesis/src/models/finetune_meta.py", line 50, in finetune_model
+    with open(f"{model_path}/settings.json", "rb") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/zhome/2b/7/117471/Thesis/metalearning/2021-10-04T14:11:42.156506/settings.json'

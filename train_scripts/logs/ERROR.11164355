@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/performance_ablation.py", line 4, in <module>
+    import torch
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/__init__.py", line 705, in <module>
+    import torch.utils.data
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/utils/data/__init__.py", line 9, in <module>
+    from torch.utils.data.dataloader import DataLoader, _DatasetKind, get_worker_info
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 22, in <module>
+    from . import _utils
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/utils/data/_utils/__init__.py", line 52, in <module>
+    from . import worker, signal_handling, pin_memory, collate, fetch
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 934, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1032, in get_data
+KeyboardInterrupt

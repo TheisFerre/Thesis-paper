@@ -1,0 +1,13 @@
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-HOUR4-REGION.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-HOUR8-GRID5.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-HOUR8-GRID10.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-HOUR1-GRID5.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-HOUR1-REGION.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-HOUR4-GRID10.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-HOUR8-REGION.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-HOUR4-GRID5.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-HOUR1-GRID10.pkl
+INFO:__main__:{'yellow-taxi2020-nov-HOUR4-REGION': <torch_geometric.data.dataloader.DataLoader object at 0x7ff2ea756b20>, 'yellow-taxi2020-nov-HOUR8-GRID5': <torch_geometric.data.dataloader.DataLoader object at 0x7ff2eac57ee0>, 'yellow-taxi2020-nov-HOUR8-GRID10': <torch_geometric.data.dataloader.DataLoader object at 0x7ff2ea720af0>, 'yellow-taxi2020-nov-HOUR1-GRID5': <torch_geometric.data.dataloader.DataLoader object at 0x7ff2ea720940>, 'yellow-taxi2020-nov-HOUR1-REGION': <torch_geometric.data.dataloader.DataLoader object at 0x7ff2ea6f8af0>, 'yellow-taxi2020-nov-HOUR4-GRID10': <torch_geometric.data.dataloader.DataLoader object at 0x7ff2ea6bac70>, 'yellow-taxi2020-nov-HOUR8-REGION': <torch_geometric.data.dataloader.DataLoader object at 0x7ff2ea64e5b0>, 'yellow-taxi2020-nov-HOUR4-GRID5': <torch_geometric.data.dataloader.DataLoader object at 0x7ff2ea5daee0>, 'yellow-taxi2020-nov-HOUR1-GRID10': <torch_geometric.data.dataloader.DataLoader object at 0x7ff2ea583190>}
+INFO:__main__:Fitting model at time: 2021-11-18 08:44:17.340333
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+UserWarning: torch.nn.utils.clip_grad_norm is now deprecated in favor of torch.nn.utils.clip_grad_norm_.

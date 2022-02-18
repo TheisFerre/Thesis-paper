@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/compare_metalearning.py", line 369, in <module>
+    transferlearn_model, _ = load_transfer_model(metamodel_abs_path)
+  File "/zhome/2b/7/117471/Thesis/src/models/compare_metalearning.py", line 166, in load_transfer_model
+    edgeconv_transfer_state_dict.parameters(), 
+AttributeError: 'collections.OrderedDict' object has no attribute 'parameters'

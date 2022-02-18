@@ -1,0 +1,2803 @@
+INFO:__main__:hello
+INFO:__main__:citibike2014-tripdata-HOUR4-GRID5.pkl
+INFO:__main__:citibike2014-tripdata-HOUR4-GRID5
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/DATA-BIKES/citibike2014-tripdata-HOUR4-GRID5.pkl
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.8721429308255514
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8811641732851664
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9285194873809814
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8753058711687723
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9020503063996633
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8778401215871176
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.903187115987142
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8914306461811066
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.911589095989863
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8699139654636383
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8789389034112295
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9027542074521383
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8446101993322372
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8952521483103434
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8780806461970011
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9124785562356313
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9201857248942057
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8786552449067434
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8996979296207428
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9048639535903931
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.912752240896225
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8868781328201294
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.913063665231069
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8778129518032074
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8825195729732513
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8904909193515778
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8651658693949381
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8827133476734161
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9167141616344452
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9057900210221609
+INFO:__main__:Finetuned loss: 0.28823618590831757
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.8634142180283865
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9553949038187662
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8988424837589264
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 1.1599818170070648
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9280354976654053
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 1.1952119370301564
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 1.1003576616446178
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 1.0548291007677715
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 1.0232181251049042
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9972847799460093
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 1.2065762678782146
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8833067119121552
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 1.2271838585535686
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9151936868826548
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 1.044209400812785
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9760219951470693
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9892707069714864
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9527461230754852
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9061880608399709
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9679285784562429
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9106167356173197
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9609764317671458
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 1.1773675580819447
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 1.1005561550458272
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 1.0418328940868378
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9984412093957266
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.968066414197286
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 1.0342415471871693
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9990863800048828
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8881122370560964
+INFO:__main__:Finetuned loss: 0.28823618590831757
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.884696364402771
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.885055939356486
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 1.020047624905904
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8757578829924265
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9753269155820211
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9169637163480123
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9394989609718323
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9670915305614471
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9522688786188761
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9095905621846517
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8645577927430471
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9593831400076548
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8888397713502248
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 1.0322119891643524
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9775763948758444
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 1.0253003736337025
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9417018592357635
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.909962127606074
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8855781952540079
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8586505452791849
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9219127794106802
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8859051565329233
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.963619202375412
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9568696717421213
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9740673899650574
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.866364469130834
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9493136902650198
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 1.1225537061691284
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.8965381185213724
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:Meta Train Loss: 0.9193753798802694
+INFO:__main__:Finetuned loss: 0.28823618590831757
+INFO:__main__:hello
+INFO:__main__:citibike-tripdata-HOUR8-GRID10.pkl
+INFO:__main__:citibike-tripdata-HOUR8-GRID10
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/DATA-BIKES/citibike-tripdata-HOUR8-GRID10.pkl
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 1.2246407866477966
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.1614112257957458
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.2079913020133972
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.2396032810211182
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.0222942531108856
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.0909058153629303
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.1573017835617065
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.1737972497940063
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.1742396354675293
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.2010176181793213
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.1902227401733398
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.204917550086975
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.0718108415603638
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.1324169039726257
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.2018707394599915
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.3563733398914337
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.2924222946166992
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.1828348636627197
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.1577657461166382
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.2307795286178589
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.2244336009025574
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.2365654110908508
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.101265698671341
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.1949750185012817
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.2888017296791077
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.222992718219757
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.3070136308670044
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.2209686636924744
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.1820292472839355
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.0068129897117615
+INFO:__main__:Finetuned loss: 0.8414855301380157
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.9861452877521515
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.4411625266075134
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.0216759145259857
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.0396109223365784
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.3006678223609924
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.4546780586242676
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.1401025652885437
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.3346314430236816
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.9647098183631897
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.3272276520729065
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.024592399597168
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.9574644267559052
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.0155185461044312
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.1253225207328796
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.7596602141857147
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.20659738779068
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.0104659497737885
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.8429913073778152
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.5995844006538391
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.030246376991272
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.1987978219985962
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.9308330714702606
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.9151381850242615
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.0873181819915771
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.4856967329978943
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.1832146644592285
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.0782038569450378
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.09939843416214
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.0526422560214996
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.7320241928100586
+INFO:__main__:Finetuned loss: 0.8414855301380157
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.9560207724571228
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.8230755627155304
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.244098722934723
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.9809925556182861
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.8999663889408112
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.4758979678153992
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.9752825200557709
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 2.5902278423309326
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.9915622770786285
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.8995470106601715
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.9811798632144928
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.3796440958976746
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.328064739704132
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.9970017671585083
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.7094324231147766
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.9563119411468506
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.2416115403175354
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.7334518134593964
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.0257331132888794
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.9156806170940399
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.1427865624427795
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.9831796586513519
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.8316656351089478
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.8097520172595978
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.9182591736316681
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.9125028252601624
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.2636348605155945
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.0957266986370087
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 0.9517402052879333
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:Meta Train Loss: 1.1291751861572266
+INFO:__main__:Finetuned loss: 0.8414855301380157
+INFO:__main__:hello
+INFO:__main__:citibike2014-tripdata-HOUR1-GRID5.pkl
+INFO:__main__:citibike2014-tripdata-HOUR1-GRID5
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/DATA-BIKES/citibike2014-tripdata-HOUR1-GRID5.pkl
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.7264519306746396
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7249452498826113
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7251989015124061
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7257519106973301
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7292602847922932
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7269375703551553
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7265147417783737
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7264643392779611
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.726263551549478
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7244802564382553
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7241291850805283
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7263176387006586
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7251249958168376
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7293262806805697
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7256861234253104
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7248764783143997
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7268039204857566
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7267444919456135
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7274357026273554
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7255867191336371
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7260621054606005
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7244606234810569
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7275564033876766
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7270732833580538
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7289884429086338
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7279547060077841
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7272287038239565
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7241072668270632
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7270643467252905
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7273554368452593
+INFO:__main__:Finetuned loss: 0.19391516291282393
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.7617450871250846
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 1.0806459378112445
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.6436289277943698
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7488598945465955
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.6152012700384314
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.9026014344258741
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.707538054748015
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.6822499307719144
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.6806013137102127
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.589703842997551
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.5984819693998857
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7978855236010118
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.6839603294025768
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7640389976176348
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7134320546280254
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7797716124491259
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.6188469569791447
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7265424484556372
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7548568831248716
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7176272747191516
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.6694537008350546
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.6582741290330887
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7412018532102759
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7608067244291306
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.6914086910811338
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.8014304881746118
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.6609546162865378
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.6116583997553046
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.6523422937501561
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.6306190124966882
+INFO:__main__:Finetuned loss: 0.19391516291282393
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.4917791323228316
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.62825492430817
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.5004417185078968
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.521500135009939
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.47976431250572205
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.5663393790071661
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.6186105622486635
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.5319242274219339
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.6122808415781368
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.4904981025240638
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.44788410514593124
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.5165108340707693
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.5433577095920389
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.48636165396733716
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.5151410583745349
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.446258393200961
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.4729883840138262
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.5945969684557482
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.6365381858565591
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7703935476866636
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.4777892367406325
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.5283752557906237
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.6382598199627616
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.48942621661858127
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.5559602908112786
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.6090564714236693
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.7068571556698192
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.45004124397581274
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.5318465991453691
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:Meta Train Loss: 0.4691289866512472
+INFO:__main__:Finetuned loss: 0.19391516291282393
+INFO:__main__:hello
+INFO:__main__:citibike-tripdata-HOUR4-GRID5.pkl
+INFO:__main__:citibike-tripdata-HOUR4-GRID5
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/DATA-BIKES/citibike-tripdata-HOUR4-GRID5.pkl
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.8920262455940247
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8912030657132467
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8904266556104025
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8855979442596436
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8908270597457886
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8946406443913778
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.864922026793162
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8956332008043925
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8840561707814535
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8865655461947123
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8941470384597778
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.885115921497345
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.888033926486969
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.9091439247131348
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.894592821598053
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8929304281870524
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8748550613721212
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8805689414342245
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8813277284304301
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8948726058006287
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8822571436564127
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8783468206723531
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8658505082130432
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8734644452730814
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8648981054623922
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8845590750376383
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8733869194984436
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.869622806708018
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8844488660494486
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8910116950670878
+INFO:__main__:Finetuned loss: 0.3771826922893524
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 3115920.1666666665
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.9953501025835673
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 1.155773401260376
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 1.0602850119272869
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8645702203114828
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8834208051363627
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 1.3344399134318035
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 1.115409255027771
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 1.0670530796051025
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 1.2770137786865234
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.9401083985964457
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8743054668108622
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 1.0367161830266316
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8796830574671427
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.9667345682779948
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.932881494363149
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.9389313658078512
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 1.1189757784207661
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 1.1151041388511658
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 1.0669241746266682
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 1.054964005947113
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8692825039227804
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.9129657745361328
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 1.0449903806050618
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8398377100626627
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.9197357495625814
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.913159708182017
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.822028398513794
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 1.0126914381980896
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.9102850755055746
+INFO:__main__:Finetuned loss: 0.3771826922893524
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.8509698510169983
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 1.0353998740514119
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.9407701889673868
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8908297618230184
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8782701094945272
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8398398955663046
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.9401682615280151
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.912333349386851
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8440983692804972
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8768168489138285
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.9833970864613851
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8244468967119852
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8625333706537882
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8474562565485636
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8445093830426534
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8967088460922241
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8804890513420105
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8623772263526917
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.9553363720575968
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.987897793451945
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.9215506315231323
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.9227704405784607
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 1.0211053689320881
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8806912899017334
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8367048700650533
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.9807153940200806
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 1.0233684182167053
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.860643744468689
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.8914871017138163
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:Meta Train Loss: 0.9574997623761495
+INFO:__main__:Finetuned loss: 0.3771826922893524
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/DATA-BIKES/citibike2014-tripdata-HOUR1-REGION.pkl
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.855844340541146
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8547661196101796
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8550861857154153
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8555662564255975
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8575513715093787
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8562143661759116
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.857170584526929
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8566477827050469
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8566472151062705
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8544781804084778
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8554930822415785
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8557160347700119
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8564348112453114
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8603615408593958
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8557971228252758
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8555964963002638
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8559976626526226
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8564102189107374
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8569326969710264
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.855450072071769
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.856403727423061
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8555935296145353
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8573537333445116
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8566001680764285
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8582716245542873
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8576326207681135
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8566385141827844
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8546459891579368
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8565422621640292
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8560059070587158
+INFO:__main__:Finetuned loss: 1.0990415134213187
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.8967358835718848
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8817163651639764
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.817017518661239
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8606036847287958
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8087893439964815
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.910811264406551
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8567606535824862
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8299159028313376
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7914884713563052
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7934599627148021
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7937209904193878
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8689855648712679
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8137284137985923
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8655082989822734
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8177458318797025
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8645001785321669
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7691199982708151
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8646387159824371
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8857297436757521
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8376757299358194
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8090701997280121
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8077647956934842
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8425271294333718
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.898198975758119
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.822888504375111
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.879198429259387
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8361375684087927
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7982294938781045
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8308620656078513
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8037351965904236
+INFO:__main__:Finetuned loss: 1.0990415134213187
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.748935878276825
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7865071161226793
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7424694380976937
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7586839429356835
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7341380132870241
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7794087922031229
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7946721572767604
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7553854909810153
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7870733304457231
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7439127401872114
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.703530949625102
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.767789667302912
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7459702247923071
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7265879105437886
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7439899634231221
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7208422923629935
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7131980847228657
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7818946919657968
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8149540735916658
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8589216348799792
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.6987001990730112
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7443729056553408
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8132125708189878
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7543044564398852
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7714192081581462
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7942211031913757
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.8497658697041598
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7154858884486285
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7383306852795861
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:Meta Train Loss: 0.7284591441804712
+INFO:__main__:Finetuned loss: 1.0990415134213187
+INFO:__main__:hello
+INFO:__main__:citibike2014-tripdata-HOUR8-GRID10.pkl
+INFO:__main__:citibike2014-tripdata-HOUR8-GRID10
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/DATA-BIKES/citibike2014-tripdata-HOUR8-GRID10.pkl
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 1.3620495796203613
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3811805645624797
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3804892301559448
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3672043085098267
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3658147652943928
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3562641541163127
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3598557313283284
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3624701102574666
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3851303259531658
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3596072594324748
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.378623366355896
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3952348232269287
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3973288536071777
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3745429515838623
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3976717789967854
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3973229328791301
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3791618347167969
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3783142566680908
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3632958730061848
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3771012624104817
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.365886648495992
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3779298067092896
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.383331576983134
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3696909348169963
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3708633581797283
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3696423768997192
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3737133344014485
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3437146345774333
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3727444410324097
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.372724175453186
+INFO:__main__:Finetuned loss: 0.3395656893650691
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 1.43718687693278
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.1905105511347454
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.45126207669576
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.180829127629598
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.2260507742563884
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.4637864430745442
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.808290163675944
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.1830280621846516
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.2654647827148438
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.4322235981623332
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.5267726977666218
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3120702902475994
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.1971707741419475
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.1992276112238567
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.227088451385498
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.4082137743632
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.5660330851872761
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.4356492360432942
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.4441797733306885
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3970133860905964
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.1901573340098064
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.2039299011230469
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.3895079294840496
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.1334590911865234
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.2069681882858276
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.1590036551157634
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.370444615681966
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.1131045420964558
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.1784563461939495
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.5566704273223877
+INFO:__main__:Finetuned loss: 0.3395656893650691
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 1.0877371827761333
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.0670740207036336
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.158781111240387
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 0.8942869702974955
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.2323630650838215
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.037344257036845
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.4898910919825237
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 0.9752019246419271
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.0135483344395955
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.0016517837842305
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.548093358675639
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 28.414527257283527
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.0827099482218425
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.0280248721440632
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 0.9971860647201538
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.478143612543742
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 0.956103245417277
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.1676862239837646
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.2155668338139851
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 0.9812339345614115
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.1408249934514363
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 0.9547643264134725
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 0.950299600760142
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.2707065343856812
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.1343375047047932
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 0.9286784529685974
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.2160992622375488
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.1614385843276978
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 0.9160733620325724
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:Meta Train Loss: 1.042348285516103
+INFO:__main__:Finetuned loss: 0.3395656893650691
+INFO:__main__:hello
+INFO:__main__:citibike-tripdata-HOUR1-GRID5.pkl
+INFO:__main__:citibike-tripdata-HOUR1-GRID5
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/DATA-BIKES/citibike-tripdata-HOUR1-GRID5.pkl
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.5705887485634197
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5694340819662268
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.568330401724035
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.56717219135978
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5726976828141646
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5705013248053464
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.570196967233311
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5698878141966733
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5673205798322504
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5705017962239005
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5698075186122548
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5685344175858931
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5697362341664054
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5697428665377877
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5684548128734935
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5686713863502849
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5688590515743602
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.565995370799845
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5679064176299355
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.567108772017739
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.56723722002723
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5695478130470623
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5681118152358315
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5659176409244537
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5692705295302651
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5701144473119215
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5680637522177263
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5703226382082159
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5671586069193754
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5707519867203452
+INFO:__main__:Finetuned loss: 0.19759741019118915
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.5200045000423085
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.46763539043339813
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.502498139034618
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.4409346417947249
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.46606923233379016
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5976502651518042
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.6358301937580109
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.4520148662003604
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5639876154336062
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5334532179615714
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.525888898155906
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5732813938097521
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.6648179644888098
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5254630202596838
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.47134266929192975
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5042600577527826
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5468691858378324
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.609803782268004
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.4745682423765009
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.561062054200606
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.442477285861969
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5449143675240603
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.44440784508531744
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.7856864929199219
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 2780789.5411931816
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.47391246394677594
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.47136721827767114
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.49149492383003235
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5022871223363009
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5084604106166146
+INFO:__main__:Finetuned loss: 0.19759741019118915
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.302443039688197
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.40960879759355023
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.29449147392402997
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.367407582022927
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.3265347196297212
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.4733269079165025
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.3134503567760641
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.40827562050385907
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.3703809123147618
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.30488498238
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.5767237137664448
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.309493133967573
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.40382263335314666
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.3115541338920593
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.42152670974081213
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.2986678345636888
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.4250430573116649
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.32825877449729224
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.3152273324402896
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.3099057538942857
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.36782515861771325
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.3041550097140399
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.3131447813727639
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.4532027244567871
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.3558593595569784
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.3346237567338077
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.4582756080410697
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.4797458892518824
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.3301456096497449
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:Meta Train Loss: 0.3815878548405387
+INFO:__main__:Finetuned loss: 0.19759741019118915
+INFO:__main__:hello
+INFO:__main__:citibike-tripdata-HOUR1-GRID10.pkl
+INFO:__main__:citibike-tripdata-HOUR1-GRID10
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/DATA-BIKES/citibike-tripdata-HOUR1-GRID10.pkl
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.6140767552635886
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6123062697323886
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6134504459121011
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6141334961761128
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6166559972546317
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.615439772605896
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6142615188251842
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6146939125928012
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6143875501372598
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6141046990047802
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6137225519527089
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6134880672801625
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6141726889393546
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6138361854986711
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6136560629714619
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6140975545753132
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.614418165250258
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.613910133188421
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.614360741593621
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6127836379137906
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6131404421546243
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6139248176054521
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6139059093865481
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6101770238442854
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6125267771157351
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.614256810058247
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6151188043030825
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6151292622089386
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6139666140079498
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6141023608771238
+INFO:__main__:Finetuned loss: 0.2771566537293521
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.5621292726560072
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5327297611670061
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5400487184524536
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5054255263371901
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5169524333693765
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5768024189905687
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6815902563658628
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5338024795055389
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5957952304319902
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5943996391513131
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5825532268394124
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6132575977932323
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6851381822065874
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5641649961471558
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5146510357206519
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5284573815085671
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5327305631204085
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.628365771336989
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5310223346406763
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.6192353042689237
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5142132287675684
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5966014753688466
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.4941918660293926
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.7958327396349474
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 3066563.5511363638
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.525952856649052
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.4896074127067219
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5350338112224232
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5442031161351637
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5586669607595964
+INFO:__main__:Finetuned loss: 0.2771566537293521
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.39297023144635285
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.49088711088353937
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.3821254616433924
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.4466109655120156
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.3991970284418626
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5427632629871368
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.39571569724516437
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.4802426479079507
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.45416114276105707
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.394916296005249
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.615794138474898
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.3836604505777359
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.4783717935735529
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.39576218886808917
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.49762103774330835
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.3877018527551131
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.47563961961052637
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.39722823012958874
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.3945754793557254
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.399613003839146
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.4490186003121463
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.3871267654679038
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.39417001605033875
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5147644904526797
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.43725705959580163
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.40930953892794525
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.527990232814442
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.5367766212333333
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.41010969606312836
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:Meta Train Loss: 0.4289564977992665
+INFO:__main__:Finetuned loss: 0.2771566537293521
+INFO:__main__:hello
+INFO:__main__:citibike2014-tripdata-HOUR8-GRID5.pkl
+INFO:__main__:citibike2014-tripdata-HOUR8-GRID5
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/DATA-BIKES/citibike2014-tripdata-HOUR8-GRID5.pkl
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 1.3694027264912922
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.4000486135482788
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3912878433863323
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3832385540008545
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3774531682332356
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3642698923746746
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.374723196029663
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.376097838083903
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.4016473293304443
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3747018575668335
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3956869045893352
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.4086885849634807
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.4189985990524292
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3884285688400269
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.412491997083028
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.4112871885299683
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3965553840001423
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.384328564008077
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3805054028828938
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3916771411895752
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3849029143651326
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3944353262583415
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3959037860234578
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3819245497385662
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3850289185841878
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3825945059458415
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3877294063568115
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.354259729385376
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.39174751440684
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3852354288101196
+INFO:__main__:Finetuned loss: 0.22012053430080414
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 1.470165729522705
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.180963397026062
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.4150433937708538
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.1765545805295308
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.2342511018117268
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.441062092781067
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.7052931785583496
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.1902326345443726
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.2450658877690632
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.4234070380528767
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.4511686166127522
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3079383770624797
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.2666353185971577
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.2172012726465862
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.2780076265335083
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3810237248738606
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.591408411661784
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.4322019418080647
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.440537651379903
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.40176256497701
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.2748324473698933
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.2144531806310017
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3924414714177449
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.196409026781718
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.2266125281651814
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.232973575592041
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.3568836053212483
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.1691961685816448
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.1858150760332744
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.5770980914433796
+INFO:__main__:Finetuned loss: 0.22012053430080414
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 1.0759849945704143
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.0644379059473674
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.2013938029607136
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 0.8636941115061442
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.277739683787028
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.0685869654019673
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.4187322457631428
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 0.963754415512085
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.0131977200508118
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.0076398253440857
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.5367390314737956
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.786706805229187
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.0990780393282573
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.0178333918253581
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.0001516342163086
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.4833474159240723
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 0.9448106487592062
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.178763469060262
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.2176544666290283
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 0.97934490442276
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.15121328830719
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 0.9518315394719442
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 0.9560803969701132
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.283762256304423
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.1888163487116497
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 0.9159311254819235
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.1967061360677083
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.161386529604594
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 0.9068188865979513
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:Meta Train Loss: 1.0423216025034587
+INFO:__main__:Finetuned loss: 0.22012053430080414
+INFO:__main__:hello
+INFO:__main__:citibike2014-tripdata-HOUR1-GRID10.pkl
+INFO:__main__:citibike2014-tripdata-HOUR1-GRID10
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/DATA-BIKES/citibike2014-tripdata-HOUR1-GRID10.pkl
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.7572314861145887
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7553565217690035
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.756605711850253
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7572662694887682
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7581019509922374
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7575133862820539
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7586057998917319
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.757207836617123
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7572926120324568
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.75622228465297
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7573099339550192
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7561394829641689
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7573038569905541
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7611303261735223
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.756575963713906
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7560144026171077
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7568108331073414
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7572092061693018
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7572559050538323
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.757728251543912
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7573147145184603
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7566141039133072
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7584358711134304
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7571377496827733
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7587803602218628
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7597274671901356
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7581553946841847
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7548277310349725
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7579807490110397
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7577023926106367
+INFO:__main__:Finetuned loss: 0.448506045747887
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.808315793221647
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.9072445834224875
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.6730384758927606
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7792427255348726
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.6545740257609974
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.8894964957779105
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7434000440619208
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.6844055449420755
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.6753316223621368
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.6344210668043657
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.6407850682735443
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7932516742836345
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.6728216138753024
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7847723093899813
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7137717509811575
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7195929505608298
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.6223035021261736
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7382052649151195
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7889127243648876
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7436075210571289
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.6254700503566049
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.6905239779840816
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7569026716730811
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.796346365050836
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7236596698110754
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.801091882315549
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7150529297915372
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.6505158421668139
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.6776473373174667
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.648777190934528
+INFO:__main__:Finetuned loss: 0.448506045747887
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.5566276603124358
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.6481987820430235
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.5634638558734547
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.5783911347389221
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.5479838888753544
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.6237555281682448
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.6509547626430338
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.5902659811756827
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.6395638598637148
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.5529850653626702
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.5135224244811318
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.5836885977875103
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.5785229260271246
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.5379687425765124
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.5716200010343031
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.5134058310226961
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.5324997177178209
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.6245645013722506
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.675714834169908
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7889882475137711
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.5282511670481075
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.572311440652067
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.6644971614534204
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.5634365447542884
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.6212949495423924
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.6322173259475015
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.7443137697198174
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.5205489254810594
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.5533128489147533
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:Meta Train Loss: 0.5359397557648745
+INFO:__main__:Finetuned loss: 0.448506045747887
+INFO:__main__:hello
+INFO:__main__:citibike-tripdata-HOUR8-GRID5.pkl
+INFO:__main__:citibike-tripdata-HOUR8-GRID5
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/DATA-BIKES/citibike-tripdata-HOUR8-GRID5.pkl
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 1.2360426783561707
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.1452282667160034
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.2157166004180908
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.236108422279358
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.9910593926906586
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.0846078395843506
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.1279657483100891
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.1726754307746887
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.1876120567321777
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.198993980884552
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.1717831492424011
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.1858497858047485
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.0547069311141968
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.1131666898727417
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.185320496559143
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.3627954125404358
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.2882361710071564
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.1660188436508179
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.1399038434028625
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.216526210308075
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.2363701462745667
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.2485553622245789
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.066280335187912
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.1847193241119385
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.285569816827774
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.2096417546272278
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.2917492091655731
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.2113614678382874
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.175486445426941
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.98122638463974
+INFO:__main__:Finetuned loss: 0.7572074234485626
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 1.0099807679653168
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.4412105679512024
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.0169808566570282
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.0365930497646332
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.3325209021568298
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.4106888175010681
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.0991069078445435
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.332481563091278
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.9944415092468262
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.3159074187278748
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.0764256119728088
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.9670465588569641
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.0307608544826508
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.1208210587501526
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.7541796714067459
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.1974471807479858
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.0246436297893524
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.815839484333992
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.5715745091438293
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.0587857067584991
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.1999937891960144
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.9346203804016113
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.9312838315963745
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.0803849399089813
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.4637738466262817
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.1955050826072693
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.0875675678253174
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.1217289865016937
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.0516954064369202
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.6821297407150269
+INFO:__main__:Finetuned loss: 0.7572074234485626
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.9666747450828552
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.808354914188385
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.2184560298919678
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.9823013544082642
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.8480582237243652
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.5007691979408264
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.9489134252071381
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 2.616012930870056
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.95095095038414
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.8823896646499634
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.032035768032074
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.3352401852607727
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.3315696120262146
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.0036439299583435
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.6758937835693359
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.9889385402202606
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.2287473678588867
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.7127443701028824
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.003230631351471
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.9375662207603455
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.1795765459537506
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.9817454516887665
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.8211202025413513
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.7965312302112579
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.8997921347618103
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.9254390001296997
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.2427366971969604
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.1006042063236237
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 0.956825315952301
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:Meta Train Loss: 1.1538974046707153
+INFO:__main__:Finetuned loss: 0.7572074234485626
+INFO:__main__:hello
+INFO:__main__:citibike2014-tripdata-HOUR4-GRID10.pkl
+INFO:__main__:citibike2014-tripdata-HOUR4-GRID10
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/DATA-BIKES/citibike2014-tripdata-HOUR4-GRID10.pkl
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.8825591007868449
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.896842231353124
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9145861864089966
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8758738537629446
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9239583015441895
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.874335378408432
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8970495164394379
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8940763175487518
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9082063237826029
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8714752495288849
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8808788458506266
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9034461875756582
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8487207144498825
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.897014856338501
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8782690664132436
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9132479031880697
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9264618257681528
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8776997327804565
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9072949091593424
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9166998763879141
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9103070696194967
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8969156940778097
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9026085038979849
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8783092598120371
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8873887856801351
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8840857446193695
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8770011067390442
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8787580529848734
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9143171111742655
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9054847657680511
+INFO:__main__:Finetuned loss: 0.4920876870552699
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.8826002975304922
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9485990405082703
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8955144683519999
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 1.0741177002588909
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9122122923533121
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 1.1816275715827942
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 1.0820949772993724
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 1.0235687891642253
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 1.0294600923856099
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 1.0114649732907612
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 1.1397285461425781
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8875830868879954
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 1.1437845627466838
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9149934848149618
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 1.0492232739925385
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.980469544728597
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.996010551850001
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.943393220504125
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9296307365099589
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9690761963526408
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9067726532618204
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.958677351474762
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 1.117398738861084
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 1.0657759308815002
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 1.053761104742686
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9995983640352885
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9705843925476074
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 1.021231770515442
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9877162079016367
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8951080838839213
+INFO:__main__:Finetuned loss: 0.4920876870552699
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.9015401899814606
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8701799710591634
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9879306852817535
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.891295333703359
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9891490439573923
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9199003477891287
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9342924853165945
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9758331775665283
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9504664540290833
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9264748493830363
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8793237308661143
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9630273779233297
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8773821890354156
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 1.00543811917305
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9688476423422495
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 1.0551384687423706
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9390414853890737
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8996567130088806
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8953578571478525
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.869179497162501
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.935507337252299
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8835692306359609
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9368857542673746
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9332315425078074
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9921963810920715
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.8745490113894144
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9437268177668253
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 1.0812323093414307
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.908598929643631
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:Meta Train Loss: 0.9262176553408304
+INFO:__main__:Finetuned loss: 0.4920876870552699
+INFO:__main__:hello
+INFO:__main__:citibike-tripdata-HOUR4-GRID10.pkl
+INFO:__main__:citibike-tripdata-HOUR4-GRID10
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/DATA-BIKES/citibike-tripdata-HOUR4-GRID10.pkl
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.8707837462425232
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8720464110374451
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8725521365801493
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8662066459655762
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8651837905248007
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8756033976872762
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8497155706087748
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8754510680834452
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8622702956199646
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8656083146731058
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8829993804295858
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8672359983126322
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8729316592216492
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8956466913223267
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8772458632787069
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8809329668680826
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8540268739064535
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8601618607838949
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8613559007644653
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8725142876307169
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8615830938021342
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8593612114588419
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8429093758265177
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8523209492365519
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8467864592870077
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8648441235224406
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8576416969299316
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.857390284538269
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8617439071337382
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8793032368024191
+INFO:__main__:Finetuned loss: 0.40075281262397766
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 1958310.0833333333
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.9727738897005717
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 1.053735872109731
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 1.0095362464586894
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8491119146347046
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8703582882881165
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 1.3183002074559529
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 1.0117141008377075
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 1.0376662810643513
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 1.1770649353663127
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8943781057993571
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8523709972699484
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.9505351583162943
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8597310185432434
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.9563310742378235
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.9094868103663126
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8950415054957072
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 1.0245792865753174
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 1.0462312300999959
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.9998503724733988
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 1.0254735151926677
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8398322661717733
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8908410469690958
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 1.0360490083694458
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8228503068288168
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.9065147837003072
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8677066365877787
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8155153195063273
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 1.008022129535675
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8877420822779337
+INFO:__main__:Finetuned loss: 0.40075281262397766
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.8436399698257446
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 1.0279141465822856
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.912489652633667
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8824361364046732
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8450233141581217
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.828513503074646
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.9220806558926901
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.9009788036346436
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.831053098042806
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8535995284716288
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.9492085178693136
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8034020066261292
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.843360443909963
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8320613304773966
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8334079583485922
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8718264301617941
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.846098780632019
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8786534865697225
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.9205319285392761
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.932237426439921
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8934000333150228
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.9198169509569804
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.9929875135421753
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8681258956591288
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.847407341003418
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.9449430306752523
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.9577263991038004
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8805129726727804
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.8872238993644714
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:Meta Train Loss: 0.9394098321596781
+INFO:__main__:Finetuned loss: 0.40075281262397766
+INFO:__main__:hello
+INFO:__main__:citibike2014-tripdata-HOUR4-REGION.pkl
+INFO:__main__:citibike2014-tripdata-HOUR4-REGION
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/DATA-BIKES/citibike2014-tripdata-HOUR4-REGION.pkl
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.9027394652366638
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9225680331389109
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9197675784428915
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.8898252050081888
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9459406634171804
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.8931148250897726
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9191334247589111
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9057970444361368
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9329593876997629
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9004203379154205
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9037320812543234
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9287396272023519
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.8795202275117239
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9120722015698751
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.8955144584178925
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9344887435436249
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9374185999234518
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.898944745461146
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9252008398373922
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9220453401406606
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9268903434276581
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9143755733966827
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9185948272546133
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.8935247858365377
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9089117348194122
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9084288775920868
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.8963840703169504
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.8995841046174368
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9262198209762573
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9226085742314657
+INFO:__main__:Finetuned loss: 0.6523418128490448
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.911939005057017
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.94044229388237
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9057648976643881
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 1.00226096312205
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9244956076145172
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 1.1415306329727173
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 1.0571753482023876
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 1.0082192520300548
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 1.0135000745455425
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9912009437878927
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 1.0944087107976277
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.8992263376712799
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 1.0891514122486115
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9428708056608835
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 1.0239637593428295
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9767089784145355
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 1.0095938841501872
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9459428091843923
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9365897178649902
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9797398746013641
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9329388538996378
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9734247525533041
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 1.1085156102975209
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 1.0590148369471233
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 1.0392985542615254
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.987299511830012
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9771780769030253
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 1.0368313789367676
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9998176296552023
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9125985105832418
+INFO:__main__:Finetuned loss: 0.6523418128490448
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 0.9239180982112885
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.8760992685953776
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9748136500517527
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.902576208114624
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9845171670118967
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9426003595193228
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9391562938690186
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.977423240741094
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9649487137794495
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9338910977045695
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9010419448216757
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9644768436749777
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9039546151955923
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 1.0183148980140686
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9584281941254934
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 1.021059513092041
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9429672360420227
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9178741971651713
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9149835109710693
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.8880387047926585
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9586121340592703
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9016105234622955
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9496594270070394
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9461969832579294
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9869737426439921
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.8919249574343363
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9527647793292999
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 1.0021824141343434
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9234069089094797
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:Meta Train Loss: 0.9389925003051758
+INFO:__main__:Finetuned loss: 0.6523418128490448
+INFO:__main__:hello
+INFO:__main__:citibike2014-tripdata-HOUR8-REGION.pkl
+INFO:__main__:citibike2014-tripdata-HOUR8-REGION
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/DATA-BIKES/citibike2014-tripdata-HOUR8-REGION.pkl
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 1.2657301028569539
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.275307536125183
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2816964387893677
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2641445398330688
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2643624941507976
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2672393719355266
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.26374348004659
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2643999656041462
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2805148760477703
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2639646927515666
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2724693616231282
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2877450784047444
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2873963514963787
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2699218193689983
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2929623524347942
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2942651112874348
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2817552487055461
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2774772644042969
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.261040449142456
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2789742946624756
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.269781271616618
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2793124914169312
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2834742466608684
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2718280951182048
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.273274580637614
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.272193710009257
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2768457333246868
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2567760944366455
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2681660254796345
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2770003080368042
+INFO:__main__:Finetuned loss: 0.5638440648714701
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 1.334114670753479
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.1514170567194622
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.3711487849553425
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.1493442853291829
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.1552124818166096
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.3340106010437012
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.5639837582906086
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.1608914534250896
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2342355648676555
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.3182565768559773
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.3852260112762451
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2738052209218342
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.1428290009498596
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.1770104964574177
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.1743009090423584
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.3138018051783245
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.368991216023763
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.3156469265619914
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.365012566248576
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.3142303625742595
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.1217645009358723
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.1599427064259846
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.3066141208012898
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.0954417785008748
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.153083046277364
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.1144941250483196
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.27257239818573
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.1058536767959595
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.157331109046936
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.4000756740570068
+INFO:__main__:Finetuned loss: 0.5638440648714701
+UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
+INFO:__main__:Meta Train Loss: 1.0814748605092366
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.0517619649569194
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.129163881142934
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 0.9378435810407003
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.1724398533503215
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.026927610238393
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.3308837016423543
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 0.975522001584371
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.0173266530036926
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.0063982009887695
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.4381994406382244
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 25.33341709772746
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.0715116659800212
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.0401961008707683
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.0108258724212646
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.371870477994283
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 0.9810091853141785
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.130175034205119
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.1934951543807983
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 0.9991927345593771
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.1216574907302856
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 0.9756589730580648
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 0.9665107131004333
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.2222221692403157
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.106001377105713
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 0.9493663112322489
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.191347638765971
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.1478220224380493
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 0.9520921309789022
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Meta Train Loss: 1.0295570890108745
+INFO:__main__:Finetuned loss: 0.5638440648714701
+INFO:__main__:Saving results to /zhome/2b/7/117471/Thesis/metalearning/meta_compare.pkl

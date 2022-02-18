@@ -1,0 +1,25 @@
+INFO:__main__:Starting search: 2021-09-01 16:39:43.207791
+[32m[I 2021-09-01 16:39:43,208][0m A new study created in memory with name: no-name-8f1ff616-f046-4e76-9426-2f62627dd531[0m
+[33m[W 2021-09-01 16:39:43,855][0m Trial 0 failed because of the following error: AttributeError("'Trial' object has no attribute 'suggest'")[0m
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/optuna/study/_optimize.py", line 213, in _run_trial
+    value_or_values = func(trial)
+  File "hyperparams_edgeconv.py", line 54, in objective
+    epochs = trial.suggest("epochs", 100, 400)
+AttributeError: 'Trial' object has no attribute 'suggest'
+Traceback (most recent call last):
+  File "hyperparams_edgeconv.py", line 129, in <module>
+    study.optimize(objective, n_trials=75)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/optuna/study/study.py", line 400, in optimize
+    _optimize(
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/optuna/study/_optimize.py", line 66, in _optimize
+    _optimize_sequential(
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/optuna/study/_optimize.py", line 163, in _optimize_sequential
+    trial = _run_trial(study, func, catch)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/optuna/study/_optimize.py", line 264, in _run_trial
+    raise func_err
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/optuna/study/_optimize.py", line 213, in _run_trial
+    value_or_values = func(trial)
+  File "hyperparams_edgeconv.py", line 54, in objective
+    epochs = trial.suggest("epochs", 100, 400)
+AttributeError: 'Trial' object has no attribute 'suggest'

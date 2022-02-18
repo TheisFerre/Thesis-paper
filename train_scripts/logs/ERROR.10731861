@@ -1,0 +1,8 @@
+INFO:__main__:Reference model: /zhome/2b/7/117471/Thesis/data/processed/metalearning/yellow-taxi2020-nov-REGION.pkl
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/metalearning/LYFT2014-july-sep-GRID.pkl
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/predict_all_data.py", line 134, in <module>
+    loss_dict = eval_model(
+  File "/zhome/2b/7/117471/Thesis/src/models/predict_all_data.py", line 116, in eval_model
+    loss_dict[dataset.split(".")[0]] = model_loss
+AttributeError: 'Dataset' object has no attribute 'split'

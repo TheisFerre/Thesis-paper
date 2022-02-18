@@ -1,0 +1,40 @@
+INFO:__main__:{'data': '/zhome/2b/7/117471/Thesis/data/processed/metalearning/citibike2014-tripdata-GRID.pkl', 'model_path': '/zhome/2b/7/117471/Thesis/metalearning/2021-10-04T13:45:52.884588', 'train_size': 0.9, 'batch_size': 20, 'epochs': 150, 'weight_decay': 1e-10, 'learning_rate': 0.001, 'lr_factor': 0.1, 'lr_patience': 15, 'optimizer': 'SGD', 'gpu': True}
+INFO:__main__:Fitting model at time: 2021-10-04 16:08:40.331995
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6789391068617702
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7102003625193251
+INFO:__main__:----------
+INFO:__main__:Epoch number 6
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6753949648658085
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.704040222612853
+INFO:__main__:----------
+INFO:__main__:Epoch number 11
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6727194811275536
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7009653718074859
+INFO:__main__:----------
+INFO:__main__:Epoch number 16
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6725705862854929
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6999630654719171
+INFO:__main__:----------
+INFO:__main__:Epoch number 21
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6737263597772339
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6994975150905954
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.670206284243597
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6990996434182682
+INFO:__main__:----------
+INFO:__main__:Epoch number 31
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6700969569150983
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6972669640769369
+INFO:__main__:----------
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/finetune_meta.py", line 156, in <module>
+    if "GRID" in TYPE:
+  File "/zhome/2b/7/117471/Thesis/src/models/finetune_meta.py", line 103, in finetune_model
+    num_batch_train += 1
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/_tensor.py", line 255, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, inputs=inputs)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/autograd/__init__.py", line 147, in backward
+    Variable._execution_engine.run_backward(
+KeyboardInterrupt

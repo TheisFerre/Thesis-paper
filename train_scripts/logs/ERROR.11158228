@@ -1,0 +1,17 @@
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/aglation-non_augmented/TLC2018-FHV-aug-REGION.pkl
+INFO:__main__:True
+INFO:__main__:0.48584458231925964
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/aglation-non_augmented/GM2017-july-sep-REGION.pkl
+INFO:__main__:True
+INFO:__main__:0.975790947675705
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/aglation-non_augmented/citibike-tripdata-GRID.pkl
+INFO:__main__:True
+INFO:__main__:0.42374240539290686
+INFO:__main__:Evaluating on: /zhome/2b/7/117471/Thesis/data/processed/aglation-non_augmented/citibike2014-tripdata-GRID.pkl
+INFO:__main__:True
+INFO:__main__:0.5398990701545369
+INFO:__main__:{'TLC2018-FHV-aug-REGION': 0.48584458231925964, 'GM2017-july-sep-REGION': 0.975790947675705, 'citibike-tripdata-GRID': 0.42374240539290686, 'citibike2014-tripdata-GRID': 0.5398990701545369}
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/performance_ablation.py", line 204, in <module>
+    with open(f"{edgeconv_abs_path}/settings.json") as settings_json:
+FileNotFoundError: [Errno 2] No such file or directory: '/zhome/2b/7/117471/Thesis/ablation-study/augmented/2021-11-25T01:49:23.317086/settings.json'

@@ -1,0 +1,30 @@
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/LYFT2014-july-sep-GRID5-HOUR8.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/citibike2014-tripdata-REGION-HOUR8.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/TLC2018-FHV-aug-GRID5-HOUR1.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/UBER2015-jan-june-REGION-HOUR8.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/citibike2014-tripdata-REGION-HOUR4.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/LYFT2014-july-sep-GRID10-HOUR8.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-GRID5-HOUR1.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-GRID10-HOUR4.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/TLC2018-FHV-aug-GRID10-HOUR4.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/UBER2015-jan-june-REGION-HOUR4.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/TLC2018-FHV-aug-GRID5-HOUR8.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-GRID10-HOUR8.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/LYFT2014-july-sep-GRID10-HOUR1.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/citibike-tripdata-REGION-HOUR8.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/LYFT2014-july-sep-GRID10-HOUR4.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/LYFT2014-july-sep-GRID5-HOUR1.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-GRID10-HOUR1.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-GRID5-HOUR4.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/citibike-tripdata-REGION-HOUR1.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/UBER2015-jan-june-REGION-HOUR1.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/yellow-taxi2020-nov-GRID5-HOUR8.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/citibike-tripdata-REGION-HOUR4.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/TLC2018-FHV-aug-GRID5-HOUR4.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/citibike2014-tripdata-REGION-HOUR1.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/TLC2018-FHV-aug-GRID10-HOUR1.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/LYFT2014-july-sep-GRID5-HOUR4.pkl
+INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/ablation-augmented/TLC2018-FHV-aug-GRID10-HOUR8.pkl
+INFO:__main__:{'LYFT2014-july-sep-GRID5-HOUR8': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c01fc2c10>, 'citibike2014-tripdata-REGION-HOUR8': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c01fc2c40>, 'TLC2018-FHV-aug-GRID5-HOUR1': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c01f7ffa0>, 'UBER2015-jan-june-REGION-HOUR8': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c01f7fdf0>, 'citibike2014-tripdata-REGION-HOUR4': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c01dbad30>, 'LYFT2014-july-sep-GRID10-HOUR8': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c01f0f520>, 'yellow-taxi2020-nov-GRID5-HOUR1': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c01e7dc70>, 'yellow-taxi2020-nov-GRID10-HOUR4': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c01ddd640>, 'TLC2018-FHV-aug-GRID10-HOUR4': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c01d7b1c0>, 'UBER2015-jan-june-REGION-HOUR4': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c01cfdaf0>, 'TLC2018-FHV-aug-GRID5-HOUR8': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c01d1fd90>, 'yellow-taxi2020-nov-GRID10-HOUR8': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c01ccd160>, 'LYFT2014-july-sep-GRID10-HOUR1': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c01bad070>, 'citibike-tripdata-REGION-HOUR8': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c01bb4250>, 'LYFT2014-july-sep-GRID10-HOUR4': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c01bc33a0>, 'LYFT2014-july-sep-GRID5-HOUR1': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c01a7e640>, 'yellow-taxi2020-nov-GRID10-HOUR1': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c0193caf0>, 'yellow-taxi2020-nov-GRID5-HOUR4': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c01a097f0>, 'citibike-tripdata-REGION-HOUR1': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c015758b0>, 'UBER2015-jan-june-REGION-HOUR1': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c017c0400>, 'yellow-taxi2020-nov-GRID5-HOUR8': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c0175f670>, 'citibike-tripdata-REGION-HOUR4': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c015256d0>, 'TLC2018-FHV-aug-GRID5-HOUR4': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c012796d0>, 'citibike2014-tripdata-REGION-HOUR1': <torch_geometric.data.dataloader.DataLoader object at 0x7f3bffeb6df0>, 'TLC2018-FHV-aug-GRID10-HOUR1': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c0128d6a0>, 'LYFT2014-july-sep-GRID5-HOUR4': <torch_geometric.data.dataloader.DataLoader object at 0x7f3c0128d520>, 'TLC2018-FHV-aug-GRID10-HOUR8': <torch_geometric.data.dataloader.DataLoader object at 0x7f3bffe195b0>}
+INFO:__main__:Fitting model at time: 2021-11-25 01:49:23.317086
+User defined signal 2

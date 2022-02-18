@@ -1,0 +1,45 @@
+INFO:__main__:Fitting model at time: 2021-09-22 07:55:32.103275
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.8212998227246313
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0631192450392841
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.796405637628048
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8256794857777935
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7907973455711315
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8231515325406236
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7846932684173614
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8214383210801607
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7804878023969871
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8220992814839799
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.779324352846244
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8194258984906904
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7716801447854259
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.809178422010253
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7698829113657402
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8176804778746547
+INFO:__main__:----------
+INFO:__main__:Epoch number 201
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.769134224825652
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8153003155992061
+INFO:__main__:----------
+INFO:__main__:Epoch number 226
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7677744973838879
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8079878153826477
+INFO:__main__:----------
+INFO:__main__:Total training time: 2:40:30
+INFO:__main__:Average Epoch time: 0.64 minutes
+INFO:__main__:Saving files to /zhome/2b/7/117471/Thesis/models/baselinegnn_2021-09-22 10:36:02
+INFO:__main__:Files saved successfully

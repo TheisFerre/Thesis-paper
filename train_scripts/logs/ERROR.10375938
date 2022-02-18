@@ -1,0 +1,45 @@
+INFO:__main__:Fitting model at time: 2021-09-13 18:40:02.254288
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.836075608932229
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.071923720806768
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7658999772577544
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8220475648436736
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.746992164889053
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7854296293736265
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7366236094080166
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7745384943740471
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7297786114995413
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.775056060563087
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7237814580872846
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7660423960814964
+INFO:__main__:----------
+INFO:__main__:Epoch number 151
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7216635829282158
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7682376096013672
+INFO:__main__:----------
+INFO:__main__:Epoch number 176
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.717437015455405
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7622629398073062
+INFO:__main__:----------
+INFO:__main__:Epoch number 201
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7145894976375092
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7586365059138613
+INFO:__main__:----------
+INFO:__main__:Epoch number 226
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.711234194176288
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.767440438964955
+INFO:__main__:----------
+INFO:__main__:Total training time: 6:6:42
+INFO:__main__:Average Epoch time: 1.47 minutes
+INFO:__main__:Saving files to /zhome/2b/7/117471/Thesis/models/edgeconv_2021-09-14 00:46:44
+INFO:__main__:Files saved successfully

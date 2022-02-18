@@ -1,0 +1,50 @@
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/numpy/core/__init__.py", line 22, in <module>
+    from . import multiarray
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/numpy/core/multiarray.py", line 12, in <module>
+    from . import overrides
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/numpy/core/overrides.py", line 7, in <module>
+    from numpy.core._multiarray_umath import (
+ImportError: PyCapsule_Import could not import module "datetime"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/train_meta.py", line 3, in <module>
+    from src.models.models import BaselineGATLSTM, Edgeconvmodel, GATLSTM, Encoder, Decoder, STGNNModel, BaselineGNNLSTM
+  File "/zhome/2b/7/117471/Thesis/src/models/models.py", line 1, in <module>
+    import torch
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/__init__.py", line 605, in <module>
+    _C._initExtension(manager_path())
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/cuda/__init__.py", line 607, in <module>
+    from . import amp
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/cuda/amp/__init__.py", line 1, in <module>
+    from .autocast_mode import autocast, custom_fwd, custom_bwd  # noqa: F401
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/cuda/amp/autocast_mode.py", line 6, in <module>
+    import numpy as np
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/numpy/__init__.py", line 150, in <module>
+    from . import core
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/numpy/core/__init__.py", line 48, in <module>
+    raise ImportError(msg)
+ImportError: 
+
+IMPORTANT: PLEASE READ THIS FOR ADVICE ON HOW TO SOLVE THIS ISSUE!
+
+Importing the numpy C-extensions failed. This error can happen for
+many reasons, often due to issues with your setup or how NumPy was
+installed.
+
+We have compiled some common reasons and troubleshooting tips at:
+
+    https://numpy.org/devdocs/user/troubleshooting-importerror.html
+
+Please note and check the following:
+
+  * The Python version is: Python3.8 from "/zhome/2b/7/117471/Thesis/venv-thesis/bin/python"
+  * The NumPy version is: "1.21.1"
+
+and make sure that they are the versions you expect.
+Please carefully study the documentation linked above for further help.
+
+Original error was: PyCapsule_Import could not import module "datetime"
+

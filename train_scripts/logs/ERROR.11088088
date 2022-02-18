@@ -1,0 +1,5 @@
+INFO:__main__:Reference model: /zhome/2b/7/117471/Thesis/data/processed/metalearning/capitalbikeshare-tripdata-HOUR1-GRID10.pkl
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/predict_all_data.py", line 138, in <module>
+    edgeconv_model=edgeconv_model.to(DEVICE),
+NameError: name 'edgeconv_model' is not defined

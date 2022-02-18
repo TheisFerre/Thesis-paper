@@ -1,0 +1,32 @@
+INFO:__main__:Starting search: 2021-09-02 08:44:42.602610
+[32m[I 2021-09-02 08:44:42,603][0m A new study created in memory with name: no-name-41910003-aac6-46f9-81aa-38718cdb15f6[0m
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0110384578039484
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.012631646377205
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0115949668750606
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0156442689290393
+INFO:__main__:----------
+Traceback (most recent call last):
+  File "hyperparams_edgeconv.py", line 135, in <module>
+    study.optimize(objective, n_trials=50)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/optuna/study/study.py", line 400, in optimize
+    _optimize(
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/optuna/study/_optimize.py", line 66, in _optimize
+    _optimize_sequential(
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/optuna/study/_optimize.py", line 163, in _optimize_sequential
+    trial = _run_trial(study, func, catch)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/optuna/study/_optimize.py", line 213, in _run_trial
+    value_or_values = func(trial)
+  File "hyperparams_edgeconv.py", line 90, in objective
+    out = model(batch.to(DEVICE))
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/2b/7/117471/Thesis/src/models/models.py", line 568, in forward
+    out, _ = self.lstm(lstm_inputs)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/rnn.py", line 679, in forward
+    result = _VF.lstm(input, hx, self._flat_weights, self.bias, self.num_layers,
+KeyboardInterrupt

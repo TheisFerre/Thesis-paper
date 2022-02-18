@@ -1,0 +1,5 @@
+INFO:__main__:Fitting model at time: 2021-09-21 17:13:43.624718
+Traceback (most recent call last):
+  File "train_model.py", line 198, in <module>
+    k=args.k,
+AttributeError: 'Namespace' object has no attribute 'k'

@@ -1,0 +1,488 @@
+Starting:
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0512273460626602
+Transfer model loss: 0.8223137855529785
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 2
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0731568485498428
+Transfer model loss: 0.8105995506048203
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 3
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0875891596078873
+Transfer model loss: 0.8495621234178543
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 4
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0642001330852509
+Transfer model loss: 0.8394098579883575
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 5
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.1034153699874878
+Transfer model loss: 0.8170745372772217
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 6
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0708674192428589
+Transfer model loss: 0.849986270070076
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 7
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0692694783210754
+Transfer model loss: 0.8221669793128967
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 8
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0900748819112778
+Transfer model loss: 0.8512204885482788
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 9
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0195999592542648
+Transfer model loss: 0.8105546832084656
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 10
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0597440004348755
+Transfer model loss: 0.839953139424324
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 11
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0698916763067245
+Transfer model loss: 0.8396345674991608
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 12
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0202867239713669
+Transfer model loss: 0.8031013160943985
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 13
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.055981159210205
+Transfer model loss: 0.8485679179430008
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 14
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0627485066652298
+Transfer model loss: 0.8142548054456711
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 15
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0276109427213669
+Transfer model loss: 0.8186677396297455
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 16
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0387868136167526
+Transfer model loss: 0.8200027793645859
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 17
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0282431989908218
+Transfer model loss: 0.8095397502183914
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 18
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.075658142566681
+Transfer model loss: 0.8125240206718445
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 19
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0203374177217484
+Transfer model loss: 0.7923727631568909
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 20
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0554404854774475
+Transfer model loss: 0.8236096948385239
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 21
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0484053045511246
+Transfer model loss: 0.8217661529779434
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 22
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0362876504659653
+Transfer model loss: 0.793664813041687
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 23
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.048306867480278
+Transfer model loss: 0.8377494663000107
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 24
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.038414016366005
+Transfer model loss: 0.8245017826557159
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 25
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0546624660491943
+Transfer model loss: 0.8314342349767685
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 26
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0440058559179306
+Transfer model loss: 0.8058711737394333
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 27
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0418417751789093
+Transfer model loss: 0.8105181455612183
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 28
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0292989313602448
+Transfer model loss: 0.8122077882289886
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 29
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0573135763406754
+Transfer model loss: 0.8303992301225662
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 30
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.056226134300232
+Transfer model loss: 0.8359949886798859
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Shuffling data...
+Epoch: 1
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 0.9559197574853897
+Transfer model loss: 0.8105995506048203
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 2
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.2236560583114624
+Transfer model loss: 0.8394098579883575
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 3
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.325496882200241
+Transfer model loss: 0.849986270070076
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 4
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.097548022866249
+Transfer model loss: 0.8512204885482788
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 5
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0713233649730682
+Transfer model loss: 0.839953139424324
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 6
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.124017596244812
+Transfer model loss: 0.8031013160943985
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 7
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0995187759399414
+Transfer model loss: 0.8142548054456711
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 8
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.4232060611248016
+Transfer model loss: 0.8200027793645859
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 9
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0650861859321594
+Transfer model loss: 0.8125240206718445
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 10
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.1622294783592224
+Transfer model loss: 0.8236096948385239
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 11
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.1134821474552155
+Transfer model loss: 0.793664813041687
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 12
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.3283430933952332
+Transfer model loss: 0.8245017826557159
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 13
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.132414847612381
+Transfer model loss: 0.8058711737394333
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 14
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0747608095407486
+Transfer model loss: 0.8122077882289886
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 15
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.265666902065277
+Transfer model loss: 0.8359949886798859
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 16
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.1078258156776428
+Transfer model loss: 0.8259901106357574
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 17
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.1018861681222916
+Transfer model loss: 0.8587547391653061
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 18
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0792901068925858
+Transfer model loss: 0.8137492537498474
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 19
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.1502167284488678
+Transfer model loss: 0.8476395308971405
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 20
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0222075134515762
+Transfer model loss: 0.8069310784339905
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 21
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0715687721967697
+Transfer model loss: 0.8393861055374146
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 22
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.1672093570232391
+Transfer model loss: 0.8452355116605759
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 23
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.213536024093628
+Transfer model loss: 0.8523058891296387
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 24
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0965558737516403
+Transfer model loss: 0.818101093173027
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 25
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.043725699186325
+Transfer model loss: 0.8090568482875824
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 26
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.382864385843277
+Transfer model loss: 0.816255122423172
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 27
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.1473048329353333
+Transfer model loss: 0.8165833353996277
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 28
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.6118529438972473
+Transfer model loss: 0.8068862110376358
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 29
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.2704944908618927
+Transfer model loss: 0.8263156861066818
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Epoch: 30
+Trained Edgeconv loss: 0.817511111497879
+Untrained Edgeconv loss: 1.0958262830972672
+Transfer model loss: 0.8260591626167297
+Finetuned transfer model loss: 0.7748588770627975
+Baseline loss: 1.4738583713769913
+########
+Shuffling data...
+learn2learn: Maybe try with allow_nograd=True and/or allow_unused=True ?
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@hpc.dtu.dk>
+Subject: Job 10615579: <compare> in cluster <dcc> Exited
+
+Job <compare> was submitted from host <gbarlogin1> by user <tfehjo> in cluster <dcc> at Mon Oct 11 21:23:57 2021
+Job was executed on host(s) <n-62-11-16>, in queue <gpuv100>, as user <tfehjo> in cluster <dcc> at Mon Oct 11 21:23:58 2021
+</zhome/2b/7/117471> was used as the home directory.
+</zhome/2b/7/117471/Thesis/train_scripts> was used as the working directory.
+Started at Mon Oct 11 21:23:58 2021
+Terminated at Mon Oct 11 21:34:35 2021
+Results reported at Mon Oct 11 21:34:35 2021
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/sh
+#BSUB -J compare #The name the job will get
+#BSUB -q gpuv100 #The queue the job will be committed to, here the GPU enabled queue
+#BSUB -gpu "num=1:mode=exclusive_process" #How the job will be run on the VM, here I request 1 GPU with exclusive access i.e. only my c #BSUB -n 1 How many CPU cores my job request
+#BSUB -W 24:00 #The maximum runtime my job have note that the queuing might enable shorter jobs earlier due to scheduling.
+#BSUB -R "span[hosts=1]" #How many nodes the job requests
+#BSUB -R "rusage[mem=12GB]" #How much RAM the job should have access to
+#BSUB -R "select[gpu32gb]" #For requesting the extra big GPU w. 32GB of VRAM
+#BSUB -o logs/OUTPUT.%J #Log file
+#BSUB -e logs/ERROR.%J #Error log file
+echo "Starting:"
+
+cd ~/Thesis/metalearning
+#cd /Users/theisferre/Documents/SPECIALE/Thesis/src/models
+
+source ~/Thesis/venv-thesis/bin/activate
+
+
+python /zhome/2b/7/117471/Thesis/src/models/compare_metalearning.py
+
+
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   629.00 sec.
+    Max Memory :                                 2579 MB
+    Average Memory :                             2574.14 MB
+    Total Requested Memory :                     12288.00 MB
+    Delta Memory :                               9709.00 MB
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                8
+    Run time :                                   636 sec.
+    Turnaround time :                            638 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <logs/ERROR.10615579> for stderr output of this job.
+

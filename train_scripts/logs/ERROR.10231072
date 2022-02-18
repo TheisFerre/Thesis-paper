@@ -1,0 +1,15 @@
+INFO:__main__:Fitting model at time: 2021-09-02 18:58:17.259163
+INFO:__main__:Namespace(batch_size=64, data='../../data/processed/citibike2014-tripdata.pkl', dropout=0.2, epochs=250, gpu=True, hidden_size=46, learning_rate=0.001, lr_factor=0.1, lr_patience=50, model='edgeconv', node_out_feature='10', num_history=12, optimizer='RMSprop', train_size=0.8, weight_decay=1e-05)
+Traceback (most recent call last):
+  File "train_model.py", line 172, in <module>
+    model, train_loss, test_loss = train_model(
+  File "train_model.py", line 53, in train_model
+    model = Edgeconvmodel(
+  File "/zhome/2b/7/117471/Thesis/src/models/models.py", line 534, in __init__
+    torch.nn.Linear(32, node_out_features),
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/linear.py", line 81, in __init__
+    self.weight = Parameter(torch.empty((out_features, in_features), **factory_kwargs))
+TypeError: empty() received an invalid combination of arguments - got (tuple, dtype=NoneType, device=NoneType), but expected one of:
+ * (tuple of ints size, *, tuple of names names, torch.memory_format memory_format, torch.dtype dtype, torch.layout layout, torch.device device, bool pin_memory, bool requires_grad)
+ * (tuple of ints size, *, torch.memory_format memory_format, Tensor out, torch.dtype dtype, torch.layout layout, torch.device device, bool pin_memory, bool requires_grad)
+

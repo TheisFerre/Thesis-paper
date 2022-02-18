@@ -1,0 +1,108 @@
+INFO:__main__:{'data': '/zhome/2b/7/117471/Thesis/data/processed/metalearning/capitalbikeshare-tripdata-HOUR1-GRID10.pkl', 'model_path': '/zhome/2b/7/117471/Thesis/CASESTUDY/non-augmented/2021-11-03T14:53:15.962247', 'train_size': 0.9, 'batch_size': 20, 'epochs': 150, 'weight_decay': 1e-10, 'learning_rate': 0.0005, 'save_dir': '/zhome/2b/7/117471/Thesis/CASESTUDY/metalearn_finetuned_multiple', 'lr_factor': 0.1, 'lr_patience': 25, 'optimizer': 'RMSprop', 'gpu': True}
+INFO:__main__:<_io.BufferedReader name='/zhome/2b/7/117471/Thesis/data/processed/metalearning/capitalbikeshare-tripdata-HOUR1-GRID10.pkl'>
+INFO:__main__:Fitting model at time: 2021-11-18 08:50:36.089938
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6655017626765557
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.018356161039965
+INFO:__main__:----------
+INFO:__main__:Epoch number 6
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.641143275167246
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0287826016364143
+INFO:__main__:----------
+INFO:__main__:Epoch number 11
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7264978421061709
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0226479350815554
+INFO:__main__:----------
+INFO:__main__:Epoch number 16
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6824360990652278
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0096258756205116
+INFO:__main__:----------
+INFO:__main__:Epoch number 21
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5893347103631789
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9839441619260619
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.563896122167915
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.98473297594805
+INFO:__main__:----------
+INFO:__main__:Epoch number 31
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5448623611054625
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9782497344395509
+INFO:__main__:----------
+INFO:__main__:Epoch number 36
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.657889713186609
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.979189109883221
+INFO:__main__:----------
+INFO:__main__:Epoch number 41
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6914118858150812
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9808366968822432
+INFO:__main__:----------
+INFO:__main__:Epoch number 46
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5272691885900812
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9746386438067226
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5290999521292241
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9691580459545179
+INFO:__main__:----------
+INFO:__main__:Epoch number 56
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.660535308538106
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9675677412566124
+INFO:__main__:----------
+INFO:__main__:Epoch number 61
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5669844340058061
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9755738641768671
+INFO:__main__:----------
+INFO:__main__:Epoch number 66
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5847483712035446
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9686815954303146
+INFO:__main__:----------
+INFO:__main__:Epoch number 71
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5692576621213837
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9666195548738719
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6010929107858478
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9626518238323205
+INFO:__main__:----------
+INFO:__main__:Epoch number 81
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6425365330184061
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9635991233510162
+INFO:__main__:----------
+INFO:__main__:Epoch number 86
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6454476286609708
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9642265105212233
+INFO:__main__:----------
+INFO:__main__:Epoch number 91
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5535484963767299
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9619854230543751
+INFO:__main__:----------
+INFO:__main__:Epoch number 96
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5801340326667558
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9657720037426659
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7090066112887995
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9639255749943166
+INFO:__main__:----------
+INFO:__main__:Epoch number 106
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5853120899351754
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9751968924335149
+INFO:__main__:----------
+INFO:__main__:Epoch number 111
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5761378003405694
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9623150987038813
+INFO:__main__:----------
+INFO:__main__:Total training time: 0:5:22
+INFO:__main__:Average Epoch time: 0.04 minutes
+INFO:__main__:Saving files to /zhome/2b/7/117471/Thesis/CASESTUDY/metalearn_finetuned_multiple/capitalbikeshare-tripdata-HOUR1-GRID10
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/train_multiple_metalearn.py", line 210, in <module>
+    torch.save(model.state_dict(), f"{args.save_dir}/{dataset_name}/{str(end_idx)}-model.pth")
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/serialization.py", line 376, in save
+    with _open_file_like(f, 'wb') as opened_file:
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/serialization.py", line 230, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/serialization.py", line 211, in __init__
+    super(_open_file, self).__init__(open(name, mode))
+FileNotFoundError: [Errno 2] No such file or directory: '/zhome/2b/7/117471/Thesis/CASESTUDY/metalearn_finetuned_multiple/capitalbikeshare-tripdata-HOUR1-GRID10/25-model.pth'

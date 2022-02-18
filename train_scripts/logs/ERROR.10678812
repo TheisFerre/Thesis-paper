@@ -1,0 +1,53 @@
+INFO:__main__:{'data': '/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/DATA-BIKES/citibike-tripdata-HOUR4-REGION.pkl', 'model': 'edgeconv', 'num_history': 12, 'train_size': 0.9, 'batch_size': 24, 'epochs': 150, 'weight_decay': 1e-12, 'learning_rate': 0.0005, 'lr_factor': 0.1, 'lr_patience': 25, 'hidden_size': 46, 'optimizer': 'RMSprop', 'node_out_feature': 10, 'dropout': 0.2, 'k_neighbours': 20, 'graph_hidden_size': 32, 'save_dir': '/zhome/2b/7/117471/Thesis/models/metalearning_augmented/data-bikes', 'gpu': True}
+INFO:__main__:<_io.BufferedReader name='/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/DATA-BIKES/citibike-tripdata-HOUR4-REGION.pkl'>
+INFO:__main__:Fitting model at time: 2021-10-22 10:37:22.760178
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9929638111617242
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.99483003925126
+INFO:__main__:----------
+INFO:__main__:Epoch number 6
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9456035626807483
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8791753342880687
+INFO:__main__:----------
+INFO:__main__:Epoch number 11
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.945032792218025
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8737171737587733
+INFO:__main__:----------
+INFO:__main__:Epoch number 16
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9215365027778943
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.895525339690685
+INFO:__main__:----------
+INFO:__main__:Epoch number 21
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9231166667385614
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9447864508493635
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9184759731062812
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8767103327789744
+INFO:__main__:----------
+INFO:__main__:Epoch number 31
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9266829710477099
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8858305281746901
+INFO:__main__:----------
+INFO:__main__:Epoch number 36
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9288451327167134
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.99245827652025
+INFO:__main__:----------
+INFO:__main__:Epoch number 41
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9182079278006156
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.886656166590517
+INFO:__main__:----------
+Traceback (most recent call last):
+  File "train_model.py", line 201, in <module>
+    model, train_loss, test_loss = train_model(
+  File "train_model.py", line 137, in train_model
+    out = model(batch.to(DEVICE))
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/2b/7/117471/Thesis/src/models/models.py", line 566, in forward
+    x = self.edgeconv2(x, batch=batched_data.batch)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric/nn/conv/edge_conv.py", line 112, in forward
+    edge_index = knn(x[0], x[1], self.k, b[0], b[1],
+KeyboardInterrupt

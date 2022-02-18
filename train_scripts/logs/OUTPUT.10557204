@@ -1,0 +1,848 @@
+Starting:
+Shuffling data...
+Shuffling data...
+Shuffling data...
+Shuffling data...
+Shuffling data...
+Shuffling data...
+Shuffling data...
+Shuffling data...
+Shuffling data...
+Shuffling data...
+Shuffling data...
+Shuffling data...
+Shuffling data...
+Shuffling data...
+Epoch: 1
+Meta Train Loss: 0.9614444971084595
+########
+Epoch: 2
+Meta Train Loss: 1.2422518730163574
+########
+Epoch: 3
+Meta Train Loss: 1.00545072555542
+########
+Epoch: 4
+Meta Train Loss: 0.9923515319824219
+########
+Epoch: 5
+Meta Train Loss: 1.1018729209899902
+########
+Epoch: 6
+Meta Train Loss: 0.7959606647491455
+########
+Epoch: 7
+Meta Train Loss: 1.0091893672943115
+########
+Epoch: 8
+Meta Train Loss: 0.8552317023277283
+########
+Epoch: 9
+Meta Train Loss: 0.9813315868377686
+########
+Epoch: 10
+Meta Train Loss: 0.741939127445221
+########
+Epoch: 11
+Meta Train Loss: 0.8073745965957642
+########
+Epoch: 12
+Meta Train Loss: 1.0162668228149414
+########
+Epoch: 13
+Meta Train Loss: 1.222997784614563
+########
+Epoch: 14
+Meta Train Loss: 0.8595795631408691
+########
+Epoch: 15
+Meta Train Loss: 0.8790024518966675
+########
+Epoch: 16
+Meta Train Loss: 1.0479507446289062
+########
+Epoch: 17
+Meta Train Loss: 0.9086310267448425
+########
+Epoch: 18
+Meta Train Loss: 0.8834760189056396
+########
+Epoch: 19
+Meta Train Loss: 1.2153451442718506
+########
+Epoch: 20
+Meta Train Loss: 0.909611701965332
+########
+Epoch: 21
+Meta Train Loss: 0.7896912693977356
+########
+Epoch: 22
+Meta Train Loss: 1.4511724710464478
+########
+Epoch: 23
+Meta Train Loss: 1.135562777519226
+########
+Epoch: 24
+Meta Train Loss: 0.9052595496177673
+########
+Epoch: 25
+Meta Train Loss: 0.8037006258964539
+########
+Epoch: 26
+Meta Train Loss: 1.3506053686141968
+########
+Epoch: 27
+Meta Train Loss: 1.0319218635559082
+########
+Epoch: 28
+Meta Train Loss: 0.8912116885185242
+########
+Epoch: 29
+Meta Train Loss: 0.7561039328575134
+########
+Epoch: 30
+Meta Train Loss: 0.8680853247642517
+########
+Epoch: 31
+Meta Train Loss: 0.8195517063140869
+########
+Epoch: 32
+Meta Train Loss: 1.0155633687973022
+########
+Epoch: 33
+Meta Train Loss: 1.2392618656158447
+########
+Epoch: 34
+Meta Train Loss: 0.9137018918991089
+########
+Epoch: 35
+Meta Train Loss: 0.8825953602790833
+########
+Epoch: 36
+Meta Train Loss: 1.30572509765625
+########
+Epoch: 37
+Meta Train Loss: 1.2530345916748047
+########
+Epoch: 38
+Meta Train Loss: 0.921843409538269
+########
+Epoch: 39
+Meta Train Loss: 0.8589904308319092
+########
+Epoch: 40
+Meta Train Loss: 0.9214943051338196
+########
+Epoch: 41
+Meta Train Loss: 0.9635167717933655
+########
+Epoch: 42
+Meta Train Loss: 0.8296563029289246
+########
+Epoch: 43
+Meta Train Loss: 0.7554466724395752
+########
+Epoch: 44
+Meta Train Loss: 0.6110272407531738
+########
+Epoch: 45
+Meta Train Loss: 0.7232479453086853
+########
+Epoch: 46
+Meta Train Loss: 0.9070953726768494
+########
+Epoch: 47
+Meta Train Loss: 0.6616373062133789
+########
+Epoch: 48
+Meta Train Loss: 0.7817664742469788
+########
+Epoch: 49
+Meta Train Loss: 0.8575240969657898
+########
+Epoch: 50
+Meta Train Loss: 0.9185125231742859
+########
+Epoch: 51
+Meta Train Loss: 0.7592788338661194
+########
+Epoch: 52
+Meta Train Loss: 0.8393058776855469
+########
+Epoch: 53
+Meta Train Loss: 0.7209819555282593
+########
+Epoch: 54
+Meta Train Loss: 0.8638916015625
+########
+Epoch: 55
+Meta Train Loss: 0.5050638914108276
+########
+Epoch: 56
+Meta Train Loss: 0.7690798044204712
+########
+Epoch: 57
+Meta Train Loss: 1.279890537261963
+########
+Epoch: 58
+Meta Train Loss: 0.6695644855499268
+########
+Epoch: 59
+Meta Train Loss: 0.9493741989135742
+########
+Epoch: 60
+Meta Train Loss: 0.6855647563934326
+########
+Epoch: 61
+Meta Train Loss: 0.7410901784896851
+########
+Epoch: 62
+Meta Train Loss: 0.6348630785942078
+########
+Epoch: 63
+Meta Train Loss: 0.5684894323348999
+########
+Epoch: 64
+Meta Train Loss: 0.9519325494766235
+########
+Epoch: 65
+Meta Train Loss: 0.7926428318023682
+########
+Epoch: 66
+Meta Train Loss: 0.6795706748962402
+########
+Epoch: 67
+Meta Train Loss: 0.6620841026306152
+########
+Epoch: 68
+Meta Train Loss: 0.735689103603363
+########
+Epoch: 69
+Meta Train Loss: 0.6092733144760132
+########
+Epoch: 70
+Meta Train Loss: 0.6639812588691711
+########
+Epoch: 71
+Meta Train Loss: 0.6459929943084717
+########
+Epoch: 72
+Meta Train Loss: 0.7590904235839844
+########
+Epoch: 73
+Meta Train Loss: 0.6897828578948975
+########
+Epoch: 74
+Meta Train Loss: 0.5659195780754089
+########
+Epoch: 75
+Meta Train Loss: 0.7670465707778931
+########
+Epoch: 76
+Meta Train Loss: 0.8216114640235901
+########
+Epoch: 77
+Meta Train Loss: 0.5422361493110657
+########
+Epoch: 78
+Meta Train Loss: 0.6905721426010132
+########
+Epoch: 79
+Meta Train Loss: 0.6738829016685486
+########
+Epoch: 80
+Meta Train Loss: 0.6052286028862
+########
+Epoch: 81
+Meta Train Loss: 0.7759794592857361
+########
+Epoch: 82
+Meta Train Loss: 0.7123134136199951
+########
+Epoch: 83
+Meta Train Loss: 0.9759296178817749
+########
+Epoch: 84
+Meta Train Loss: 0.5669251680374146
+########
+Epoch: 85
+Meta Train Loss: 0.6077257990837097
+########
+Epoch: 86
+Meta Train Loss: 0.47849521040916443
+########
+Epoch: 87
+Meta Train Loss: 1.1205588579177856
+########
+Epoch: 88
+Meta Train Loss: 0.6328672766685486
+########
+Epoch: 89
+Meta Train Loss: 0.5945272445678711
+########
+Epoch: 90
+Meta Train Loss: 0.5901322960853577
+########
+Epoch: 91
+Meta Train Loss: 0.8557440042495728
+########
+Epoch: 92
+Meta Train Loss: 0.5556163787841797
+########
+Epoch: 93
+Meta Train Loss: 0.5578529834747314
+########
+Epoch: 94
+Meta Train Loss: 0.6360121369361877
+########
+Epoch: 95
+Meta Train Loss: 0.6372979879379272
+########
+Epoch: 96
+Meta Train Loss: 0.5852712392807007
+########
+Epoch: 97
+Meta Train Loss: 0.8161686658859253
+########
+Epoch: 98
+Meta Train Loss: 0.6217254996299744
+########
+Epoch: 99
+Meta Train Loss: 0.560299813747406
+########
+Epoch: 100
+Meta Train Loss: 0.6801177859306335
+########
+Epoch: 101
+Meta Train Loss: 0.7457357048988342
+########
+Epoch: 102
+Meta Train Loss: 0.6907391548156738
+########
+Epoch: 103
+Meta Train Loss: 0.527767539024353
+########
+Epoch: 104
+Meta Train Loss: 0.9136207103729248
+########
+Epoch: 105
+Meta Train Loss: 0.5044815540313721
+########
+Epoch: 106
+Meta Train Loss: 0.5158266425132751
+########
+Epoch: 107
+Meta Train Loss: 0.9250538945198059
+########
+Epoch: 108
+Meta Train Loss: 0.4880531430244446
+########
+Epoch: 109
+Meta Train Loss: 0.7086364030838013
+########
+Epoch: 110
+Meta Train Loss: 0.7774381637573242
+########
+Epoch: 111
+Meta Train Loss: 0.7569534182548523
+########
+Epoch: 112
+Meta Train Loss: 0.49020567536354065
+########
+Epoch: 113
+Meta Train Loss: 0.5204876065254211
+########
+Epoch: 114
+Meta Train Loss: 0.6450228095054626
+########
+Epoch: 115
+Meta Train Loss: 0.6081891655921936
+########
+Epoch: 116
+Meta Train Loss: 0.5832647085189819
+########
+Epoch: 117
+Meta Train Loss: 0.5552338361740112
+########
+Epoch: 118
+Meta Train Loss: 0.636816143989563
+########
+Epoch: 119
+Meta Train Loss: 0.8355427384376526
+########
+Epoch: 120
+Meta Train Loss: 0.5669739842414856
+########
+Epoch: 121
+Meta Train Loss: 0.6022593975067139
+########
+Epoch: 122
+Meta Train Loss: 0.7568708062171936
+########
+Epoch: 123
+Meta Train Loss: 0.6417386531829834
+########
+Epoch: 124
+Meta Train Loss: 0.6074268221855164
+########
+Epoch: 125
+Meta Train Loss: 0.7138944268226624
+########
+Epoch: 126
+Meta Train Loss: 1.0405528545379639
+########
+Epoch: 127
+Meta Train Loss: 0.9882951378822327
+########
+Epoch: 128
+Meta Train Loss: 0.8083384037017822
+########
+Epoch: 129
+Meta Train Loss: 0.5564881563186646
+########
+Epoch: 130
+Meta Train Loss: 0.682208240032196
+########
+Epoch: 131
+Meta Train Loss: 0.725566029548645
+########
+Epoch: 132
+Meta Train Loss: 0.4392370879650116
+########
+Epoch: 133
+Meta Train Loss: 0.6136103272438049
+########
+Epoch: 134
+Meta Train Loss: 0.7080700993537903
+########
+Epoch: 135
+Meta Train Loss: 0.6832512617111206
+########
+Epoch: 136
+Meta Train Loss: 0.6555706262588501
+########
+Epoch: 137
+Meta Train Loss: 0.8016402721405029
+########
+Epoch: 138
+Meta Train Loss: 0.4135444760322571
+########
+Epoch: 139
+Meta Train Loss: 0.5845341086387634
+########
+Epoch: 140
+Meta Train Loss: 0.4750562310218811
+########
+Epoch: 141
+Meta Train Loss: 0.77560955286026
+########
+Epoch: 142
+Meta Train Loss: 0.5173733830451965
+########
+Epoch: 143
+Meta Train Loss: 0.5878996849060059
+########
+Epoch: 144
+Meta Train Loss: 28.18437385559082
+########
+Epoch: 145
+Meta Train Loss: 0.5391062498092651
+########
+Epoch: 146
+Meta Train Loss: 0.6055606007575989
+########
+Epoch: 147
+Meta Train Loss: 0.6075135469436646
+########
+Epoch: 148
+Meta Train Loss: 0.5351384282112122
+########
+Epoch: 149
+Meta Train Loss: 0.42537063360214233
+########
+Epoch: 150
+Meta Train Loss: 0.7060129046440125
+########
+Epoch: 151
+Meta Train Loss: 0.5009952783584595
+########
+Epoch: 152
+Meta Train Loss: 0.7577477097511292
+########
+Epoch: 153
+Meta Train Loss: 0.5142825841903687
+########
+Epoch: 154
+Meta Train Loss: 0.682531476020813
+########
+Epoch: 155
+Meta Train Loss: 0.43131688237190247
+########
+Epoch: 156
+Meta Train Loss: 0.46503946185112
+########
+Epoch: 157
+Meta Train Loss: 0.735398530960083
+########
+Epoch: 158
+Meta Train Loss: 0.619499921798706
+########
+Epoch: 159
+Meta Train Loss: 0.5534717440605164
+########
+Epoch: 160
+Meta Train Loss: 0.6621786952018738
+########
+Epoch: 161
+Meta Train Loss: 0.6096433997154236
+########
+Epoch: 162
+Meta Train Loss: 0.5651949048042297
+########
+Epoch: 163
+Meta Train Loss: 0.7495201826095581
+########
+Epoch: 164
+Meta Train Loss: 0.5957126617431641
+########
+Epoch: 165
+Meta Train Loss: 0.5818842649459839
+########
+Epoch: 166
+Meta Train Loss: 0.6657764911651611
+########
+Epoch: 167
+Meta Train Loss: 0.41844794154167175
+########
+Epoch: 168
+Meta Train Loss: 0.5626152753829956
+########
+Epoch: 169
+Meta Train Loss: 0.6759177446365356
+########
+Epoch: 170
+Meta Train Loss: 0.6989701390266418
+########
+Epoch: 171
+Meta Train Loss: 0.5725298523902893
+########
+Epoch: 172
+Meta Train Loss: 0.8164176940917969
+########
+Epoch: 173
+Meta Train Loss: 0.6293100714683533
+########
+Epoch: 174
+Meta Train Loss: 0.547136664390564
+########
+Epoch: 175
+Meta Train Loss: 0.5481866002082825
+########
+Epoch: 176
+Meta Train Loss: 0.9226744174957275
+########
+Epoch: 177
+Meta Train Loss: 0.7535519003868103
+########
+Epoch: 178
+Meta Train Loss: 0.8228612542152405
+########
+Epoch: 179
+Meta Train Loss: 0.3944474458694458
+########
+Epoch: 180
+Meta Train Loss: 0.8304173946380615
+########
+Epoch: 181
+Meta Train Loss: 0.47213441133499146
+########
+Epoch: 182
+Meta Train Loss: 0.4622580409049988
+########
+Epoch: 183
+Meta Train Loss: 0.6696076989173889
+########
+Epoch: 184
+Meta Train Loss: 0.7929121255874634
+########
+Epoch: 185
+Meta Train Loss: 0.6390472054481506
+########
+Epoch: 186
+Meta Train Loss: 0.6360653042793274
+########
+Epoch: 187
+Meta Train Loss: 0.7381370067596436
+########
+Epoch: 188
+Meta Train Loss: 0.41456690430641174
+########
+Epoch: 189
+Meta Train Loss: 0.9614383578300476
+########
+Epoch: 190
+Meta Train Loss: 0.5908704996109009
+########
+Epoch: 191
+Meta Train Loss: 0.6664947271347046
+########
+Epoch: 192
+Meta Train Loss: 0.519036054611206
+########
+Epoch: 193
+Meta Train Loss: 0.7307845950126648
+########
+Epoch: 194
+Meta Train Loss: 0.6511641144752502
+########
+Epoch: 195
+Meta Train Loss: 0.660845935344696
+########
+Epoch: 196
+Meta Train Loss: 0.5899125933647156
+########
+Epoch: 197
+Meta Train Loss: 0.5815014243125916
+########
+Epoch: 198
+Meta Train Loss: 0.5255186557769775
+########
+Epoch: 199
+Meta Train Loss: 0.6555361747741699
+########
+Epoch: 200
+Meta Train Loss: 0.5476794838905334
+########
+Epoch: 201
+Meta Train Loss: 0.7223027348518372
+########
+Epoch: 202
+Meta Train Loss: 0.5174798965454102
+########
+Epoch: 203
+Meta Train Loss: 0.670639157295227
+########
+Epoch: 204
+Meta Train Loss: 0.4767701029777527
+########
+Epoch: 205
+Meta Train Loss: 0.523671567440033
+########
+Epoch: 206
+Meta Train Loss: 0.49271008372306824
+########
+Epoch: 207
+Meta Train Loss: 0.7287213802337646
+########
+Epoch: 208
+Meta Train Loss: 0.44516855478286743
+########
+Epoch: 209
+Meta Train Loss: 0.5736000537872314
+########
+Epoch: 210
+Meta Train Loss: 0.5978959202766418
+########
+Epoch: 211
+Meta Train Loss: 0.5276699066162109
+########
+Epoch: 212
+Meta Train Loss: 0.5752599835395813
+########
+Epoch: 213
+Meta Train Loss: 0.48190444707870483
+########
+Epoch: 214
+Meta Train Loss: 0.5609796643257141
+########
+Epoch: 215
+Meta Train Loss: 0.688441276550293
+########
+Epoch: 216
+Meta Train Loss: 4477.564453125
+########
+Epoch: 217
+Meta Train Loss: 0.5072458982467651
+########
+Epoch: 218
+Meta Train Loss: 0.5196958184242249
+########
+Epoch: 219
+Meta Train Loss: 0.9880983233451843
+########
+Epoch: 220
+Meta Train Loss: 0.7162955403327942
+########
+Epoch: 221
+Meta Train Loss: 0.6131364107131958
+########
+Epoch: 222
+Meta Train Loss: 0.6672310829162598
+########
+Epoch: 223
+Meta Train Loss: 0.7911571860313416
+########
+Epoch: 224
+Meta Train Loss: 0.6725863218307495
+########
+Epoch: 225
+Meta Train Loss: 0.6663492321968079
+########
+Epoch: 226
+Meta Train Loss: 0.8613851070404053
+########
+Epoch: 227
+Meta Train Loss: 0.8580615520477295
+########
+Epoch: 228
+Meta Train Loss: 0.8543973565101624
+########
+Epoch: 229
+Meta Train Loss: 0.5829355120658875
+########
+Epoch: 230
+Meta Train Loss: 0.594056248664856
+########
+Epoch: 231
+Meta Train Loss: 1.0234240293502808
+########
+Epoch: 232
+Meta Train Loss: 0.6818421483039856
+########
+Epoch: 233
+Meta Train Loss: 0.6352060437202454
+########
+Epoch: 234
+Meta Train Loss: 0.6536740064620972
+########
+Epoch: 235
+Meta Train Loss: 0.7538321614265442
+########
+Epoch: 236
+Meta Train Loss: 1.313299298286438
+########
+Epoch: 237
+Meta Train Loss: 0.7394365072250366
+########
+Epoch: 238
+Meta Train Loss: 0.6755067706108093
+########
+Epoch: 239
+Meta Train Loss: 0.6475051641464233
+########
+Epoch: 240
+Meta Train Loss: 0.7434766888618469
+########
+Epoch: 241
+Meta Train Loss: 0.7051931619644165
+########
+Epoch: 242
+Meta Train Loss: 0.6995382308959961
+########
+Epoch: 243
+Meta Train Loss: 0.4774125814437866
+########
+Epoch: 244
+Meta Train Loss: 0.643386721611023
+########
+Epoch: 245
+Meta Train Loss: 0.6015995144844055
+########
+Epoch: 246
+Meta Train Loss: 0.8038848042488098
+########
+Epoch: 247
+Meta Train Loss: 0.5260810852050781
+########
+Epoch: 248
+Meta Train Loss: 0.4786128103733063
+########
+Epoch: 249
+Meta Train Loss: 0.7532728910446167
+########
+Epoch: 250
+Meta Train Loss: 1.274885892868042
+########
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@hpc.dtu.dk>
+Subject: Job 10557204: <METALEARN> in cluster <dcc> Done
+
+Job <METALEARN> was submitted from host <gbarlogin1> by user <tfehjo> in cluster <dcc> at Mon Oct  4 13:46:00 2021
+Job was executed on host(s) <n-62-11-14>, in queue <gpuv100>, as user <tfehjo> in cluster <dcc> at Mon Oct  4 15:02:41 2021
+</zhome/2b/7/117471> was used as the home directory.
+</zhome/2b/7/117471/Thesis/train_scripts> was used as the working directory.
+Started at Mon Oct  4 15:02:41 2021
+Terminated at Mon Oct  4 17:12:27 2021
+Results reported at Mon Oct  4 17:12:27 2021
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/sh
+#BSUB -J METALEARN #The name the job will get
+#BSUB -q gpuv100 #The queue the job will be committed to, here the GPU enabled queue
+#BSUB -gpu "num=1:mode=exclusive_process" #How the job will be run on the VM, here I request 1 GPU with exclusive access i.e. only my c #BSUB -n 1 How many CPU cores my job request
+#BSUB -W 24:00 #The maximum runtime my job have note that the queuing might enable shorter jobs earlier due to scheduling.
+#BSUB -R "span[hosts=1]" #How many nodes the job requests
+#BSUB -R "rusage[mem=12GB]" #How much RAM the job should have access to
+#BSUB -R "select[gpu32gb]" #For requesting the extra big GPU w. 32GB of VRAM
+#BSUB -o logs/OUTPUT.%J #Log file
+#BSUB -e logs/ERROR.%J #Error log file
+echo "Starting:"
+
+cd ~/Thesis/metalearning
+#cd /Users/theisferre/Documents/SPECIALE/Thesis/src/models
+
+source ~/Thesis/venv-thesis/bin/activate
+
+DATA_DIR=/zhome/2b/7/117471/Thesis/data/processed/metalearning
+TRAIN_SIZE=0.9
+BATCH_TASK_SIZE=8
+K_SHOT=5
+ADAPTATION_STEPS=5
+EPOCHS=250
+ADAPT_LR=0.05
+META_LR=0.001
+EXCLUDE=yellow-taxi
+LOG_DIR=/zhome/2b/7/117471/Thesis/metalearning
+HIDDEN_SIZE=46
+DROPOUT_P=0.2
+NODE_OUT_FEATURES=10
+
+
+python /zhome/2b/7/117471/Thesis/src/models/train_meta.py --data_dir $DATA_DIR --train_size $TRAIN_SIZE --batch_task_size $BATCH_TASK_SIZE \
+--k_shot $K_SHOT --adaptation_steps $ADAPTATION_STEPS --epochs $EPOCHS --adapt_lr $ADAPT_LR --meta_lr $META_LR --log_dir $LOG_DIR --exclude $EXCLUDE \
+--hidden_size $HIDDEN_SIZE --dropout_p $DROPOUT_P --node_out_features $NODE_OUT_FEATURES --gpu
+
+
+
+
+
+
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   7759.81 sec.
+    Max Memory :                                 4229 MB
+    Average Memory :                             4185.63 MB
+    Total Requested Memory :                     12288.00 MB
+    Delta Memory :                               8059.00 MB
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                9
+    Run time :                                   7785 sec.
+    Turnaround time :                            12387 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <logs/ERROR.10557204> for stderr output of this job.
+

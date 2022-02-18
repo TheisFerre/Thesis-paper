@@ -1,0 +1,90 @@
+Starting:
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@hpc.dtu.dk>
+Subject: Job 11088048: <FINETUNE-MULTIPLE> in cluster <dcc> Exited
+
+Job <FINETUNE-MULTIPLE> was submitted from host <gbarlogin1> by user <tfehjo> in cluster <dcc> at Thu Nov 18 08:46:05 2021
+Job was executed on host(s) <n-62-20-12>, in queue <gpuv100>, as user <tfehjo> in cluster <dcc> at Thu Nov 18 08:46:06 2021
+</zhome/2b/7/117471> was used as the home directory.
+</zhome/2b/7/117471/Thesis/train_scripts> was used as the working directory.
+Started at Thu Nov 18 08:46:06 2021
+Terminated at Thu Nov 18 08:46:12 2021
+Results reported at Thu Nov 18 08:46:12 2021
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/sh
+#BSUB -J FINETUNE-MULTIPLE #The name the job will get
+#BSUB -q gpuv100 #The queue the job will be committed to, here the GPU enabled queue
+#BSUB -gpu "num=1:mode=exclusive_process" #How the job will be run on the VM, here I request 1 GPU with exclusive access i.e. only my c #BSUB -n 1 How many CPU cores my job request
+#BSUB -W 24:00 #The maximum runtime my job have note that the queuing might enable shorter jobs earlier due to scheduling.
+#BSUB -R "span[hosts=1]" #How many nodes the job requests
+#BSUB -R "rusage[mem=12GB]" #How much RAM the job should have access to
+#BSUB -R "select[gpu32gb]" #For requesting the extra big GPU w. 32GB of VRAM
+#BSUB -o logs/OUTPUT.%J #Log file
+#BSUB -e logs/ERROR.%J #Error log file
+echo "Starting:"
+
+cd ~/Thesis/metalearning
+#cd /Users/theisferre/Documents/SPECIALE/Thesis/src/models
+
+source ~/Thesis/venv-thesis/bin/activate
+
+DATA=/zhome/2b/7/117471/Thesis/data/processed/metalearning/capitalbikeshare-tripdata-HOUR1-GRID10.pkl
+MODEL_PATH=/zhome/2b/7/117471/Thesis/CASESTUDY/non-augmented/2021-11-03T14:53:15.962247/model.pth
+TRAIN_SIZE=0.9
+BATCH_SIZE=20
+EPOCHS=150
+WEIGHT_DECAY=0.0000000001
+LEARNING_RATE=0.0005
+LR_PATIENCE=25
+LR_FACTOR=0.1
+OPTIMIZER=RMSprop
+SAVE_DIR=/zhome/2b/7/117471/Thesis/CASESTUDY/metalearn_finetuned_multiple
+
+
+
+
+python /zhome/2b/7/117471/Thesis/src/models/train_multiple_metalearn.py --data $DATA --model_path $MODEL_PATH --train_size $TRAIN_SIZE --batch_size $BATCH_SIZE --epochs $EPOCHS --weight_decay $WEIGHT_DECAY --learning_rate $LEARNING_RATE --lr_patience $LR_PATIENCE --lr_factor $LR_FACTOR --optimizer $OPTIMIZER --save_dir $SAVE_DIR --gpu
+
+# TRAINED MODELS
+# /zhome/2b/7/117471/Thesis/metalearning/2021-10-10T15:26:12.999216
+# /zhome/2b/7/117471/Thesis/metalearning/2021-10-10T15:29:59.429279
+# /zhome/2b/7/117471/Thesis/metalearning/2021-10-10T15:30:18.825955
+# /zhome/2b/7/117471/Thesis/metalearning/2021-10-10T15:30:38.752281
+# /zhome/2b/7/117471/Thesis/metalearning/2021-10-10T15:30:40.637652
+# /zhome/2b/7/117471/Thesis/metalearning/2021-10-10T15:30:43.601055
+# /zhome/2b/7/117471/Thesis/metalearning/2021-10-10T15:30:47.529250
+# /zhome/2b/7/117471/Thesis/metalearning/2021-10-10T15:30:58.898052
+
+
+
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with exit code 130.
+
+Resource usage summary:
+
+    CPU time :                                   2.54 sec.
+    Max Memory :                                 148 MB
+    Average Memory :                             148.00 MB
+    Total Requested Memory :                     12288.00 MB
+    Delta Memory :                               12140.00 MB
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                6
+    Run time :                                   87 sec.
+    Turnaround time :                            7 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <logs/ERROR.11088048> for stderr output of this job.
+

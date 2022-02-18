@@ -1,0 +1,254 @@
+INFO:__main__:{'data': '/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/DATA-BIKES/citibike-tripdata-HOUR8-GRID5.pkl', 'model_path': '/zhome/2b/7/117471/Thesis/metalearning/NOT-BIKES/2021-10-22T11:38:16.100123', 'train_size': 0.9, 'batch_size': 20, 'epochs': 150, 'weight_decay': 1e-10, 'learning_rate': 0.0005, 'save_to_dir': True, 'lr_factor': 0.1, 'lr_patience': 25, 'optimizer': 'RMSprop', 'gpu': True}
+INFO:__main__:Fitting model at time: 2021-10-22 13:55:56.028359
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0157733564349343
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0339133664468947
+INFO:__main__:----------
+INFO:__main__:Epoch number 6
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.979450074061007
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9134509331168624
+INFO:__main__:----------
+INFO:__main__:Epoch number 11
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.973738756094489
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.85273313989694
+INFO:__main__:----------
+INFO:__main__:Epoch number 16
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9613837082289524
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8704117641307866
+INFO:__main__:----------
+INFO:__main__:Epoch number 21
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9370925653753999
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9164772578548337
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.892082480191591
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9004006871387329
+INFO:__main__:----------
+INFO:__main__:Epoch number 31
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.84273322087912
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9116062026194486
+INFO:__main__:----------
+INFO:__main__:Epoch number 36
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.8090659834245405
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8803341604431362
+INFO:__main__:----------
+INFO:__main__:Epoch number 41
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7904304349176399
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8911460389687534
+INFO:__main__:----------
+INFO:__main__:Epoch number 46
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7670351863290463
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8143029566214468
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7670894341940204
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8049344730067035
+INFO:__main__:----------
+INFO:__main__:Epoch number 56
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7612308064203694
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9875643093560189
+INFO:__main__:----------
+INFO:__main__:Epoch number 61
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7277364765955252
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.991718541853459
+INFO:__main__:----------
+INFO:__main__:Epoch number 66
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7153991945436732
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8441281266105838
+INFO:__main__:----------
+INFO:__main__:Epoch number 71
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7013452204060949
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9957913856104247
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6941148483736895
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9367417766168354
+INFO:__main__:----------
+INFO:__main__:Epoch number 81
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6880108423732504
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9344500042719955
+INFO:__main__:----------
+INFO:__main__:Epoch number 86
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7034388671691117
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9870933208360179
+INFO:__main__:----------
+INFO:__main__:Epoch number 91
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6945453807207174
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0084792895859607
+INFO:__main__:----------
+INFO:__main__:Epoch number 96
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6986295608104992
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8811264479039841
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6834439422307862
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8375704315802879
+INFO:__main__:----------
+INFO:__main__:Epoch number 106
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6930516558586071
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9529945409324216
+INFO:__main__:----------
+INFO:__main__:Epoch number 111
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6787748539968687
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8120491354115695
+INFO:__main__:----------
+INFO:__main__:Epoch number 116
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6782367687436932
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9383614714645686
+INFO:__main__:----------
+INFO:__main__:Epoch number 121
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6883002323675136
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8071547248527884
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6780487306249111
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9861217925040949
+INFO:__main__:----------
+INFO:__main__:Epoch number 131
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6853818250968317
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8588286397011623
+INFO:__main__:----------
+INFO:__main__:Epoch number 136
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6824301944248118
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9994715993308834
+INFO:__main__:----------
+INFO:__main__:Epoch number 141
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6891963974256798
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8360994752485784
+INFO:__main__:----------
+INFO:__main__:Epoch number 146
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6813049254892655
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8684372273705855
+INFO:__main__:----------
+INFO:__main__:Total training time: 0:2:6
+INFO:__main__:Average Epoch time: 0.01 minutes
+INFO:__main__:Saving files to: /zhome/2b/7/117471/Thesis/metalearning/NOT-BIKES/2021-10-22T11:38:16.100123
+Traceback (most recent call last):
+  File "/zhome/2b/7/117471/Thesis/src/models/finetune_meta.py", line 196, in <module>
+    with open(f"{args.model_path}/{save_dir}/finetune_{TYPE}_settings.json", "w") as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: '/zhome/2b/7/117471/Thesis/metalearning/NOT-BIKES/2021-10-22T11:38:16.100123/citibike-tripdata-HOUR8-GRID5/finetune_GRID_settings.json'
+INFO:__main__:{'data': '/zhome/2b/7/117471/Thesis/data/processed/metalearning_augmented/DATA-BIKES/citibike-tripdata-HOUR8-GRID5.pkl', 'model_path': '/zhome/2b/7/117471/Thesis/metalearning/NOT-BIKES/2021-10-22T11:38:16.100123', 'train_size': 0.9, 'batch_size': 20, 'epochs': 150, 'weight_decay': 1e-10, 'learning_rate': 0.0005, 'save_to_dir': True, 'lr_factor': 0.1, 'lr_patience': 25, 'optimizer': 'RMSprop', 'gpu': True}
+INFO:__main__:Fitting model at time: 2021-10-22 13:58:06.432137
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 1.0660805676486838
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.2873284901574442
+INFO:__main__:----------
+INFO:__main__:Epoch number 6
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9330948703123382
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8517404947705023
+INFO:__main__:----------
+INFO:__main__:Epoch number 11
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9057357743241395
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7807679405704057
+INFO:__main__:----------
+INFO:__main__:Epoch number 16
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.8895134877577342
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8703492066126466
+INFO:__main__:----------
+INFO:__main__:Epoch number 21
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.8824557368387115
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8155125467380712
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.8712466936741964
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9311194251512352
+INFO:__main__:----------
+INFO:__main__:Epoch number 31
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.8673562552951862
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.7760114610583901
+INFO:__main__:----------
+INFO:__main__:Epoch number 36
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.8413363448643654
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.845995282108147
+INFO:__main__:----------
+INFO:__main__:Epoch number 41
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.8388625689946712
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8761589855482419
+INFO:__main__:----------
+INFO:__main__:Epoch number 46
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.8118613113935949
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.897190555526117
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.8151217139836491
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.8986579458713697
+INFO:__main__:----------
+INFO:__main__:Epoch number 56
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.79328209303237
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9972293887519885
+INFO:__main__:----------
+INFO:__main__:Epoch number 61
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.8114000219704393
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0287361427291593
+INFO:__main__:----------
+INFO:__main__:Epoch number 66
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7655122894573021
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9053344541395504
+INFO:__main__:----------
+INFO:__main__:Epoch number 71
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7648610793356282
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.042860989950777
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7633566974299735
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9231038551000879
+INFO:__main__:----------
+INFO:__main__:Epoch number 81
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7541454443044364
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9290313168093601
+INFO:__main__:----------
+INFO:__main__:Epoch number 86
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7452802333871505
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9572921864311349
+INFO:__main__:----------
+INFO:__main__:Epoch number 91
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7669018523767358
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9120365987819867
+INFO:__main__:----------
+INFO:__main__:Epoch number 96
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7583472259571142
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9541721064122377
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7461736130370492
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9672878367402757
+INFO:__main__:----------
+INFO:__main__:Epoch number 106
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7535737676552973
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0603095784977634
+INFO:__main__:----------
+INFO:__main__:Epoch number 111
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7539014354940798
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9267032072583739
+INFO:__main__:----------
+INFO:__main__:Epoch number 116
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7576114414040126
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0079282206256448
+INFO:__main__:----------
+INFO:__main__:Epoch number 121
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.747943608764802
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.1170396373506997
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7588190443480806
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9982953592767067
+INFO:__main__:----------
+INFO:__main__:Epoch number 131
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7363589572944028
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9226029641497231
+INFO:__main__:----------
+INFO:__main__:Epoch number 136
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7535994404501417
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.9251308973588555
+INFO:__main__:----------
+INFO:__main__:Epoch number 141
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.759102460830935
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.958116142222051
+INFO:__main__:----------
+INFO:__main__:Epoch number 146
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.7583671503116097
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0512460439337683
+INFO:__main__:----------
+INFO:__main__:Total training time: 0:2:4
+INFO:__main__:Average Epoch time: 0.01 minutes
+INFO:__main__:Saving files to: /zhome/2b/7/117471/Thesis/metalearning/NOT-BIKES/2021-10-22T11:38:16.100123

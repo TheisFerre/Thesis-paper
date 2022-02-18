@@ -1,0 +1,39 @@
+INFO:__main__:Fitting model at time: 2021-09-01 08:31:09.999747
+INFO:__main__:Epoch number 1
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.9252853724844289
+INFO:__main__:Epoch avg RMSE loss (TEST): 1.0293216945337167
+INFO:__main__:----------
+INFO:__main__:Epoch number 26
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.6215171522396067
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6294052222890294
+INFO:__main__:----------
+INFO:__main__:Epoch number 51
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5873549264723061
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6590909351162237
+INFO:__main__:----------
+INFO:__main__:Epoch number 76
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5711811765869022
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.674412392307281
+INFO:__main__:----------
+INFO:__main__:Epoch number 101
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5698360738154765
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6862203498359044
+INFO:__main__:----------
+INFO:__main__:Epoch number 126
+INFO:__main__:Epoch avg RMSE loss (TRAIN): 0.5694896914504944
+INFO:__main__:Epoch avg RMSE loss (TEST): 0.6931921344673254
+INFO:__main__:----------
+Traceback (most recent call last):
+  File "train_model.py", line 147, in <module>
+    model, train_loss, test_loss = train_model(
+  File "train_model.py", line 93, in train_model
+    out = model(batch.to(DEVICE))
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/2b/7/117471/Thesis/src/models/models.py", line 566, in forward
+    out, _ = self.lstm(lstm_inputs)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/rnn.py", line 679, in forward
+    result = _VF.lstm(input, hx, self._flat_weights, self.bias, self.num_layers,
+KeyboardInterrupt

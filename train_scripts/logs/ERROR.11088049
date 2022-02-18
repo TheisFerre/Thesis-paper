@@ -1,0 +1,6 @@
+usage: train_multiple_metalearn.py [-h] [-d DATA] [-m MODEL_PATH]
+                                   [-t TRAIN_SIZE] [-b BATCH_SIZE] [-e EPOCHS]
+                                   [-wd WEIGHT_DECAY] [-lr LEARNING_RATE]
+                                   [-sd] [-f LR_FACTOR] [-p LR_PATIENCE]
+                                   [-o OPTIMIZER] [-g]
+train_multiple_metalearn.py: error: unrecognized arguments: /zhome/2b/7/117471/Thesis/CASESTUDY/metalearn_finetuned_multiple

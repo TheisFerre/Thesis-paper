@@ -1,0 +1,31 @@
+INFO:__main__:{'data': '/zhome/2b/7/117471/Thesis/data/processed/metalearning/citibike-tripdata-REGION.pkl', 'model': 'edgeconv', 'num_history': 12, 'train_size': 0.8, 'batch_size': 24, 'epochs': 100, 'weight_decay': 0.001, 'learning_rate': 0.001, 'lr_factor': 0.1, 'lr_patience': 50, 'hidden_size': 46, 'optimizer': 'RMSprop', 'node_out_feature': 10, 'dropout': 0.2, 'k_neighbours': 30, 'graph_hidden_size': 32, 'gpu': True}
+INFO:__main__:<_io.BufferedReader name='/zhome/2b/7/117471/Thesis/data/processed/metalearning/citibike-tripdata-REGION.pkl'>
+INFO:__main__:Fitting model at time: 2021-09-30 18:09:46.001563
+Traceback (most recent call last):
+  File "train_model.py", line 200, in <module>
+    model, train_loss, test_loss = train_model(
+  File "train_model.py", line 137, in train_model
+    out = model(batch.to(DEVICE))
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/2b/7/117471/Thesis/src/models/models.py", line 566, in forward
+    x = self.edgeconv2(x, batch=batched_data.batch)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric/nn/conv/edge_conv.py", line 116, in forward
+    return self.propagate(edge_index, x=x, size=None)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric/nn/conv/message_passing.py", line 237, in propagate
+    out = self.message(**msg_kwargs)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch_geometric/nn/conv/edge_conv.py", line 119, in message
+    return self.nn(torch.cat([x_i, x_j - x_i], dim=-1))
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/container.py", line 139, in forward
+    input = module(input)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/modules/dropout.py", line 58, in forward
+    return F.dropout(input, self.p, self.training, self.inplace)
+  File "/zhome/2b/7/117471/Thesis/venv-thesis/lib/python3.8/site-packages/torch/nn/functional.py", line 1168, in dropout
+    return _VF.dropout_(input, p, training) if inplace else _VF.dropout(input, p, training)
+RuntimeError: CUDA out of memory. Tried to allocate 448.00 MiB (GPU 0; 31.75 GiB total capacity; 29.75 GiB already allocated; 382.00 MiB free; 30.05 GiB reserved in total by PyTorch)
