@@ -1,12 +1,10 @@
-
-
-from src.models.models import BaselineGATLSTM, Edgeconvmodel, GATLSTM, Encoder, Decoder, STGNNModel, BaselineGNNLSTM
+from modelling.models import BaselineGATLSTM, Edgeconvmodel, GATLSTM, Encoder, Decoder, STGNNModel, BaselineGNNLSTM
 import torch
 import torch.optim as optim
 from torch.optim.lr_scheduler import ReduceLROnPlateau
 import numpy as np
 import dill
-from src.data.process_dataset import Dataset
+from data_processing.process_dataset import Dataset
 from torch_geometric.data import DataLoader
 import argparse
 import datetime

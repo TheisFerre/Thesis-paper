@@ -10,12 +10,14 @@
 #BSUB -e logs/ERROR.%J #Error log file
 echo "Starting:"
 
-cd ~/Thesis/src/models
-#cd /Users/theisferre/Documents/SPECIALE/Thesis/src/models
+#cd ~/Thesis/src/models
+cd /Users/theis/Documents/Thesis-paper/modelling/train_scripts
 
-source ~/Thesis/venv-thesis/bin/activate
+#source ~/Thesis/venv-thesis/bin/activate
+source /Users/theis/Documents/Thesis-paper/venv-paper/bin/activate
 
-DATA=/zhome/2b/7/117471/Thesis/data/processed/METR-LA-HOUR1-REGION.pkl
+#DATA=/zhome/2b/7/117471/Thesis/data/processed/METR-LA-HOUR1-REGION.pkl
+DATA=/Users/theis/Documents/Thesis-paper/data/processed/green-taxi2020-dec-REGION.pkl
 MODEL=edgeconv
 NUM_HISTORY=12
 TRAIN_SIZE=0.9

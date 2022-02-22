@@ -3,12 +3,11 @@ from typing import List, Union
 import numpy as np
 from tqdm import tqdm
 import scipy
-from torch_geometric_temporal.signal import StaticGraphTemporalSignal  # , temporal_signal_split
-from src.models.models import CustomTemporalSignal
+from modelling.models import CustomTemporalSignal
 from torch_geometric.utils import from_scipy_sparse_matrix
 import torch
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
-from src.data.encode_externals import Weather_container
+from data_processing.encode_externals import Weather_container
 from datetime import timedelta
 
 
