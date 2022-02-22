@@ -133,3 +133,5 @@ dmypy.json
 venv-paper
 
 data/
+
+train_scripts/logs

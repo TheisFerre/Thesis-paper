@@ -1,7 +1,0 @@
-INFO:__main__:Fitting model at time: 2021-09-02 18:48:48.103279
-Traceback (most recent call last):
-  File "train_model.py", line 170, in <module>
-    model, train_loss, test_loss = train_model(
-  File "train_model.py", line 91, in train_model
-    optimizer = getattr(optim, optimizer_name)(model.parameters(), lr=learning_rate, weight_decay=weight_decay)
-NameError: name 'optimizer_name' is not defined

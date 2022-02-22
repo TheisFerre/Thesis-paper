@@ -1,9 +1,0 @@
-INFO:__main__:hello
-INFO:__main__:citibike-tripdata-GRID.pkl
-INFO:__main__:citibike-tripdata-GRID
-Traceback (most recent call last):
-  File "/zhome/2b/7/117471/Thesis/src/models/compare_metalearning.py", line 392, in <module>
-    edgeconv_trained_model = load_edgeconv_model(edgeconv_abs_path, trained=True)
-  File "/zhome/2b/7/117471/Thesis/src/models/compare_metalearning.py", line 87, in load_edgeconv_model
-    edgeconv_params.pop("save_dir")
-KeyError: 'save_dir'

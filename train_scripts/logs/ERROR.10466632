@@ -1,7 +1,0 @@
-INFO:__main__:Fitting model at time: 2021-09-22 08:09:30.685823
-Traceback (most recent call last):
-  File "train_model.py", line 187, in <module>
-    model, train_loss, test_loss = train_model(
-  File "train_model.py", line 100, in train_model
-    assert False, "Please provide a correct model name!"
-AssertionError: Please provide a correct model name!

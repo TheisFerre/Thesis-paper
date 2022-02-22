@@ -1,6 +1,0 @@
-usage: train_model.py [-h] [-d DATA] [-m MODEL] [-n NUM_HISTORY]
-                      [-t TRAIN_SIZE] [-b BATCH_SIZE] [-e EPOCHS]
-                      [-wd WEIGHT_DECAY] [-lr LEARNING_RATE] [-f LR_FACTOR]
-                      [-p LR_PATIENCE] [-hd HIDDEN_SIZE] [-o OPTIMIZER]
-                      [-no NODE_OUT_FEATURE] [-dp DROPOUT] [-g]
-train_model.py: error: argument -hd/--hidden_size: invalid int value: 'HIDDEN_SIZE'

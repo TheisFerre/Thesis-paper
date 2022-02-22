@@ -1,5 +1,0 @@
-INFO:__main__:{}
-Traceback (most recent call last):
-  File "/zhome/2b/7/117471/Thesis/src/models/train_meta.py", line 189, in <module>
-    WEATHER_FEATURES = train_data.weather_information.shape[-1]
-NameError: name 'train_data' is not defined

@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "/zhome/2b/7/117471/Thesis/src/models/performance_ablation.py", line 183, in <module>
-    losses_dict = eval_model(model, exclude_datalist)
-TypeError: eval_model() missing 1 required positional argument: 'k'

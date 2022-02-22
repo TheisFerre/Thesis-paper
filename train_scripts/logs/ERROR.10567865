@@ -1,7 +1,0 @@
-UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
-Traceback (most recent call last):
-  File "/zhome/2b/7/117471/Thesis/src/models/compare_metalearning.py", line 327, in <module>
-    losses = eval_models(
-  File "/zhome/2b/7/117471/Thesis/src/models/compare_metalearning.py", line 278, in eval_models
-    print(f"Meta Train Loss: {query_loss_meta.item()}")
-AttributeError: 'float' object has no attribute 'item'

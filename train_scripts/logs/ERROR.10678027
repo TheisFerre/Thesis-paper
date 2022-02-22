@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "/zhome/2b/7/117471/Thesis/src/models/compare_metalearning.py", line 385, in <module>
-    edgeconv_trained_model = load_edgeconv_model(edgeconv_abs_path, trained=True)
-  File "/zhome/2b/7/117471/Thesis/src/models/compare_metalearning.py", line 90, in load_edgeconv_model
-    edgeconv = Edgeconvmodel(
-TypeError: __init__() got an unexpected keyword argument 'save_dir'

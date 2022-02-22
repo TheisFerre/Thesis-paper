@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "train_model.py", line 166, in <module>
-    open_file = open(args.data, "rb")
-FileNotFoundError: [Errno 2] No such file or directory: '../../data/processed/citibike-tripdata2014.pkl'

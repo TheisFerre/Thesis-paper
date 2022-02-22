@@ -1,9 +1,0 @@
-INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/aglation-non_augmented/yellow-taxi2020-nov-REGION.pkl
-INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/aglation-non_augmented/LYFT2014-july-sep-GRID.pkl
-INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/aglation-non_augmented/TLC2018-FHV-aug-REGION.pkl
-INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/aglation-non_augmented/green-taxi2020-dec-GRID.pkl
-INFO:__main__:/zhome/2b/7/117471/Thesis/data/processed/aglation-non_augmented/yellow-taxi2020-nov-GRID.pkl
-INFO:__main__:{'yellow-taxi2020-nov-REGION': <torch_geometric.data.dataloader.DataLoader object at 0x7f991e2ddbb0>, 'LYFT2014-july-sep-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7f991e2ddc10>, 'TLC2018-FHV-aug-REGION': <torch_geometric.data.dataloader.DataLoader object at 0x7f991e0d0790>, 'green-taxi2020-dec-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7f991dc7a070>, 'yellow-taxi2020-nov-GRID': <torch_geometric.data.dataloader.DataLoader object at 0x7f991e1533a0>}
-INFO:__main__:Fitting model at time: 2021-12-02 19:37:55.231476
-UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the gradient for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more information.
-UserWarning: torch.nn.utils.clip_grad_norm is now deprecated in favor of torch.nn.utils.clip_grad_norm_.

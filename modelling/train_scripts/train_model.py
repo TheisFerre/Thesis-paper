@@ -5,7 +5,7 @@ from torch.optim.lr_scheduler import ReduceLROnPlateau
 import numpy as np
 import dill
 from data_processing.process_dataset import Dataset
-from torch_geometric.data import DataLoader
+from torch_geometric.loader import DataLoader
 import argparse
 import datetime
 import logging

@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "/zhome/2b/7/117471/Thesis/src/models/train_meta.py", line 122, in <module>
-    parser.add_argument("ex", "--exclude", type=str, default="", help="comma seperated list of datasets to exclude")
-  File "/appl/python/3.8.11/lib/python3.8/argparse.py", line 1354, in add_argument
-    kwargs = self._get_optional_kwargs(*args, **kwargs)
-  File "/appl/python/3.8.11/lib/python3.8/argparse.py", line 1489, in _get_optional_kwargs
-    raise ValueError(msg % args)
-ValueError: invalid option string 'ex': must start with a character '-'
