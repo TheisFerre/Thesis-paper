@@ -9,12 +9,12 @@ from torch.utils.data import Dataset
 
 
 class CustomData(Data):
-    def __cat_dim__(self, key, value):
+    def __cat_dim__(self, key, value, *args, **kwargs):
         cat_set = {"weather", "time_encoding", "y", "latitude", "longitude"}
         if key in cat_set:
             return None
         else:
-            return super().__cat_dim__(key, value)
+            return super().__cat_dim__(key, value, *args, **kwargs)
 
 
 class CustomTemporalSignal(Dataset):

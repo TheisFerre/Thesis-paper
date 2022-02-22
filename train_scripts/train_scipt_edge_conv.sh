@@ -10,14 +10,14 @@
 #BSUB -e logs/ERROR.%J #Error log file
 echo "Starting:"
 
-#cd ~/Thesis/src/models
-cd /zhome/2b/7/117471/Thesis-paper/modelling/train_scripts
+cd ~/Documents/Thesis-paper/modelling/train_scripts
+#cd /zhome/2b/7/117471/Thesis-paper/modelling/train_scripts
 
-#source ~/Thesis/venv-thesis/bin/activate
-source /zhome/2b/7/117471/Thesis-paper/venv-paper/bin/activate
+source ~/Documents/Thesis-paper/venv-paper/bin/activate
+#source /zhome/2b/7/117471/Thesis-paper/venv-paper/bin/activate
 
-DATA=/zhome/2b/7/117471/Thesis-paper/data/hour1/biketown-portland-HOUR1-GRID5.pkl
-#DATA=/Users/theis/Documents/Thesis-paper/data/processed/green-taxi2020-dec-REGION.pkl
+#DATA=/zhome/2b/7/117471/Thesis-paper/data/hour1/biketown-portland-HOUR1-GRID5.pkl
+DATA=~/Documents/Thesis-paper/data/processed/hour1/biketown-portland-HOUR1-GRID5.pkl
 MODEL=edgeconv
 NUM_HISTORY=12
 TRAIN_SIZE=0.9
