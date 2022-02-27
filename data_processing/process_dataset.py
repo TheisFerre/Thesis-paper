@@ -9,6 +9,7 @@ import torch
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from data_processing.encode_externals import Weather_container
 from datetime import timedelta
+from scipy.spatial import KDTree
 
 
 def load_csv_dataset(
@@ -133,6 +134,72 @@ def neighbourhood_adjacency_matrix(region_ordering: List[str]):
                         neighbourhood_graph[idx_connection, i] = 1
 
     return neighbourhood_graph
+
+
+def distance_adjacency_matrix(
+    rides_df: pd.DataFrame, 
+    region_ordering: List[str], 
+    id_col: str, 
+    time_col: str, 
+    neighbours: int,
+    lat_col,
+    lng_col
+) -> pd.DataFrame:
+    """
+    Creates adjacency matrix, from closest regions
+
+    Args:
+        rides_df ([type]): [description]
+    """
+
+    adj_graph = np.zeros((len(region_ordering), len(region_ordering)))
+    node_list = []
+    for i, node_base in tqdm(enumerate(region_ordering), total=len(region_ordering)):
+        compare_nodes = []
+        df_1 = rides_df[rides_df[id_col] == node_base]
+        df1_mean_lat = df_1[lat_col].mean()
+        df1_mean_lng = df_1[lng_col].mean()
+        df1_node = np.array([df1_mean_lat, df1_mean_lng])
+        node_list.append(df1_node)
+
+    tree = KDTree(np.asarray(node_list))
+
+    for i, dat in enumerate(tree.data):
+        dists, idx = tree.query(dat, k=neighbours+1, workers=-1)
+
+        for k in range(1, neighbours+1):
+            adj_graph[i, idx[k]] = 1
+            adj_graph[idx[k], i] = 1
+
+
+
+    """for i, node_base in tqdm(enumerate(region_ordering), total=len(region_ordering)):
+        compare_nodes = []
+        df_1 = rides_df[rides_df[id_col] == node_base]
+        df1_mean_lat = df_1[lat_col].mean()
+        df1_mean_lng = df_1[lng_col].mean()
+        df1_node = np.array([df1_mean_lat, df1_mean_lng])
+        for j, node_compare in enumerate(region_ordering):
+            if i == j:
+                continue
+            
+            df_comp = rides_df[rides_df[id_col] == node_compare]
+            dfcomp_mean_lat = df_comp[lat_col].mean()
+            dfcomp_mean_lng = df_comp[lng_col].mean()
+            dfcomp_node = np.array([dfcomp_mean_lat, dfcomp_mean_lng])
+
+            compare_nodes.append(dfcomp_node)
+            
+        compare_nodes = np.asarray(compare_nodes)
+        deltas = compare_nodes - df1_node
+        dists = np.einsum("ij,ij->i", deltas, deltas)
+        closest_idx = np.argsort(dists)
+        #print(closest_idx)
+        for k in range(neighbours):
+            adj_graph[i, closest_idx[k]] = 1
+            adj_graph[closest_idx[k], i] = 1"""
+
+    return adj_graph
 
 
 def correlation_adjacency_matrix(

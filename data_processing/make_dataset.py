@@ -6,6 +6,7 @@ from data_processing.process_dataset import (
     neighbourhood_adjacency_matrix,
     correlation_adjacency_matrix,
     features_targets_and_externals,
+    distance_adjacency_matrix,
     Dataset,
 )
 from data_processing.encode_externals import Weather_container, time_encoder
@@ -65,7 +66,8 @@ def main(input_filepath, output_filepath):
                     if file_dict["GRAPH"]:
                         adj_mat = neighbourhood_adjacency_matrix(region_ordering=region_ordering)
                     else:
-                        adj_mat = np.eye(len(region_ordering))
+                        adj_mat = neighbourhood_adjacency_matrix(region_ordering=region_ordering)
+                        # adj_mat = np.eye(len(region_ordering))
 
                     # encode time & weather
                     mean_lon = df[file_dict["LNG_COL"]].mean()
@@ -132,7 +134,18 @@ def main(input_filepath, output_filepath):
                             rides_df=df, region_ordering=region_ordering, id_col="grid_id", time_col=file_dict["TIME_COL"]
                         )
                     else:
-                        adj_mat = np.eye(len(region_ordering))
+                        # creates adjacency based on distance
+                        logger.info("Distance adjacency")
+                        adj_mat = distance_adjacency_matrix(
+                            rides_df=df,
+                            region_ordering=region_ordering,
+                            id_col="grid_id",
+                            time_col=file_dict["TIME_COL"],
+                            neighbours=10,
+                            lat_col=file_dict["LAT_COL"],
+                            lng_col=file_dict["LNG_COL"],
+                        )
+                        #adj_mat = np.eye(len(region_ordering))
 
                     # encode time & weather
                     mean_lon = df[file_dict["LNG_COL"]].mean()
