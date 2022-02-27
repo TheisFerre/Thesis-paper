@@ -5,18 +5,17 @@ import torch
 import learn2learn as l2l
 
 from torch import nn, optim
-from src.data.process_dataset import Dataset
+from data_processing.process_dataset import Dataset
 
 import os
-from src.models.finetune_meta import finetune_model
-from src.models.models import Edgeconvmodel
-from torch_geometric.data import DataLoader
+from modelling.train_scripts.finetune_meta import finetune_model
+from modelling.models import Edgeconvmodel
+from torch_geometric.loader import DataLoader
 import dill
 import json
 import matplotlib.pyplot as plt
 import pandas as pd
 from collections import defaultdict
-from src.visualization.visualize import plot_losses
 import logging
 plt.rcParams["figure.figsize"] = (20,5)
 

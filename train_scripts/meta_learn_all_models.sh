@@ -31,8 +31,18 @@ NODE_OUT_FEATURES=10
 
 # citibike-tripdata-GRID,GM,TLC2018-FHV-aug-GRID,TLC2018-FHV-REGION,UBER2015-jan-june-GRID,citibike2014-tripdata-REGION,citibike2014-tripdata-GRID,UBER2015-jan-june-REGION,green,yellow-taxi2020-nov-REGION,LYFT,yellow-taxi2020-nov-GRID
 
+python /zhome/2b/7/117471/Thesis-paper/modelling/train_scripts/train_meta_edgeconv.py --data_dir $DATA_DIR --train_size $TRAIN_SIZE --batch_task_size $BATCH_TASK_SIZE \
+--k_shot $K_SHOT --adaptation_steps $ADAPTATION_STEPS --epochs $EPOCHS --adapt_lr $ADAPT_LR --meta_lr $META_LR --log_dir $LOG_DIR \
+--hidden_size $HIDDEN_SIZE --dropout_p $DROPOUT_P --node_out_features $NODE_OUT_FEATURES --exclude $EXCLUDE --gpu
 
-python /zhome/2b/7/117471/Thesis-paper/modelling/train_scripts/train_meta.py --data_dir $DATA_DIR --train_size $TRAIN_SIZE --batch_task_size $BATCH_TASK_SIZE \
+
+python /zhome/2b/7/117471/Thesis-paper/modelling/train_scripts/train_meta_gat.py --data_dir $DATA_DIR --train_size $TRAIN_SIZE --batch_task_size $BATCH_TASK_SIZE \
+--k_shot $K_SHOT --adaptation_steps $ADAPTATION_STEPS --epochs $EPOCHS --adapt_lr $ADAPT_LR --meta_lr $META_LR --log_dir $LOG_DIR \
+--hidden_size $HIDDEN_SIZE --dropout_p $DROPOUT_P --node_out_features $NODE_OUT_FEATURES --exclude $EXCLUDE --gpu
+
+
+
+python /zhome/2b/7/117471/Thesis-paper/modelling/train_scripts/train_transfer_edgeconv.py --data_dir $DATA_DIR --train_size $TRAIN_SIZE --batch_task_size $BATCH_TASK_SIZE \
 --k_shot $K_SHOT --adaptation_steps $ADAPTATION_STEPS --epochs $EPOCHS --adapt_lr $ADAPT_LR --meta_lr $META_LR --log_dir $LOG_DIR \
 --hidden_size $HIDDEN_SIZE --dropout_p $DROPOUT_P --node_out_features $NODE_OUT_FEATURES --exclude $EXCLUDE --gpu
 
