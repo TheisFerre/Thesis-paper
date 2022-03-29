@@ -353,9 +353,6 @@ def eval_models(
 
 EVAL_DICT = {}
 for dataset in os.listdir(DATASET_FOLDER):
-    #if dataset == "citibike-tripdata-HOUR1-REGION.pkl":
-    if "citibike" not in dataset:
-        continue
     if "GRID" in dataset:
         TYPE = "GRID"
     else:

@@ -162,6 +162,14 @@ if __name__ == "__main__":
     start_time = datetime.datetime.now()
     logger.info(str(vars(args)))
     logger.info(f"Fitting model at time: {str(start_time)}")
+
+    for dirs in os.listdir(args.model_path):
+        next_dir = os.path.join(args.model_path, dirs)
+        for f in os.listdir(next_dir):
+            if f == "vanilla_model.pth":
+                model_path = next_dir
+    args.model_path = model_path
+
     model, train_loss, test_loss = finetune_model(
         dataset=dataset,
         model_path=args.model_path,

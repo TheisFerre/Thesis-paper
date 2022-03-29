@@ -17,14 +17,14 @@ source ~/Thesis-paper/venv-paper/bin/activate
 
 DATA_DIR=/zhome/2b/7/117471/Thesis-paper/data/hour1
 TRAIN_SIZE=0.9
-BATCH_TASK_SIZE=10
+BATCH_TASK_SIZE=12
 K_SHOT=5
 ADAPTATION_STEPS=10
-EPOCHS=150
-ADAPT_LR=0.05
-META_LR=0.001
-EXCLUDE=boston
-LOG_DIR=/zhome/2b/7/117471/Thesis-paper/models/metalearning
+EPOCHS=500
+ADAPT_LR=0.005
+META_LR=0.0001
+EXCLUDE=taxis
+LOG_DIR=/zhome/2b/7/117471/Thesis-paper/models/metalearning/taxis
 HIDDEN_SIZE=46
 DROPOUT_P=0.2
 NODE_OUT_FEATURES=10
