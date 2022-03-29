@@ -67,6 +67,7 @@ def main(input_filepath, output_filepath):
                         adj_mat = neighbourhood_adjacency_matrix(region_ordering=region_ordering)
                     else:
                         adj_mat = neighbourhood_adjacency_matrix(region_ordering=region_ordering)
+                        # If we do not care about the graph (only for the edgeconv)
                         # adj_mat = np.eye(len(region_ordering))
 
                     # encode time & weather
@@ -145,7 +146,8 @@ def main(input_filepath, output_filepath):
                             lat_col=file_dict["LAT_COL"],
                             lng_col=file_dict["LNG_COL"],
                         )
-                        #adj_mat = np.eye(len(region_ordering))
+                        # If we do not care about the graph (only for the edgeconv)
+                        # adj_mat = np.eye(len(region_ordering))
 
                     # encode time & weather
                     mean_lon = df[file_dict["LNG_COL"]].mean()
