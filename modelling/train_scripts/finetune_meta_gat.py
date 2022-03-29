@@ -1,4 +1,4 @@
-from modelling.models import BaselineGATLSTM, Edgeconvmodel, GATLSTM, Encoder, Decoder, STGNNModel, BaselineGNNLSTM
+from modelling.models import BaselineGATLSTM, gatmodel, GATLSTM, Encoder, Decoder, STGNNModel, BaselineGNNLSTM
 import torch
 import torch.optim as optim
 from torch.optim.lr_scheduler import ReduceLROnPlateau
@@ -48,29 +48,30 @@ def finetune_model(
     time_features = train_dataset.time_encoding.shape[-1]
 
     with open(f"{model_path}/settings.json", "rb") as f:
-        edgeconv_params = json.load(f)
-    edgeconv_params.pop("data_dir")
-    edgeconv_params.pop("train_size")
-    edgeconv_params.pop("batch_task_size")
-    edgeconv_params.pop("k_shot")
-    edgeconv_params.pop("adaptation_steps")
-    edgeconv_params.pop("epochs")
-    edgeconv_params.pop("adapt_lr")
-    edgeconv_params.pop("meta_lr")
-    edgeconv_params.pop("log_dir")
-    edgeconv_params.pop("exclude")
-    edgeconv_params.pop("gpu")
+        gat_model_params = json.load(f)
+    gat_model_params.pop("data_dir")
+    gat_model_params.pop("train_size")
+    gat_model_params.pop("batch_task_size")
+    gat_model_params.pop("k_shot")
+    gat_model_params.pop("adaptation_steps")
+    gat_model_params.pop("epochs")
+    gat_model_params.pop("adapt_lr")
+    gat_model_params.pop("meta_lr")
+    gat_model_params.pop("log_dir")
+    gat_model_params.pop("exclude")
+    gat_model_params.pop("dropout_p")
+    gat_model_params.pop("gpu")
 
-
-    model = Edgeconvmodel(
+    model = GATLSTM(
         node_in_features=1,
         weather_features=weather_features,
         time_features=time_features,
         gpu=gpu,
-        **edgeconv_params
+        **gat_model_params
     )
-    edgeconv_state_dict = torch.load(f"{model_path}/model.pth", map_location=torch.device('cpu'))
-    model.load_state_dict(edgeconv_state_dict)
+
+    gat_state_dict = torch.load(f"{model_path}/gat_model.pth", map_location=torch.device('cpu'))
+    model.load_state_dict(gat_state_dict)
 
     criterion = torch.nn.MSELoss()
     model.to(DEVICE)
@@ -166,7 +167,7 @@ if __name__ == "__main__":
     for dirs in os.listdir(args.model_path):
         next_dir = os.path.join(args.model_path, dirs)
         for f in os.listdir(next_dir):
-            if f == "model.pth":
+            if f == "gat_model.pth":
                 model_path = next_dir
     args.model_path = model_path
 
@@ -203,27 +204,27 @@ if __name__ == "__main__":
         save_dir = args.data.split("/")[-1].split(".")[0]
         if not os.path.exists(f"{args.model_path}/{save_dir}"):
             os.mkdir(f"{args.model_path}/{save_dir}")
-        with open(f"{args.model_path}/{save_dir}/finetune_{TYPE}_settings.json", "w") as outfile:
+        with open(f"{args.model_path}/{save_dir}/finetune_{TYPE}_gat-model_settings.json", "w") as outfile:
             json.dump(args_dict, outfile)
         
         model.to("cpu")
-        torch.save(model.state_dict(), f"{args.model_path}/{save_dir}/finetuned_{TYPE}_model.pth")
+        torch.save(model.state_dict(), f"{args.model_path}/{save_dir}/finetuned_{TYPE}gat-model.pth")
 
         losses_dict = {"train_loss": train_loss, "test_loss": test_loss}
-        outfile = open(f"{args.model_path}/{save_dir}/finetune_{TYPE}_losses.pkl", "wb")
+        outfile = open(f"{args.model_path}/{save_dir}/finetune_{TYPE}_gat-model_losses.pkl", "wb")
         dill.dump(losses_dict, outfile)
         outfile.close()
     else:
         args_dict = vars(args)
         args_dict.pop("save_to_dir")
-        with open(f"{args.model_path}/finetune_{TYPE}_settings.json", "w") as outfile:
+        with open(f"{args.model_path}/finetune_{TYPE}_gat-model_settings.json", "w") as outfile:
             json.dump(args_dict, outfile)
         
         model.to("cpu")
-        torch.save(model.state_dict(), f"{args.model_path}/finetuned_{TYPE}_model.pth")
+        torch.save(model.state_dict(), f"{args.model_path}/finetuned_{TYPE}_gat-model.pth")
 
         losses_dict = {"train_loss": train_loss, "test_loss": test_loss}
-        outfile = open(f"{args.model_path}/finetune_{TYPE}_losses.pkl", "wb")
+        outfile = open(f"{args.model_path}/finetune_{TYPE}_gat-model_losses.pkl", "wb")
         dill.dump(losses_dict, outfile)
         outfile.close()
 

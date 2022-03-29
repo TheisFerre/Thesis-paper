@@ -10,13 +10,13 @@
 #BSUB -e logs/ERROR.%J #Error log file
 echo "Starting:"
 
-cd ~/Thesis/metalearning
+# cd ~/Thesis-paper/metalearning
 #cd /Users/theisferre/Documents/SPECIALE/Thesis/src/models
 
-source ~/Thesis/venv-thesis/bin/activate
+source ~/Thesis-paper/venv-paper/bin/activate
 
-DATA=/zhome/2b/7/117471/Thesis/data/processed/metalearning/citibike2014-tripdata-REGION.pkl
-MODEL_PATH=/zhome/2b/7/117471/Thesis/metalearning/NOT-BIKES/not-augmented/2021-10-28T09:19:05.778647
+DATA=/zhome/2b/7/117471/Thesis-paper/data/hour1/taxis-chicago-HOUR1-GRID10.pkl
+MODEL_PATH=/zhome/2b/7/117471/Thesis-paper/models/metalearning/taxis
 TRAIN_SIZE=0.9
 BATCH_SIZE=20
 EPOCHS=150
@@ -29,9 +29,11 @@ OPTIMIZER=RMSprop
 
 
 
-python /zhome/2b/7/117471/Thesis/src/models/finetune_meta.py --data $DATA --model_path $MODEL_PATH --train_size $TRAIN_SIZE --batch_size $BATCH_SIZE --epochs $EPOCHS --weight_decay $WEIGHT_DECAY --learning_rate $LEARNING_RATE --lr_patience $LR_PATIENCE --lr_factor $LR_FACTOR --optimizer $OPTIMIZER --save_to_dir --gpu
+python /zhome/2b/7/117471/Thesis-paper/modelling/train_scripts/finetune_meta.py --data $DATA --model_path $MODEL_PATH --train_size $TRAIN_SIZE --batch_size $BATCH_SIZE --epochs $EPOCHS --weight_decay $WEIGHT_DECAY --learning_rate $LEARNING_RATE --lr_patience $LR_PATIENCE --lr_factor $LR_FACTOR --optimizer $OPTIMIZER --save_to_dir --gpu
 
-python /zhome/2b/7/117471/Thesis/src/models/finetune_edgeconv.py --data $DATA --model_path $MODEL_PATH --train_size $TRAIN_SIZE --batch_size $BATCH_SIZE --epochs $EPOCHS --weight_decay $WEIGHT_DECAY --learning_rate $LEARNING_RATE --lr_patience $LR_PATIENCE --lr_factor $LR_FACTOR --optimizer $OPTIMIZER --save_to_dir --gpu
+python /zhome/2b/7/117471/Thesis-paper/modelling/train_scripts/finetune_mat_gat.py --data $DATA --model_path $MODEL_PATH --train_size $TRAIN_SIZE --batch_size $BATCH_SIZE --epochs $EPOCHS --weight_decay $WEIGHT_DECAY --learning_rate $LEARNING_RATE --lr_patience $LR_PATIENCE --lr_factor $LR_FACTOR --optimizer $OPTIMIZER --save_to_dir --gpu
+
+python /zhome/2b/7/117471/Thesis-paper/modelling/train_scripts/finetune_edgeconv.py --data $DATA --model_path $MODEL_PATH --train_size $TRAIN_SIZE --batch_size $BATCH_SIZE --epochs $EPOCHS --weight_decay $WEIGHT_DECAY --learning_rate $LEARNING_RATE --lr_patience $LR_PATIENCE --lr_factor $LR_FACTOR --optimizer $OPTIMIZER --save_to_dir --gpu
 
 
 # TRAINED MODELS

@@ -44,16 +44,6 @@ def train_model(
     gpu: bool = False
 ):
 
-    GAT_model = GATLSTM(
-        node_in_features=1,
-        weather_features=weather_features,
-        time_features=time_features,
-        node_out_features=10,
-        gpu=gpu,
-        hidden_size=hidden_size,
-        dropout_p=0.3
-    )
-
     model = Edgeconvmodel(
         node_in_features=1,
         weather_features=weather_features,
@@ -64,26 +54,10 @@ def train_model(
         dropout_p=dropout
     )
 
-    model_vanilla = Edgeconvmodel(
-        node_in_features=1,
-        weather_features=weather_features,
-        time_features=time_features,
-        node_out_features=node_out_features,
-        gpu=gpu,
-        hidden_size=hidden_size,
-        dropout_p=dropout
-    )
-
-    model_vanilla.to(DEVICE)
-    opt_finetune = optim.RMSprop(model_vanilla.parameters(), 0.001) #arbitrarily set lr
-
     model.to(DEVICE)
-    GAT_model.to(DEVICE)
 
     maml = l2l.algorithms.MAML(model, lr=adapt_lr, first_order=True)
-    maml_gat = l2l.algorithms.MAML(GAT_model, lr=adapt_lr, first_order=True)
 
-    opt_gat = optim.Adam(maml_gat.parameters(), meta_lr)
     opt = optim.Adam(maml.parameters(), meta_lr)
     lossfn = torch.nn.MSELoss(reduction='mean')
 
@@ -94,79 +68,46 @@ def train_model(
     step_dict = {f_name: 0 for f_name in train_datasets.keys()}
     for epoch in range(epochs):
         opt.zero_grad()
-        opt_gat.zero_grad()
-        query_loss_vanilla = 0
         meta_train_loss = 0.0
-        meta_train_loss_gat = 0.0
-
 
         # num_evals = 0
         for f_name, task in random.sample(train_datasets.items(), batch_task_size):
             learner = maml.clone()
-            learner_gat = maml_gat.clone()
 
             support_data = next(iter(task)).to(DEVICE)
             query_data = next(iter(task)).to(DEVICE)
 
             for _ in range(adaptation_steps):  # adaptation_steps
+
                 support_preds = learner(support_data)
                 support_loss = lossfn(support_data.y, support_preds.view(support_data.num_graphs, -1))
                 learner.adapt(support_loss)
 
-                support_preds_gat = learner_gat(support_data)
-                support_loss_gat = lossfn(support_data.y, support_preds_gat.view(support_data.num_graphs, -1))
-                learner_gat.adapt(support_loss_gat)
+    
 
-
-                opt_finetune.zero_grad(set_to_none=True)
-                out = model_vanilla(support_data)
-                loss = lossfn(support_data.y, out.view(support_data.num_graphs, -1))
-                loss.backward()
-
-
-                opt_finetune.step()
-            
             query_preds = learner(query_data)
             query_loss = lossfn(query_data.y, query_preds.view(query_data.num_graphs, -1))
             writer.add_scalar(tag=f"{f_name}/query_loss", scalar_value=query_loss.item(), global_step=step_dict[f_name])
             step_dict[f_name] += 1
 
-            query_preds_gat = learner_gat(query_data)
-            query_loss_gat = lossfn(query_data.y, query_preds_gat.view(query_data.num_graphs, -1))
-            writer.add_scalar(tag=f"{f_name}/gat_query_loss", scalar_value=query_loss_gat.item(), global_step=step_dict[f_name])
-            step_dict[f_name] += 1
-
-            with torch.no_grad():
-                out = model_vanilla(query_data)
-                loss = lossfn(query_data.y, out.view(query_data.num_graphs, -1))
-                query_loss_vanilla += loss
-
+           
             meta_train_loss += query_loss
-            meta_train_loss_gat += query_loss_gat
 
-        query_loss_vanilla = query_loss_vanilla / batch_task_size
         meta_train_loss = meta_train_loss / batch_task_size
-        meta_train_loss_gat = meta_train_loss_gat / batch_task_size
 
         if epoch % 1 == 0:
             logger.info(f"Epoch: {epoch+1}")
             logger.info(f"Meta Train Loss: {meta_train_loss.item()}")
-            logger.info(f"(gat) Meta Train Loss: {meta_train_loss_gat.item()}")
             logger.info(8 * "#")
         
         writer.add_scalar(tag=f"Meta/loss", scalar_value=meta_train_loss.item(), global_step=epoch)
-        writer.add_scalar(tag=f"Meta/gat_loss", scalar_value=meta_train_loss_gat.item(), global_step=epoch)
-        #writer.add_scalar(tag=f"vanilla/loss", scalar_value=query_loss_vanilla.item(), global_step=epoch)
 
         meta_train_loss.backward()
-        meta_train_loss_gat.backward()
         torch.nn.utils.clip_grad_norm_(maml.parameters(), 1)
-        torch.nn.utils.clip_grad_norm_(maml_gat.parameters(), 1)
 
         opt.step()
-        opt_gat.step()
     
-    return model, model_vanilla, GAT_model
+    return model
 
 
 
@@ -232,7 +173,7 @@ if __name__ == "__main__":
     else:
         log_dir = None
 
-    model, vanilla_model, gat_model = train_model(
+    model = train_model(
         train_datasets=train_dataloader_dict,
         test_datasets=test_dataloader_dict,
         adaptation_steps=args.adaptation_steps,
@@ -252,66 +193,6 @@ if __name__ == "__main__":
     model.to("cpu")
     torch.save(model.state_dict(), f"{log_dir}/model.pth")
 
-    vanilla_model.to("cpu")
-    torch.save(vanilla_model.state_dict(), f"{log_dir}/vanilla_model.pth")
-
-    gat_model.to("cpu")
-    torch.save(gat_model.state_dict(), f"{log_dir}/gat_model.pth")
-
     args_dict = vars(args)
     with open(f"{log_dir}/settings.json", "w") as outfile:
         json.dump(args_dict, outfile)
-
-    """end_time = datetime.datetime.now()
-    end_time_str = end_time.strftime("%Y-%m-%d %H:%M:%S")
-    td = end_time - start_time
-    minutes = round(td.total_seconds() / 60, 2)
-    totsec = td.total_seconds()
-    h = int(totsec // 3600)
-    m = int((totsec % 3600) // 60)
-    sec = int((totsec % 3600) % 60)
-    logger.info(f"Total training time: {h}:{m}:{sec}")
-    logger.info(f"Average Epoch time: {round(minutes/args.epochs, 2)} minutes")
-    cur_dir = os.getcwd()
-    while True:
-        split_dir = cur_dir.split("/")
-        if "Thesis" not in split_dir:
-            break
-        else:
-            if split_dir[-1] == "Thesis":
-                break
-            else:
-                os.chdir("..")
-                cur_dir = os.getcwd()
-    os.chdir("models")
-    cur_dir = os.getcwd()
-
-    logger.info(f"Saving files to {cur_dir}/{args.model}_{end_time_str}")
-    os.mkdir(f"{args.model}_{end_time_str}")
-
-    args_dict = vars(args)
-    with open(f"{args.model}_{end_time_str}/settings.json", "w") as outfile:
-        json.dump(args_dict, outfile)
-
-    losses_dict = {"train_loss": train_loss, "test_loss": test_loss}
-    outfile = open(f"{args.model}_{end_time_str}/losses.pkl", "wb")
-    dill.dump(losses_dict, outfile)
-    outfile.close()
-
-    model.to("cpu")
-    torch.save(model.state_dict(), f"{args.model}_{end_time_str}/model.pth")
-
-    logger.info("Files saved successfully")
-
-    os.chdir(f"{args.model}_{end_time_str}")
-    os.mkdir(f"logs")
-
-    target_dir = "logs"
-    source_dir = f"{os.getenv('HOME')}/.lsbatch"
-
-    copy_tree(source_dir, target_dir)
-    
-    for f in os.listdir(target_dir):
-        if not f.endswith("err") and not f.endswith("out"):
-            os.remove(f"{target_dir}/{f}")"""
-    
